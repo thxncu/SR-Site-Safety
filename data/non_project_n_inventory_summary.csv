@@ -1,0 +1,10 @@
+project_letter,project_reference,source_scope_type,source_population_n,relevant_n,not_relevant_n,coverage_records_n,formal_heading_only_n,formal_too_general_n,resolvable_association_sources_n,unresolved_association_sources_n,no_resolved_relevant_destination_n,SR-Site-stage SKB association,Earlier-stage SKB association,Original-inventory reference,SKB rationale without identifiable destination,No identifiable documentary destination
+A,AECL94,Project/concept-specific,281,261,20,10,0,10,9,1,1,6,1,2,1,0
+E,SFR/SFL 02,Repository-type encyclopedia,123,96,27,1,0,1,0,1,1,0,0,0,0,1
+H,HMIP93,Project/concept-specific,79,69,10,2,0,2,1,1,1,1,0,0,1,0
+I,IRUS97,Project/concept-specific,144,115,29,2,0,2,2,0,0,1,0,1,0,0
+J,SKIB89,Project/concept-specific,158,126,32,24,16,8,12,12,13,1,1,11,0,11
+K,KRIS94,Project/concept-specific,258,211,47,0,0,0,0,0,0,0,0,0,0,0
+M,MOL94,Project/concept-specific,130,109,21,11,4,7,9,2,2,0,6,3,0,2
+S,SITE-94,Project/site-specific,106,104,2,1,0,1,0,1,1,0,0,0,0,1
+W,WIPP96,Project/site-specific,246,209,37,4,0,4,3,1,1,1,1,1,1,0

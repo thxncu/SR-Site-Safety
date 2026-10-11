@@ -1,0 +1,18 @@
+{
+  "project_n_population": 146,
+  "project_n_coverage": 145,
+  "project_n_coverage_heading_reason": 145,
+  "project_n_coverage_numeric_parents": 15,
+  "project_n_coverage_numeric_leaves": 130,
+  "project_n_coverage_description_empty": 144,
+  "project_n_coverage_comments_empty": 145,
+  "project_n_retained_ids": [
+    "N 2.2.12"
+  ],
+  "non_n_coverage_heading_reason": 20,
+  "non_n_coverage_heading_reason_by_inventory": {
+    "J": 16,
+    "M": 4
+  },
+  "hierarchy_rule": "Identifier X is a numeric parent only when another imported N identifier begins X followed by a period. This measures the archived identifier tree, not semantic subsumption or the sufficiency of coverage."
+}

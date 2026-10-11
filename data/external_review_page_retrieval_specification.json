@@ -1,0 +1,65 @@
+{
+  "page_frame": [
+    {
+      "source": "SSM 2012:34",
+      "stem": "SSM_2012_34",
+      "first": 11,
+      "last": 27,
+      "offset": 8,
+      "context_pages": [
+        26,
+        27
+      ],
+      "frame_description": "Printed pp. 3–19, Sections 1–3"
+    },
+    {
+      "source": "SSM 2012:36",
+      "stem": "SSM_2012_36",
+      "first": 11,
+      "last": 51,
+      "offset": 8,
+      "context_pages": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "frame_description": "Printed pp. 3–43, Sections 1–5"
+    },
+    {
+      "source": "OECD/NEA 2012",
+      "stem": "NEA_7084_2012",
+      "first": 11,
+      "last": 137,
+      "offset": 2,
+      "context_pages": [
+        12,
+        13,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "frame_description": "Printed pp. 9–135, High-level findings and Chapters 1–4"
+    }
+  ],
+  "normalization": "Lowercase; join alphabetic words split by a hyphen and line break; no stemming beyond listed regular expressions.",
+  "term_families": {
+    "fep": "\\bfep(?:s)?\\b",
+    "traceability": "traceab",
+    "database": "databas",
+    "document_control": "document\\s+(?:and\\s+data\\s+)?control",
+    "data_control": "data\\s+(?:and\\s+document\\s+)?control",
+    "qualification": "qualif",
+    "quality_assurance": "quality\\s+assurance|\\bqa\\b",
+    "cross_reference": "cross[-\\s]?(?:referenc|document)",
+    "mapping": "\\b(?:mapping|mapped)\\b",
+    "screening": "\\b(?:screening|screened)\\b"
+  },
+  "page_retrieval_role": "Reproducible coverage aid. Nonmatching pages are not coded as substantively irrelevant; candidate pages are not an exhaustive passage denominator.",
+  "passage_selection_role": "The 42 analytical statements are purposively selected, with row-level inclusion rationale and source locators. They do not exhaust eligible statements or represent direction prevalence."
+}

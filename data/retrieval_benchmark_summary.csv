@@ -1,0 +1,13 @@
+benchmark_scope,model,eligibility_rule,n_source_cases,n_Project_N_cases,n_empty_source_text_cases,eligible_candidate_n_min,eligible_candidate_n_max,cases_with_eligible_endpoint_n,no_eligible_candidate_n,no_endpoint_eligible_n,median_best_rank_when_endpoint_eligible,hit_at_1_n,hit_at_1_fraction,hit_at_5_n,hit_at_5_fraction,hit_at_10_n,hit_at_10_fraction
+strict_source_endpoints,baseline_text_fields,shared_IFEP_required,18,0,0,5,186,16,0,2,1.0,10,0.5555555555555556,13,0.7222222222222222,15,0.8333333333333334
+strict_source_endpoints,baseline_text_fields,no_IFEP_eligibility_filter,18,0,0,1301,1301,18,0,0,1.0,10,0.5555555555555556,14,0.7777777777777778,14,0.7777777777777778
+strict_source_endpoints,title_only_ablation,shared_IFEP_required,18,0,0,5,186,16,0,2,14.0,5,0.2777777777777778,7,0.3888888888888889,8,0.4444444444444444
+strict_source_endpoints,title_only_ablation,no_IFEP_eligibility_filter,18,0,0,1301,1301,18,0,0,21.5,5,0.2777777777777778,7,0.3888888888888889,8,0.4444444444444444
+strict_source_endpoints,missing_text_title_fallback,shared_IFEP_required,18,0,0,5,186,16,0,2,1.0,10,0.5555555555555556,13,0.7222222222222222,15,0.8333333333333334
+strict_source_endpoints,missing_text_title_fallback,no_IFEP_eligibility_filter,18,0,0,1301,1301,18,0,0,1.0,10,0.5555555555555556,14,0.7777777777777778,14,0.7777777777777778
+broader_directional_references,baseline_text_fields,shared_IFEP_required,28,0,0,5,186,26,0,2,2.0,12,0.42857142857142855,20,0.7142857142857143,23,0.8214285714285714
+broader_directional_references,baseline_text_fields,no_IFEP_eligibility_filter,28,0,0,1301,1301,28,0,0,2.0,12,0.42857142857142855,21,0.75,22,0.7857142857142857
+broader_directional_references,title_only_ablation,shared_IFEP_required,28,0,0,5,186,26,0,2,7.5,7,0.25,9,0.32142857142857145,15,0.5357142857142857
+broader_directional_references,title_only_ablation,no_IFEP_eligibility_filter,28,0,0,1301,1301,28,0,0,8.0,7,0.25,9,0.32142857142857145,15,0.5357142857142857
+broader_directional_references,missing_text_title_fallback,shared_IFEP_required,28,0,0,5,186,26,0,2,2.0,12,0.42857142857142855,20,0.7142857142857143,23,0.8214285714285714
+broader_directional_references,missing_text_title_fallback,no_IFEP_eligibility_filter,28,0,0,1301,1301,28,0,0,2.0,12,0.42857142857142855,21,0.75,22,0.7857142857142857

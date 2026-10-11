@@ -1,0 +1,7 @@
+filename,sha256,derivation,redistributed
+SSM_2012_34.pdf,0a6d0f7a664e7c5fabe2ea286f26107a5c269b029780870b9fb4fe4e27ba2ee3,Publisher-supplied PDF,False
+SSM_2012_34.txt,caeb1bdeab79b46994a918bb983a30001a842bcc584c8a9fa0d9b4cdecdab2cb,pdftotext -layout; Poppler 24.02.0; byte-identical regeneration verified,False
+SSM_2012_36.pdf,087e7fca4ed95d799a4ad8e4799f75541347e9344daf4cf2fb8d59d79684aaac,Publisher-supplied PDF,False
+SSM_2012_36.txt,bdb24fffb5c97264f05ff6301f6a2c32fb0f055bf0112743a4670f25431fec39,pdftotext -layout; Poppler 24.02.0; byte-identical regeneration verified,False
+NEA_7084_2012.pdf,5aedf85cdae6e58bb7e67a72656710a50f7da18fbc4efc06e06f69ecc81950d8,Publisher-supplied PDF,False
+NEA_7084_2012.txt,3cf2ab99d5ea43c965ce046e95999e1a9b3bdbeb3b8f965d29c869bd9c67db64,pdftotext -layout; Poppler 24.02.0; byte-identical regeneration verified,False

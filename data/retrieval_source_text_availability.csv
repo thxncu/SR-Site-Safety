@@ -1,0 +1,201 @@
+pfep_id,project_letter,source_title,source_text_empty,source_text_characters,source_text_words,word_vector_nonzero_features,character_vector_nonzero_features,source_ifep_count,pfep_name_empty,pfep_description_empty,pfep_comments_empty,comments_needs_discussion_empty,assessment_basis_comment_empty,original_inventory_text_empty,skb_decision_text_empty,documentary_class,documentary_unresolved,no_resolved_relevant_destination
+A 1.04,A,Boundary conditions,0,283,36,35,563,1,0,0,1,1,0,0,0,SKB rationale without identifiable destination,1,1
+A 1.10,A,Chemical interactions,0,1500,211,178,1801,1,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+A 1.25,A,Coupled processes,0,1364,169,148,1696,2,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+A 1.34,A,Formation of cracks,0,1219,184,116,1496,2,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+A 1.39,A,Global effects,0,927,141,99,1316,2,0,0,1,0,1,0,0,Original-inventory reference,0,0
+A 1.78,A,Stability,0,381,59,45,665,1,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+A 1.81,A,Temperature effects,0,682,94,93,978,1,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+A 1.83,A,Time dependence,0,866,128,88,1154,2,0,0,1,0,1,0,0,Original-inventory reference,0,0
+A 2.32,A,Groundwater composition,0,1457,204,161,1540,1,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+A 3.085,A,Recycling,0,656,96,83,1047,1,0,0,1,0,1,0,0,Earlier-stage SKB association,0,0
+J 2.3.02,J,Electro-chemical cracking,0,167,22,14,332,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 3.1.08,J,Near field buffer chemistry,0,185,29,25,348,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 3.1.12,J,Perturbed buffer material chemistry,0,183,29,20,321,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 4.1.03,J,"Colloids, complexing agents",0,185,28,21,339,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 4.1.07,J,Thermochemical change,0,849,122,93,1184,2,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 4.2.02.2,J,Hydraulic conductivity change - Excavation/backfilling effect,0,112,16,19,235,3,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 4.2.02.3,J,Mechanical effects - Excavation/backfilling effects,0,104,16,16,210,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 4.2.05,J,Changes in Groundwater Flow,0,4430,676,384,3757,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 5.07,J,Poorly designed repository,0,388,65,43,622,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 5.08,J,Poorly constructed repository,0,421,69,40,693,2,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 5.18,J,Enhanced groundwater flow,0,166,26,19,278,1,0,0,1,1,1,0,1,Original-inventory reference,0,1
+J 5.19,J,Effect of plate movements,0,261,48,25,389,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 5.21,J,Future boreholes and undetected past boreholes,0,83,15,11,139,2,0,0,1,1,1,0,1,SR-Site-stage SKB association,0,0
+J 5.23,J,Changed hydrostatic pressure on canister,0,69,8,7,143,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 5.24,J,Stress changes of conductivity,0,199,29,28,346,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 5.25,J,Dissolution of fracture fillings/precipitations,0,81,13,13,159,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 5.46,J,Groundwater recharge/discharge,0,117,22,15,192,2,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 6.03,J,"Far field hydrochemistry - acids, oxidants, nitrate",0,465,72,38,795,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 6.08,J,Human induced climate change,0,160,25,23,262,1,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 6.12,J,Undetected discontinuities,0,87,12,11,182,1,0,0,1,1,1,0,1,Original-inventory reference,0,0
+J 6.14,J,Tectonic activity - large scale,0,181,27,22,337,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 7.01,J,Accumulation in sediments,0,75,12,7,149,2,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+J 7.02,J,Accumulation in peat,0,178,26,17,299,2,0,0,1,0,1,0,0,Earlier-stage SKB association,1,1
+J 7.03,J,Intrusion into accumulation zone in the biosphere,0,75,12,7,149,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+N 1.1,N,EXTRA-TERRESTRIAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.1.1,N,Meteorite Impact,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.1.2,N,Solar insolation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2,N,GEOLOGICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.1,N,Plate movement/tectonic change,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.10,N,Fault generation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.11,N,Rock heterogeneity,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.12,N,Undetected features,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.13,N,Natural gas intrusion,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.2,N,Changes in the Earth's magnetic field,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.3,N,Magmatic activity,0,22,2,1,43,1,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+N 1.2.4,N,Metamorphic activity,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.5,N,Diagenesis,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.6,N,Uplift and subsidence,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.7,N,Diapirism,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.8,N,Seismicity,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.2.9,N,Fault activation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3,N,CLIMATOLOGICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3.1,N,"Precipitation, temperature and soil water balance",1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3.2,N,"Extremes of precipitation, snow melt and associated flooding",1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3.3,N,"Coastal surge, storms and hurricanes",1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3.4,N,Sea-level rise/fall,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3.5,N,Periglacial effects,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3.6,N,Glaciation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.3.7,N,No ice age,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4,N,GEOMORPHOLOGICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.1,N,Land slide,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.10,N,Frost weathering,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.2,N,Denudation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.3,N,"River, stream, channel erosion",1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.4,N,River meander,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.5,N,Freshwater sediment transport and deposition,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.6,N,Coastal erosion and estuarine development,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.7,N,Marine sediment transport and deposition,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.8,N,Solifluction,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.4.9,N,Chemical denudation and weathering,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5,N,HYDROLOGICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.1,N,River flow and lake level changes,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.2,N,Site flooding,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.3,N,Recharge to groundwater,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.4,N,Groundwater discharge,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.5,N,Groundwater flow,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.6,N,Groundwater conditions,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.7,N,Saline or freshwater intrusion,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.8,N,Effects at saline-freshwater interface,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.5.9,N,Natural thermal effects,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6,N,TRANSPORT AND GEOCHEMICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.1,N,Advection and dispersion,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.10,N,Complexing agents,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.11,N,Fracture mineralisation and weathering,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.12,N,Accumulation in soils and organic debris,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.13,N,"Mass, isotopic and species dilution",1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.14,N,Chemical gradients,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.2,N,Diffusion,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.3,N,Matrix diffusion,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.4,N,Gas mediated transport,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.5,N,Multiphase flow and gas driven flow,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.6,N,Solubility limit,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.7,N,Sorption,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.8,N,"Dissolution, precipitation and crystallisation",1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.6.9,N,"Colloid formation, dissolution and transport",1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7,N,ECOLOGICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.1,N,Plant uptake,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.10,N,Plant and animal evolution,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.2,N,Animal uptake,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.3,N,Uptake by deep rooting species,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.4,N,Soil and sediment bioturbation,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.5,N,Pedogenesis,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.6,N,Chemical transformations,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.7,N,Microbial interactions,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.8,N,Ecological change,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 1.7.9,N,Ecological response to climate (e.g. desert formation),1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1,N,DESIGN AND CONSTRUCTION,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.1,N,Undetected past intrusions,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.10,N,Thermal effects,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.2,N,Investigation borehole seal failure and degradation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.3,N,Shaft or access tunnel seal failure and degradation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.4,N,"Stress field changes, settling, subsidence or caving",1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.5,N,Dewatering of host rock,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.6,N,Material defects,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.7,N,Common cause failures,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.8,N,Poor quality construction,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.1.9,N,Design modification,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2,N,OPERATION AND CLOSURE,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.1,N,Radioactive waste disposal error,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.10,N,Poor closure,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.11,N,Post-closure monitoring,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.2,N,"Inadequate backfill or compaction, voidage",1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.3,N,Co-disposal of reactive wastes,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.4,N,Inadvertant inclusion of undesirable materials,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.5,N,Heterogeneity of waste forms,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.6,N,Accidents during operation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.7,N,Sabotage,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.8,N,Repository flooding during operation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.2.9,N,Abandonment of unsealed repository,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3,N,POST-CLOSURE SUB-SURFACE ACTIVITIES (INTRUSION),1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.1,N,Recovery of repository materials,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.10,N,Injection of liquid wastes,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.11,N,Groundwater abstraction,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.12,N,Underground nuclear testing,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.2,N,Malicious intrusion,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.3,N,Exploratory drilling,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.4,N,Exploitation drilling,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.5,N,Geothermal energy production,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.6,N,Resource mining,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.7,N,Tunnelling,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.8,N,Underground construction,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.3.9,N,Archaeological investigation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4,N,POST-CLOSURE SURFACE ACTIVITIES,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.1,N,Loss of records,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.10,N,"Quarrying, near surface extraction",1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.2,N,"Dams and reservoirs, built/drained",1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.3,N,River rechannelled,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.4,N,Irrigation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.5,N,Altered soil or surface water chemistry,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.6,N,Land use changes,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.7,N,Agricultural and fisheries practice changes,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.8,N,"Demographic change, urban development",1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 2.4.9,N,Anthropogenic climate change,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.1,N,THERMAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.1.1,N,Differential elastic response,1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.1.2,N,Non-elastic response,1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.1.3,N,Host rock fracture aperture changes,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.1.4,N,"Induced hydrological changes (fluid pressure, density convection, viscosity)",1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.1.5,N,Induced chemical changes,1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2,N,CHEMICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2.1,N,Metallic corrosion,1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2.2,N,Interactions of host materials and groundwater with repository material,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2.3,N,Interactions of waste and repository materials with host materials,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2.4,N,Non-radioactive solute plume in geosphere,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2.5,N,Cellulosic degradation,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2.6,N,Introduced complexing agents and cellulosics,1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.2.7,N,Microbiological effects,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.3,N,MECHANICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.3.1,N,Canister or container movement,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.3.2,N,Changes in in-situ stress field,1,0,0,0,0,2,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.3.3,N,Embrittlement and cracking,1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.3.4,N,Subsidence/collapse,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.3.5,N,Fracturing,1,0,0,0,0,3,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.3.6,N,Gas effects,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.4,N,RADIOLOGICAL,1,0,0,0,0,0,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.4.1,N,Radiolysis,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.4.2,N,Material property changes,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.4.3,N,Nuclear criticality,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+N 3.4.4,N,Radioactive decay and ingrowth,1,0,0,0,0,1,0,1,1,1,1,1,1,No identifiable documentary destination,1,1
+S 027,S,Distribution and release of nuclides from the geosphere,0,1383,199,130,1126,5,0,0,0,1,1,0,1,No identifiable documentary destination,1,1
+H 1.6.3,H,Thermal effects: Chemical and microbiological changes,0,1272,189,141,1479,2,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+H 2.2.3,H,Groundwater flow,0,2983,444,229,2918,2,0,0,1,0,0,0,0,SKB rationale without identifiable destination,1,1
+W 1.050,W,Soil development,0,1773,276,154,1976,1,0,0,1,0,1,0,0,Earlier-stage SKB association,0,0
+W 1.072,W,Natural ecological development,0,1051,162,102,1193,2,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+W 2.072,W,Exothermic reactions,0,12362,1933,798,4633,1,0,0,1,1,1,0,1,Original-inventory reference,0,0
+W 2.100,W,Enhanced diffusion,0,1699,243,172,1728,2,0,0,1,0,1,0,0,SKB rationale without identifiable destination,1,1
+I 039,I,Vault chemical interactions,0,491,72,70,756,1,0,0,1,0,1,0,0,SR-Site-stage SKB association,0,0
+I 165,I,Interfaces (boundary conditions),0,899,132,104,1197,1,0,0,1,0,1,0,0,Original-inventory reference,0,0
+M 1.6.05,M,Multiple phase flow and gas driven flow,0,63,10,7,129,2,0,0,1,1,1,0,1,Original-inventory reference,0,0
+M 1.7.05,M,Pedogenesis,0,143,21,17,258,1,0,0,1,1,1,0,1,Earlier-stage SKB association,0,0
+M 1.7.06,M,Chemical transformation,0,173,25,18,273,1,0,0,1,1,1,0,1,Earlier-stage SKB association,0,0
+M 1.7.07,M,Microbial interactions,0,148,20,19,308,1,0,0,1,1,1,0,1,Earlier-stage SKB association,0,0
+M 1.7.08,M,Ecological change (e.g. forest fire cycles),0,158,23,16,305,1,0,0,1,1,1,0,1,Earlier-stage SKB association,0,0
+M 1.7.09,M,Ecological response to climate (e.g. desert formation),0,131,21,17,229,1,0,0,1,1,1,0,1,Earlier-stage SKB association,0,0
+M 2.1.04,M,"Stress field changes, setting, subsidence or caving",0,111,16,19,231,3,0,0,1,1,1,0,1,Original-inventory reference,0,0
+M 2.1.07,M,Common cause failures,0,117,17,13,247,2,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+M 2.2.01,M,Radioactive waste disposal error,0,202,27,31,421,2,0,0,1,1,1,0,1,No identifiable documentary destination,1,1
+M 2.4.06,M,Land use changes,0,131,20,20,241,1,0,0,1,1,1,0,1,Earlier-stage SKB association,0,0
+M 3.2.04,M,Non-radioactive solute plume in geophere,0,52,8,7,112,1,0,0,1,1,1,0,1,Original-inventory reference,0,0
+E SFL-00,E,FEPS SPECIFIC TO THE SFL REPOSITORY,0,288,47,39,481,0,0,0,1,1,1,0,1,No identifiable documentary destination,1,1

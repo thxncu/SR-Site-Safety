@@ -1,0 +1,110 @@
+{
+  "scope": "Two documentary routes are linked analytically to published process and safety-assessment context. The routes identify update checks; no transport calculation is rerun.",
+  "cases": [
+    {
+      "case_id": "PT12_H_1_6_3",
+      "technical_interpretation": "H 1.6.3 groups thermal effects on corrosion, microbial activity, solubility and other near-field processes. SKB excludes this broad entry and selects the buffer process Bu13, Alterations of impurities. The process report combines impurity reactions with diffusion, ion exchange and porewater chemistry. The PSAR treats impurity alteration as an indirect influence on safety functions, without assigning it a separate function {{SKB2010a;SKB2022}}. A scope check should therefore connect the applicable thermal effects to the model's temperature history, mineral inventory and groundwater boundary conditions. Pyrite illustrates the connection: it can consume oxygen and supply sulphide for copper corrosion. The PSAR requires sulphide below 0.5 wt.%, with total sulphur and organic carbon each below 1 wt.%; these are initial material requirements, whose effects enter the assessment of long-term evolution {{SKB2022}}. The PSAR already bounds impurity-related corrosion through inventory and transport arguments and uses that assessment to judge the material limits adequate. When buffer composition or thermal design changes, the safety-case owner should identify which geochemical and transport assumptions need reassessment. The Bu13 association identifies a process to inspect. Recording the applicable source aspects and their destinations specifies what the update must check after accounting for the source inventory's different waste assumptions.",
+      "observed_record_locators": "documentary_source_snapshot.json records H1.6.3, PROFEP.KSE record1332; NEA mapping_SRSite.KSE record716."
+    },
+    {
+      "case_id": "PT13_I_165",
+      "technical_interpretation": "I 165 provides a concrete route from an interface claim to an erosion scenario. Its imported description names four Project I destinations. One branch passes through I 058 to Bu18, Montmorillonite colloid release. The SKB handling row records buffer-colloid generation, while its comment questions the fit to the source description. Separate I 058 rows address colloid formation and stability through Ge18 and include colloid-facilitated transport through Ge24. The SR-Site assessment explicitly evaluates the corresponding physical sequence: dilute groundwater permits buffer erosion; loss of buffer density can reduce self-sealing and permit advection; advective transport supplies corroding species to the canister and changes radionuclide transport after failure. The assessment propagates reference, fully advective and diffusion-preserving cases from the buffer-advection analysis to the canister-corrosion analysis {{SKB2011}}. The concrete follow-up is to record which interface aspects the Bu18 branch covers and preserve the groundwater-composition assumptions, erosion model, mass-loss criterion and resulting corrosion calculation case. The current PSAR's 1,200 kg dry-buffer local-loss criterion illustrates the required detail: the value depends on the assumed geometry and homogenisation treatment {{SKB2022}}. The separate I 126 to C09 branch records no appreciable corrosion-rate increase from iron-copper galvanic coupling; that judgment should retain its own scope. The documentary check identifies the assessment assumptions and decisions that an update must revisit.",
+      "observed_record_locators": "documentary_source_snapshot.json records I165, PROFEP.KSE record2226; NEA mapping_SRSite.KSE record1364."
+    }
+  ],
+  "source_reports": [
+    {
+      "author": "Swedish Nuclear Fuel and Waste Management Company",
+      "year": 2010,
+      "title": "Buffer, backfill and closure process report for the safety assessment SR-Site",
+      "report_number": "TR-10-47",
+      "revision": "Updated January 2014",
+      "url": "https://skb.com/publication/2168448",
+      "locators": {
+        "Bu13_general": "Section 3.5.6, printed pp.124-132",
+        "Bu13_handling": "Section 3.5.6, printed pp.129-132",
+        "Bu18_handling": "Section 3.5.11, printed pp.158-160",
+        "diffusion_data_conditions": "Section 3.5.3, printed pp.112-114"
+      }
+    },
+    {
+      "author": "Swedish Nuclear Fuel and Waste Management Company",
+      "year": 2011,
+      "title": "Long-term safety for the final repository for spent nuclear fuel at Forsmark: Main report of the SR-Site project",
+      "report_number": "TR-11-01; Volumes I-III",
+      "revision": "Updated May 2015",
+      "url": "https://skb.com/publication/2345580",
+      "locators": {
+        "Buff1": "Volume I, Section 8.3.5, Figure 8-2, printed p.262",
+        "erosion_advection_mechanism": "Volume III, Section 12.2.1, printed pp.573-574",
+        "erosion_uncertainty_factors": "Volume III, Section 12.2.2, printed pp.577-579",
+        "corrosion_safety_function": "Volume III, Section 12.6.1, printed p.597",
+        "three_cases_propagated": "Volume III, Section 12.6.2, printed p.606"
+      }
+    },
+    {
+      "author": "Swedish Nuclear Fuel and Waste Management Company",
+      "year": 2022,
+      "title": "Post-closure safety for the final repository for spent nuclear fuel at Forsmark: Main report, PSAR version",
+      "report_number": "TR-21-01",
+      "revision": "Revised December 2025",
+      "url": "https://skb.com/publication/2506409",
+      "locators": {
+        "FEP_continuity": "Section 3.5, printed p.104",
+        "initial_impurity_limits": "Section 5.5.1, printed p.184",
+        "impurities_indirect_role": "Section 8.3.2, printed pp.271-272",
+        "local_mass_loss_criterion": "Section 10.3.9, printed p.413",
+        "initial_screening_verification_boundary": "Section 14.4.1, printed pp.852–853",
+        "inventory_bound_corrosion": "Section 12.6.2, printed p.648",
+        "material_design_feedback": "Section 15.5.9, printed p.908"
+      }
+    }
+  ],
+  "reported_assessment_quantities": [
+    {
+      "name": "buffer sulphide content",
+      "value": "<0.5 wt.% total mass",
+      "context": "PSAR initial technical design requirement, approximately1 wt.% pyrite",
+      "locator": "TR-21-01 §5.5.1 p.184"
+    },
+    {
+      "name": "buffer organic carbon and total sulphur",
+      "value": "each <1 wt.%",
+      "context": "PSAR initial technical design requirements; total sulphur includes sulphide. These are not time-varying safety indicators.",
+      "locator": "TR-21-01 §§5.5.1,8.3.2 pp.184,272"
+    },
+    {
+      "name": "Buff1 indicators",
+      "value": "hydraulic conductivity <10^-12 m/s; swelling pressure >1 MPa",
+      "context": "SR-Site safety-function indicators for limiting advection; margins exist.",
+      "locator": "TR-11-01 Fig.8-2 p.262; TR-21-01 §10.3.9 p.413"
+    },
+    {
+      "name": "local buffer mass loss prompting advection consideration",
+      "value": "1,200 kg dry buffer material",
+      "context": "Stylised geometry with loss over roughly half circumference, neglecting horizontal homogenisation; not a universal failure limit. Derived from self-sealing/dry-density modelling.",
+      "locator": "TR-21-01 §10.3.9 p.413; TR-11-01 §12.2.2 p.578"
+    }
+  ],
+  "existing_impurity_assessment": {
+    "SR_Site": {
+      "reference": "SKB2011",
+      "report": "TR-11-01 Volume III",
+      "locator": "§12.6.2, printed p.599, Buffer and backfill impurities; p.606 scenario assumptions",
+      "finding": "The reference-evolution assessment already evaluates initially entrapped oxygen, pyrite and organic matter in buffer/backfill, plus other organic matter and hydrogen sources. It uses mass-balance and transport-time arguments to bound corrosion, then omits this bounded contribution from additional calculation in the corrosion scenario.",
+      "source_url": "https://skb.com/publication/2345580/TR-11-01_vol3.pdf"
+    },
+    "PSAR": {
+      "reference": "SKB2022",
+      "report": "TR-21-01, December2025 revision",
+      "locators": [
+        "§12.6.2, printed p.648 (PDF p.652)",
+        "§15.5.9, printed p.908 (PDF p.912)"
+      ],
+      "finding": "The PSAR retains the inventory/transport argument and explicitly includes a sensitivity case. Its design-feedback section connects organic carbon, sulphide and sulphur limits to effects on copper and judges the current requirements and reference design adequate.",
+      "source_url": "https://skb.com/publication/2506409/TR-21-01.pdf",
+      "quantity_scope": "The p.648 bound covers multiple initially present constituents and hydrogen sources, including iron components; it is not a bound for buffer pyrite alone."
+    },
+    "implication": "The proposed documentation check connects a changed buffer composition to an existing bounded-corrosion argument, its sensitivity treatment and material requirements. It does not imply an omitted impurity-corrosion mechanism."
+  }
+}

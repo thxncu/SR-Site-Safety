@@ -1,0 +1,408 @@
+sr_id,sr_name,main_category,category,system_component,revision_date
+Oth01,Meteorite impact,External factor,OtherMeteorite impact,,2011-04-05
+LSGe01,Mechanical evolution of the Shield,External factor,Geological processes and effectsMechanical evolution of the Shield,,2011-02-14
+LSGe02,Earthquakes,External factor,Geological processes and effectsEarthquakes,,2011-04-05
+FHA01,General considerations,External factor,Future human actionsGeneral considerations,,2011-02-14
+FHA02,"Societal analysis, considered societal aspects",External factor,"Future human actionsSocietal analysis, considered societal aspects",,2011-02-14
+FHA03,"Technical analysis, general aspects",External factor,"Future human actionsTechnical analysis, general aspects",,2011-02-14
+FHA04,"Technical analysis, actions with thermal impact and purpose",External factor,"Future human actionsTechnical analysis, actions with thermal impact and purpose",,2011-02-14
+FHA05,"Technical analysis, actions with hydraulic impact and purpose",External factor,"Future human actionsTechnical analysis, actions with hydraulic impact and purpose",,2011-02-14
+FHA06,"Technical analysis, actions with mechanical impact and purpose",External factor,"Future human actionsTechnical analysis, actions with mechanical impact and purpose",,2011-02-14
+FHA07,"Technical analysis, actions with chemical impact and purpose",External factor,"Future human actionsTechnical analysis, actions with chemical impact and purpose",,2011-03-04
+Cli01,Climate system - Components of the climate system,External factor,Climatic processes and effectsClimate system - Components of the climate system,,2011-02-14
+Cli02,Climate system - Climate forcing,External factor,Climatic processes and effectsClimate system - Climate forcing,,2011-02-14
+Cli03,Climate system - Climate dynamics,External factor,Climatic processes and effectsClimate system - Climate dynamics,,2011-02-14
+Cli04,Climate system - Climate in Sweden and Forsmark,External factor,Climatic processes and effectsClimate system - Climate in Sweden and Forsmark,,2011-03-15
+Cli05,Climate related issues - Development of permafrost,External factor,Climatic processes and effectsClimate related issues - Development of permafrost,,2011-03-15
+Cli06,Climate related issues - Ice-sheet dynamics,External factor,Climatic processes and effectsClimate related issues - Ice-sheet dynamics,,2011-03-15
+Cli07,Climate related issues - Ice-sheet hydrology,External factor,Climatic processes and effectsClimate related issues - Ice-sheet hydrology,,2011-03-15
+Cli08,Climate related issues - Glacial isostatic adjustment,External factor,Climatic processes and effectsClimate related issues - Glacial isostatic adjustment,,2011-03-15
+Cli09,Climate related issues - Shoreline migration,External factor,Climatic processes and effectsClimate related issues - Shoreline migration,,2011-03-15
+Cli10,Climate related issues - End-glacial faulting,External factor,Climatic processes and effectsClimate related issues - End-glacial faulting,,2011-03-04
+F01,Radioactive decay,Internal process,Radioactive decay,Fuel/cavity in canister,2011-03-14
+F02,Radiation attenuation/heat generation,Internal process,Radiation attenuation/heat generation,Fuel/cavity in canister,2011-03-14
+F03,Induced fission (criticality),Internal process,Induced fission (criticality),Fuel/cavity in canister,2011-03-14
+F04,Heat transport,Internal process,Heat transport,Fuel/cavity in canister,2011-03-14
+F05,"Water and gas transport in canister cavity, boiling/condensation",Internal process,"Water and gas transport in canister cavity, boiling/condensation",Fuel/cavity in canister,2011-03-14
+F06,Mechanical cladding failure,Internal process,Mechanical cladding failure,Fuel/cavity in canister,2011-03-14
+F07,Structural evolution of fuel matrix,Internal process,Structural evolution of fuel matrix,Fuel/cavity in canister,2011-03-14
+F08,Advection and diffusion,Internal process,Advection and diffusion,Fuel/cavity in canister,2011-03-14
+F09,Residual gas radiolysis/ acid formation,Internal process,Residual gas radiolysis/ acid formation,Fuel/cavity in canister,2011-03-14
+F10,Water radiolysis,Internal process,Water radiolysis,Fuel/cavity in canister,2011-03-14
+F11,Metal corrosion,Internal process,Metal corrosion,Fuel/cavity in canister,2011-03-14
+F12,Fuel dissolution,Internal process,Fuel dissolution,Fuel/cavity in canister,2011-03-14
+F13,Dissolution of gap inventory,Internal process,Dissolution of gap inventory,Fuel/cavity in canister,2011-03-14
+F14,"Speciation of radionuclides, colloid formation",Internal process,"Speciation of radionuclides, colloid formation",Fuel/cavity in canister,2011-03-14
+F15,Helium production,Internal process,Helium production,Fuel/cavity in canister,2011-03-14
+F16,Chemical alteration of the fuel matrix,Internal process,Chemical alteration of the fuel matrix,Fuel/cavity in canister,2011-03-14
+C01,Radiation attenuation/ heat generation,Internal process,Radiation attenuation/ heat generation,Cast iron insert and copper canister,2011-03-14
+C02,Heat transport,Internal process,Heat transport,Cast iron insert and copper canister,2011-03-14
+C03,Deformation of cast iron insert,Internal process,Deformation of cast iron insert,Cast iron insert and copper canister,2011-03-14
+C04,Deformation of copper canister from external pressure,Internal process,Deformation of copper canister from external pressure,Cast iron insert and copper canister,2011-03-14
+C05,Thermal expansion (both cast iron insert and copper canister),Internal process,Thermal expansion (both cast iron insert and copper canister),Cast iron insert and copper canister,2011-03-14
+C06,Copper deformation from internal corrosion products,Internal process,Copper deformation from internal corrosion products,Cast iron insert and copper canister,2011-03-14
+C07,Radiation effects,Internal process,Radiation effects,Cast iron insert and copper canister,2011-03-14
+C11,Corrosion of copper canister,Internal process,Corrosion of copper canister,Cast iron insert and copper canister,2011-03-15
+C12,Stress corrosion cracking of the copper canister,Internal process,Stress corrosion cracking of the copper canister,Cast iron insert and copper canister,2011-03-14
+C13,Earth currents - stray current corrosion,Internal process,Earth currents - stray current corrosion,Cast iron insert and copper canister,2011-03-14
+C14,Deposition of salts on canister surface,Internal process,Deposition of salts on canister surface,Cast iron insert and copper canister,2011-03-14
+C15,Radionuclide transport,Internal process,Radionuclide transport,Cast iron insert and copper canister,2011-03-14
+Bu01,Radiation attenuation/ heat generation,Internal process,Radiation attenuation/ heat generation,Buffer,2011-03-11
+Bu02,Heat transport,Internal process,Heat transport,Buffer,2011-03-15
+Bu03,Freezing,Internal process,Freezing,Buffer,2011-03-15
+Bu04,Water uptake and transport for unsaturated conditions,Internal process,Water uptake and transport for unsaturated conditions,Buffer,2011-03-11
+Bu05,Water transport for saturated conditions,Internal process,Water transport for saturated conditions,Buffer,2011-03-10
+Bu06,Gas transport/dissolution,Internal process,Gas transport/dissolution,Buffer,2011-03-08
+Bu07,Piping/erosion,Internal process,Piping/erosion,Buffer,2011-03-10
+Bu08,Swelling/mass redistribution,Internal process,Swelling/mass redistribution,Buffer,2011-03-11
+Bu09,Liquefaction,Internal process,Liquefaction,Buffer,2011-03-08
+Bu10,Advective transport of species,Internal process,Advective transport of species,Buffer,2011-03-25
+Bu11,Diffusive transport of species,Internal process,Diffusive transport of species,Buffer,2011-03-25
+Bu12,Sorption (including exchange of major ions),Internal process,Sorption (including exchange of major ions),Buffer,2011-03-15
+Bu13,Alterations of impurities,Internal process,Alterations of impurities,Buffer,2011-03-15
+Bu14,Aqueous speciation and reactions,Internal process,Aqueous speciation and reactions,Buffer,2011-03-15
+Bu15,Osmosis,Internal process,Osmosis,Buffer,2011-03-25
+Bu16,Montmorillonite transformation,Internal process,Montmorillonite transformation,Buffer,2011-03-10
+Bu17,Iron-bentonite interaction,Internal process,Iron-bentonite interaction,Buffer,2011-03-08
+Bu18,Montmorillonite colloid release,Internal process,Montmorillonite colloid release,Buffer,2011-03-15
+Bu19,Radiation-induced transformations,Internal process,Radiation-induced transformations,Buffer,2011-03-08
+Bu20,Radiolysis of porewater,Internal process,Radiolysis of porewater,Buffer,2011-03-08
+Bu21,Microbial processes,Internal process,Microbial processes,Buffer,2011-03-10
+Bu23,Colloid transport,Internal process,Colloid transport,Buffer,2011-03-08
+Bu24,Speciation of radionuclides,Internal process,Speciation of radionuclides,Buffer,2011-03-25
+Bu25,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Buffer,2011-03-25
+BfT01,Heat transport,Internal process,Heat transport,Backfill in tunnels,2011-03-08
+BfT02,Freezing,Internal process,Freezing,Backfill in tunnels,2011-03-15
+BfT03,Water uptake and transport for unsaturated conditions,Internal process,Water uptake and transport for unsaturated conditions,Backfill in tunnels,2011-03-11
+BfT04,Water transport for saturated conditions,Internal process,Water transport for saturated conditions,Backfill in tunnels,2011-03-11
+BfT05,Gas transport/dissolution,Internal process,Gas transport/dissolution,Backfill in tunnels,2011-03-08
+BfT06,Piping/erosion,Internal process,Piping/erosion,Backfill in tunnels,2011-03-10
+BfT07,Swelling/mass redistribution,Internal process,Swelling/mass redistribution,Backfill in tunnels,2011-03-14
+BfT08,Liquefaction,Internal process,Liquefaction,Backfill in tunnels,2011-03-08
+BfT09,Advective transport of species,Internal process,Advective transport of species,Backfill in tunnels,2011-03-25
+BfT10,Diffusive transport of species,Internal process,Diffusive transport of species,Backfill in tunnels,2011-03-14
+BfT11,Sorption (including exchange of major ions),Internal process,Sorption (including exchange of major ions),Backfill in tunnels,2011-03-14
+BfT12,Alterations of backfill impurities,Internal process,Alterations of backfill impurities,Backfill in tunnels,2011-03-11
+BfT13,Aqueous speciation and reactions,Internal process,Aqueous speciation and reactions,Backfill in tunnels,2011-03-10
+BfT14,Osmosis,Internal process,Osmosis,Backfill in tunnels,2011-03-25
+BfT15,Montmorillonite transformation,Internal process,Montmorillonite transformation,Backfill in tunnels,2011-03-10
+BfT16,Backfill colloid release,Internal process,Backfill colloid release,Backfill in tunnels,2011-03-10
+BfT17,Radiation-induced transformations,Internal process,Radiation-induced transformations,Backfill in tunnels,2011-03-08
+BfT18,Microbial processes,Internal process,Microbial processes,Backfill in tunnels,2011-03-25
+BfT19,Colloid formation and transport,Internal process,Colloid formation and transport,Backfill in tunnels,2011-03-08
+BfT20,Speciation of radionuclides,Internal process,Speciation of radionuclides,Backfill in tunnels,2011-03-08
+BfT21,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Backfill in tunnels,2011-03-25
+BfT22,Transport of radionuclides by a gas phase,Internal process,Transport of radionuclides by a gas phase,Backfill in tunnels,2011-03-08
+Ge01,Heat transport,Internal process,Heat transport,Geosphere,2011-03-14
+Ge02,Freezing,Internal process,Freezing,Geosphere,2011-03-10
+Ge03,Groundwater flow,Internal process,Groundwater flow,Geosphere,2011-03-15
+Ge04,Gas flow/dissolution,Internal process,Gas flow/dissolution,Geosphere,2011-03-10
+Ge05,Displacements in intact rock,Internal process,Displacements in intact rock,Geosphere,2011-03-15
+Ge06,Reactivation - Displacement along existing discontinuities,Internal process,Reactivation - Displacement along existing discontinuities,Geosphere,2011-03-15
+Ge07,Fracturing,Internal process,Fracturing,Geosphere,2011-03-15
+Ge08,Creep,Internal process,Creep,Geosphere,2011-03-08
+Ge09,Surface weathering and erosion,Internal process,Surface weathering and erosion,Geosphere,2011-03-08
+Ge10,Erosion/sedimentation in fractures,Internal process,Erosion/sedimentation in fractures,Geosphere,2011-03-08
+Ge11,Advective transport/mixing of dissolved species,Internal process,Advective transport/mixing of dissolved species,Geosphere,2011-03-15
+Ge12,Diffusive transport of dissolved species in fractures and rock matrix,Internal process,Diffusive transport of dissolved species in fractures and rock matrix,Geosphere,2011-03-15
+Ge13,Speciation and sorption,Internal process,Speciation and sorption,Geosphere,2011-03-14
+Ge14,Reactions groundwater/rock matrix,Internal process,Reactions groundwater/rock matrix,Geosphere,2011-03-11
+Ge15,Dissolution/precipitation of fracture-filling minerals,Internal process,Dissolution/precipitation of fracture-filling minerals,Geosphere,2011-03-15
+Ge16,Microbial processes,Internal process,Microbial processes,Geosphere,2011-03-10
+Ge17,Degradation of grout,Internal process,Degradation of grout,Geosphere,2011-03-11
+Ge18,Colloidal processes,Internal process,Colloidal processes,Geosphere,2011-03-08
+Ge19,Formation/dissolution/reaction of gaseous species,Internal process,Formation/dissolution/reaction of gaseous species,Geosphere,2011-03-11
+Ge20,Methane hydrate formation,Internal process,Methane hydrate formation,Geosphere,2011-03-10
+Ge21,Salt exclusion,Internal process,Salt exclusion,Geosphere,2011-03-15
+Ge22,Radiation effects (rock and grout),Internal process,Radiation effects (rock and grout),Geosphere,2011-03-08
+Ge23,Earth currents,Internal process,Earth currents,Geosphere,2011-03-08
+Ge24,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Geosphere,2011-03-15
+Ge25,Transport of radionuclides in the gas phase,Internal process,Transport of radionuclides in the gas phase,Geosphere,2011-03-10
+BP01,Heat transport,Internal process,Heat transport,Bottom plate in deposition holes,2011-03-08
+BP02,Freezing,Internal process,Freezing,Bottom plate in deposition holes,2011-03-08
+BP03,Water uptake and transport under unsaturated conditions,Internal process,Water uptake and transport under unsaturated conditions,Bottom plate in deposition holes,2011-03-08
+BP04,Water transport under saturated conditions,Internal process,Water transport under saturated conditions,Bottom plate in deposition holes,2011-03-08
+BP08,Advective transport of species,Internal process,Advective transport of species,Bottom plate in deposition holes,2011-03-08
+BP09,Diffusive transport of species,Internal process,Diffusive transport of species,Bottom plate in deposition holes,2011-03-08
+BP07,Swelling/mass redistribution,Internal process,Swelling/mass redistribution,Bottom plate in deposition holes,2011-03-08
+BP11,Alteration of concrete,Internal process,Alteration of concrete,Bottom plate in deposition holes,2011-03-08
+BP15,Speciation of radionuclides,Internal process,Speciation of radionuclides,Bottom plate in deposition holes,2011-03-08
+CA18,Speciation of radionuclides,Internal process,Speciation of radionuclides,Central area,2011-03-08
+CA19,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Central area,2011-03-08
+Pg01,Heat transport,Internal process,Heat transport,Tunnel plugs,2011-03-08
+Pg02,Freezing,Internal process,Freezing,Tunnel plugs,2011-03-08
+Pg03,Water uptake and transport for unsaturated conditions,Internal process,Water uptake and transport for unsaturated conditions,Tunnel plugs,2011-03-08
+Pg04,Water transport for saturated conditions,Internal process,Water transport for saturated conditions,Tunnel plugs,2011-03-08
+Pg05,Gas transport/dissolution,Internal process,Gas transport/dissolution,Tunnel plugs,2011-03-08
+Pg06,Piping/erosion,Internal process,Piping/erosion,Tunnel plugs,2011-03-08
+Pg10,Diffusive transport of species,Internal process,Diffusive transport of species,Tunnel plugs,2011-03-08
+Pg11,Sorption (including exchange of major ions),Internal process,Sorption (including exchange of major ions),Tunnel plugs,2011-03-08
+TS01,Heat transport,Internal process,Heat transport,Top seal,2011-03-08
+BhS02,Freezing,Internal process,Freezing,Borehole seals,2011-03-08
+BhS03,Water uptake and transport under unsaturated conditions,Internal process,Water uptake and transport under unsaturated conditions,Borehole seals,2011-03-08
+BhS04,Water transport under saturated conditions,Internal process,Water transport under saturated conditions,Borehole seals,2011-03-08
+BhS05,Gas transport/dissolution,Internal process,Gas transport/dissolution,Borehole seals,2011-03-08
+BhS06,Piping/erosion,Internal process,Piping/erosion,Borehole seals,2011-03-08
+BhS07,Swelling/mass redistribution,Internal process,Swelling/mass redistribution,Borehole seals,2011-03-08
+BhS08,Liquefaction,Internal process,Liquefaction,Borehole seals,2011-03-08
+BhS09,Advective transport of species,Internal process,Advective transport of species,Borehole seals,2011-03-08
+BhS10,Diffusive transport of species,Internal process,Diffusive transport of species,Borehole seals,2011-03-08
+BhS16,Osmosis,Internal process,Osmosis,Borehole seals,2011-03-08
+BhS18,Montmorillonite colloid release,Internal process,Montmorillonite colloid release,Borehole seals,2011-03-08
+BhS19,Microbial processes,Internal process,Microbial processes,Borehole seals,2011-03-08
+BhS22,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Borehole seals,2011-03-08
+VarF01,Radiation intensity,System variable,Radiation intensity,Fuel/cavity in canister,2011-02-07
+VarF02,Temperature,System variable,Temperature,Fuel/cavity in canister,2011-02-07
+VarF03,Hydrovariables (pressure and flow),System variable,Hydrovariables (pressure and flow),Fuel/cavity in canister,2011-02-11
+VarF04,Fuel geometry,System variable,Fuel geometry,Fuel/cavity in canister,2011-02-07
+VarF05,Mechanical stresses,System variable,Mechanical stresses,Fuel/cavity in canister,2011-02-07
+VarF06,Radionuclide inventory,System variable,Radionuclide inventory,Fuel/cavity in canister,2011-02-07
+VarF07,Material composition,System variable,Material composition,Fuel/cavity in canister,2011-02-07
+VarF08,Water composition,System variable,Water composition,Fuel/cavity in canister,2011-02-07
+VarF09,Gas composition,System variable,Gas composition,Fuel/cavity in canister,2011-02-07
+ISC01,Mishaps - canister,Initial state,Mishaps - canister,Cast iron insert and copper canister,2011-02-25
+ISC02,Design deviations - canister,Initial state,Design deviations - canister,Cast iron insert and copper canister,2011-02-25
+VarC01,Radiation intensity,System variable,Radiation intensity,Cast iron insert and copper canister,2011-02-11
+VarC02,Temperature,System variable,Temperature,Cast iron insert and copper canister,2011-02-07
+VarC03,Canister geometry,System variable,Canister geometry,Cast iron insert and copper canister,2011-02-11
+VarC04,Material composition,System variable,Material composition,Cast iron insert and copper canister,2011-02-07
+VarC05,Mechanical stresses,System variable,Mechanical stresses,Cast iron insert and copper canister,2011-02-07
+ISBu01,Mishaps - buffer,Initial state,Mishaps - buffer,Buffer,2011-02-25
+ISBu02,Design deviations - buffer,Initial state,Design deviations - buffer,Buffer,2011-02-25
+VarBu01,Radiation intensity,System variable,Radiation intensity,Buffer,2011-02-07
+VarBu02,Temperature,System variable,Temperature,Buffer,2011-02-07
+VarBu03,Water content,System variable,Water content,Buffer,2011-02-07
+VarBu04,Gas content,System variable,Gas content,Buffer,2011-02-07
+VarBu05,Hydrovariables (pressures and flows),System variable,Hydrovariables (pressures and flows),Buffer,2011-02-07
+VarBu06,Buffer geometry,System variable,Buffer geometry,Buffer,2011-02-11
+VarBu07,Pore geometry,System variable,Pore geometry,Buffer,2011-02-07
+VarBu08,Stress state,System variable,Stress state,Buffer,2011-04-05
+VarBu09,Bentonite composition,System variable,Bentonite composition,Buffer,2011-02-11
+VarBu10,Montmorillonite composition,System variable,Montmorillonite composition,Buffer,2011-02-11
+VarBu11,Porewater composition,System variable,Porewater composition,Buffer,2011-02-11
+VarBu12,Structural and stray materials,System variable,Structural and stray materials,Buffer,2011-04-05
+ISBfT01,Mishaps - backfill in tunnels,Initial state,Mishaps - backfill in tunnels,Backfill in tunnels,2011-02-25
+ISBfT02,Design deviations - backfill in tunnels,Initial state,Design deviations - backfill in tunnels,Backfill in tunnels,2011-02-25
+VarBfT01,Temperature,System variable,Temperature,Backfill in tunnels,2011-02-07
+VarBfT02,Water content,System variable,Water content,Backfill in tunnels,2011-02-07
+VarBfT03,Gas content,System variable,Gas content,Backfill in tunnels,2011-02-11
+VarBfT04,Hydrovariables (pressures and flows),System variable,Hydrovariables (pressures and flows),Backfill in tunnels,2011-02-11
+VarBfT05,Backfill geometry,System variable,Backfill geometry,Backfill in tunnels,2011-02-07
+VarBfT06,Backfill pore geometry,System variable,Backfill pore geometry,Backfill in tunnels,2011-02-07
+VarBfT07,Stress state,System variable,Stress state,Backfill in tunnels,2011-02-07
+VarBfT08,Backfill materials - composition and content,System variable,Backfill materials - composition and content,Backfill in tunnels,2011-02-11
+VarBfT09,Backfill porewater composition,System variable,Backfill porewater composition,Backfill in tunnels,2011-02-07
+VarBfT10,Structural and stray materials,System variable,Structural and stray materials,Backfill in tunnels,2011-04-05
+VarGe01,Temperature in bedrock,System variable,Temperature in bedrock,Geosphere,2011-02-11
+VarGe02,Groundwater flow,System variable,Groundwater flow,Geosphere,2011-02-11
+VarGe03,Groundwater pressure,System variable,Groundwater pressure,Geosphere,2011-02-11
+VarGe04,Gas phase flow,System variable,Gas phase flow,Geosphere,2011-02-11
+VarGe05,Repository geometry,System variable,Repository geometry,Geosphere,2011-02-11
+VarGe06,Fracture geometry,System variable,Fracture geometry,Geosphere,2011-02-11
+VarGe07,Rock stresses,System variable,Rock stresses,Geosphere,2011-04-05
+VarGe08,Matrix minerals,System variable,Matrix minerals,Geosphere,2011-02-11
+VarGe09,Fracture minerals,System variable,Fracture minerals,Geosphere,2011-02-11
+VarGe10,Groundwater composition,System variable,Groundwater composition,Geosphere,2011-04-05
+VarGe11,Gas composition,System variable,Gas composition,Geosphere,2011-04-05
+VarGe12,Structural and stray materials,System variable,Structural and stray materials,Geosphere,2011-02-11
+VarGe13,Saturation,System variable,Saturation,Geosphere,2011-02-11
+ISBP01,Mishaps - bottom plate in deposition holes,Initial state,Mishaps - bottom plate in deposition holes,Bottom plate in deposition holes,2011-02-25
+ISBP02,Design deviations - bottom plate in deposition holes,Initial state,Design deviations - bottom plate in deposition holes,Bottom plate in deposition holes,2011-02-25
+VarBP01,Temperature,System variable,Temperature,Bottom plate in deposition holes,2011-02-07
+VarBP02,Bottom plate water content,System variable,Bottom plate water content,Bottom plate in deposition holes,2011-02-11
+VarBP03,Bottom plate gas content,System variable,Bottom plate gas content,Bottom plate in deposition holes,2011-02-07
+VarBP04,Hydrovariables (pressure and flows),System variable,Hydrovariables (pressure and flows),Bottom plate in deposition holes,2011-02-07
+VarBP05,Bottom plate geometry,System variable,Bottom plate geometry,Bottom plate in deposition holes,2011-02-07
+VarBP06,Bottom plate pore geometry,System variable,Bottom plate pore geometry,Bottom plate in deposition holes,2011-02-07
+VarCA02,Water content,System variable,Water content,Central area,2011-02-07
+VarCA04,Hydrovariables (pressure and flows),System variable,Hydrovariables (pressure and flows),Central area,2011-04-05
+VarCA05,Central area geometry,System variable,Central area geometry,Central area,2011-02-07
+VarCA06,Central area pore geometry,System variable,Central area pore geometry,Central area,2011-02-07
+VarCA07,Stress state,System variable,Stress state,Central area,2011-02-07
+VarCA08,Central area materials - composition and content,System variable,Central area materials - composition and content,Central area,2011-04-05
+VarCA09,Central area porewater composition,System variable,Central area porewater composition,Central area,2011-04-05
+ISPg01,Mishaps - plugs,Initial state,Mishaps - plugs,Plugs,2011-02-25
+ISPg02,Design deviations - plugs,Initial state,Design deviations - plugs,Plugs,2011-02-25
+VarPg01,Temperature,System variable,Temperature,Plugs,2011-02-07
+VarPg03,Gas content,System variable,Gas content,Plugs,2011-02-07
+VarPg04,Hydrovariables (pressure and flows),System variable,Hydrovariables (pressure and flows),Plugs,2011-02-07
+VarPg05,Plug geometry,System variable,Plug geometry,Plugs,2011-02-07
+VarPg07,Stress state,System variable,Stress state,Plugs,2011-02-07
+VarPg08,Plug materials - composition and content,System variable,Plug materials - composition and content,Plugs,2011-02-07
+VarBhS01,Temperature,System variable,Temperature,Borehole seals,2011-02-07
+VarBhS02,Water content,System variable,Water content,Borehole seals,2011-02-07
+VarBhS03,Gas content,System variable,Gas content,Borehole seals,2011-02-07
+VarBhS04,Hydrovariables (pressure and flows),System variable,Hydrovariables (pressure and flows),Borehole seals,2011-04-05
+VarBhS05,Borehole geometry,System variable,Borehole geometry,Borehole seals,2011-02-07
+VarBhS06,Pore geometry,System variable,Pore geometry,Borehole seals,2011-02-07
+ISGen01,Major mishaps/accidents/sabotage,Initial state,Major mishaps/accidents/sabotage,General,2011-02-25
+ISGen02,Effects of phased operation,Initial state,Effects of phased operation,General,2011-02-25
+ISGen03,Incomplete closure,Initial state,Incomplete closure,General,2011-02-25
+ISGen04,Monitoring activities,Initial state,Monitoring activities,General,2011-04-04
+Meth01,Assessment basis,Methodology,Assessment basis,,2011-04-04
+Meth02,Assessment methodology,Methodology,Assessment methodology,,2011-04-05
+ISBhS01,Mishaps/Design deviations - borehole seals,Initial state,Mishaps/Design deviations - borehole seals,Borehole seals,2011-02-25
+SiteFact03,Nearby nuclear power plant,Site-specific factor,Nearby nuclear power plant,,2011-02-09
+SiteFact04,Mine excavation,Site-specific factor,Mine excavation,,2011-02-09
+SiteFact02,Construction of nearby rock facilities,Site-specific factor,Construction of nearby rock facilities,,2011-02-09
+BP16,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Bottom plate in deposition holes,2011-03-08
+BP14,Microbial processes,Internal process,Microbial processes,Bottom plate in deposition holes,2011-03-08
+BP13,Copper corrosion,Internal process,Copper corrosion,Bottom plate in deposition holes,2011-03-08
+BP12,Aqueous speciation and reactions,Internal process,Aqueous speciation and reactions,Bottom plate in deposition holes,2011-03-08
+BP10,Sorption (including exchange of major ions),Internal process,Sorption (including exchange of major ions),Bottom plate in deposition holes,2011-03-08
+BP06,Piping/erosion,Internal process,Piping/erosion,Bottom plate in deposition holes,2011-03-08
+BP05,Gas transport/dissolution,Internal process,Gas transport/dissolution,Bottom plate in deposition holes,2011-03-08
+Pg18,Speciation of radionuclides,Internal process,Speciation of radionuclides,Tunnel plugs,2011-03-08
+Pg19,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Tunnel plugs,2011-03-08
+CA01,Heat transport,Internal process,Heat transport,Central area,2011-03-08
+CA02,Freezing,Internal process,Freezing,Central area,2011-03-08
+CA03,Water uptake and transport under unsaturated conditions,Internal process,Water uptake and transport under unsaturated conditions,Central area,2011-03-08
+CA04,Water transport under saturated conditions,Internal process,Water transport under saturated conditions,Central area,2011-03-08
+CA05,Gas transport/dissolution,Internal process,Gas transport/dissolution,Central area,2011-03-08
+CA06,Piping/erosion,Internal process,Piping/erosion,Central area,2011-03-08
+CA07,Swelling/mass redistribution,Internal process,Swelling/mass redistribution,Central area,2011-03-08
+CA08,Liquefaction,Internal process,Liquefaction,Central area,2011-03-08
+CA09,Advective transport of species,Internal process,Advective transport of species,Central area,2011-03-08
+CA10,Diffusive transport of species,Internal process,Diffusive transport of species,Central area,2011-03-08
+CA11,Sorption,Internal process,Sorption,Central area,2011-03-08
+CA12,Alteration of the central area backfill,Internal process,Alteration of the central area backfill,Central area,2011-03-08
+CA13,Aqueous speciation and reactions,Internal process,Aqueous speciation and reactions,Central area,2011-03-08
+CA14,Osmosis,Internal process,Osmosis,Central area,2011-03-08
+CA15,Alteration of concrete components,Internal process,Alteration of concrete components,Central area,2011-03-08
+CA16,Corrosion of steel components,Internal process,Corrosion of steel components,Central area,2011-03-08
+CA17,Microbial processes,Internal process,Microbial processes,Central area,2011-03-08
+Pg17,Microbial processes,Internal process,Microbial processes,Tunnel plugs,2011-03-08
+Pg16,Montmorillonite colloid release,Internal process,Montmorillonite colloid release,Tunnel plugs,2011-03-08
+Pg15,Montmorillonite transformation,Internal process,Montmorillonite transformation,Tunnel plugs,2011-03-08
+Pg14,Osmosis,Internal process,Osmosis,Tunnel plugs,2011-03-08
+Pg13,Aqueous speciation and reactions,Internal process,Aqueous speciation and reactions,Tunnel plugs,2011-03-08
+Pg12,Alteration of concrete,Internal process,Alteration of concrete,Tunnel plugs,2011-03-08
+Pg09,Advective transport of species,Internal process,Advective transport of species,Tunnel plugs,2011-03-08
+Pg08,Liquefaction,Internal process,Liquefaction,Tunnel plugs,2011-03-08
+Pg07,Swelling/mass redistribution,Internal process,Swelling/mass redistribution,Tunnel plugs,2011-03-08
+BhS01,Heat transport,Internal process,Heat transport,Borehole seals,2011-03-08
+TS02,Freezing,Internal process,Freezing,Top seal,2011-03-08
+TS03,Water uptake and transport under unsaturated conditions,Internal process,Water uptake and transport under unsaturated conditions,Top seal,2011-03-08
+TS04,Water transport under saturated conditions,Internal process,Water transport under saturated conditions,Top seal,2011-03-08
+TS05,Gas transport/dissolution,Internal process,Gas transport/dissolution,Top seal,2011-03-08
+TS06,Piping/erosion,Internal process,Piping/erosion,Top seal,2011-03-08
+TS07,Swelling/mass redistribution,Internal process,Swelling/mass redistribution,Top seal,2011-03-08
+TS08,Liquefaction,Internal process,Liquefaction,Top seal,2011-03-08
+TS09,Advective transport of species,Internal process,Advective transport of species,Top seal,2011-03-08
+TS10,Diffusive transport of species,Internal process,Diffusive transport of species,Top seal,2011-03-08
+TS11,Sorption (including exchange of major ions),Internal process,Sorption (including exchange of major ions),Top seal,2011-03-08
+TS12,Alteration of concrete,Internal process,Alteration of concrete,Top seal,2011-03-08
+TS13,Aqueous speciation and reactions,Internal process,Aqueous speciation and reactions,Top seal,2011-03-08
+TS14,Colloid release,Internal process,Colloid release,Top seal,2011-03-08
+TS16,Microbial processes,Internal process,Microbial processes,Top seal,2011-03-08
+TS18,Transport of radionuclides in the water phase,Internal process,Transport of radionuclides in the water phase,Top seal,2011-03-08
+BhS21,Speciation of radionuclides,Internal process,Speciation of radionuclides,Borehole seals,2011-03-08
+BhS17,Montmorillonite transformation,Internal process,Montmorillonite transformation,Borehole seals,2011-03-08
+BhS14,Copper corrosion,Internal process,Copper corrosion,Borehole seals,2011-03-08
+BhS15,Alterations of impurities in bentonite,Internal process,Alterations of impurities in bentonite,Borehole seals,2011-03-08
+BhS13,Aqueous speciation and reactions,Internal process,Aqueous speciation and reactions,Borehole seals,2011-03-08
+BhS12,Alteration of concrete,Internal process,Alteration of concrete,Borehole seals,2011-03-08
+BhS11,Sorption (including exchange of major ions),Internal process,Sorption (including exchange of major ions),Borehole seals,2011-03-08
+VarBhS10,Structural and stray materials,System variable,Structural and stray materials,Borehole seals,2011-02-07
+VarBhS09,Porewater composition,System variable,Porewater composition,Borehole seals,2011-02-07
+VarBhS08,Sealing materials - composition and content,System variable,Sealing materials - composition and content,Borehole seals,2011-02-07
+VarBhS07,Stress state,System variable,Stress state,Borehole seals,2011-02-07
+VarBP10,Structural and stray materials,System variable,Structural and stray materials,Bottom plate in deposition holes,2011-02-07
+VarBP09,Bottom plate porewater composition,System variable,Bottom plate porewater composition,Bottom plate in deposition holes,2011-02-07
+VarBP08,Bottom plate materials - composition and content,System variable,Bottom plate materials - composition and content,Bottom plate in deposition holes,2011-02-07
+VarBP07,Stress state,System variable,Stress state,Bottom plate in deposition holes,2011-02-07
+VarTS01,Temperature,System variable,Temperature,Top seal,2011-02-11
+VarTS02,Water content,System variable,Water content,Top seal,2011-02-07
+VarTS03,Gas content,System variable,Gas content,Top seal,2011-02-07
+VarTS04,Hydrovariables (pressure and flows),System variable,Hydrovariables (pressure and flows),Top seal,2011-02-07
+VarTS05,Top seal geometry,System variable,Top seal geometry,Top seal,2011-02-07
+VarTS06,Top seal pore geometry,System variable,Top seal pore geometry,Top seal,2011-02-07
+VarTS07,Stress state,System variable,Stress state,Top seal,2011-02-07
+VarTS08,Top seal materials - composition and content,System variable,Top seal materials - composition and content,Top seal,2011-02-07
+VarTS09,Top seal porewater composition,System variable,Top seal porewater composition,Top seal,2011-04-05
+VarTS10,Structural and stray materials,System variable,Structural and stray materials,Top seal,2011-02-07
+VarCA10,Structural and stray materials,System variable,Structural and stray materials,Central area,2011-04-05
+VarCA03,Gas content,System variable,Gas content,Central area,2011-02-07
+VarCA01,Temperature,System variable,Temperature,Central area,2011-04-05
+VarPg10,Structural and stray materials,System variable,Structural and stray materials,Plugs,2011-02-07
+VarPg09,Plug porewater composition,System variable,Plug porewater composition,Plugs,2011-02-07
+VarPg06,Plug pore geometry,System variable,Plug pore geometry,Plugs,2011-02-07
+VarPg02,Water content,System variable,Water content,Plugs,2011-02-07
+Bio01,Bioturbation,Biosphere,Bioturbation,,2011-03-14
+Bio08,Habitat supply,Biosphere,Habitat supply,,2011-03-14
+Bio09,Intrusion,Biosphere,Intrusion,,2011-03-14
+Bio04,Decomposition,Biosphere,Decomposition,,2011-03-14
+Bio05,Excretion,Biosphere,Excretion,,2011-03-14
+Bio06,Food supply,Biosphere,Food supply,,2011-03-14
+Bio07,Growth,Biosphere,Growth,,2011-03-14
+Bio02,Consumption,Biosphere,Consumption,,2011-03-14
+Bio03,Death,Biosphere,Death,,2011-03-14
+Bio28,Water supply,Biosphere,Water supply,,2011-03-14
+Bio19,Water use,Biosphere,Water use,,2011-03-14
+Bio13,Primary production,Biosphere,Primary production,,2011-03-14
+Bio15,Uptake,Biosphere,Uptake,,2011-03-14
+Bio12,Particle release/trapping,Biosphere,Particle release/trapping,,2011-03-14
+Bio20,Change of pressure,Biosphere,Change of pressure,,2011-03-14
+Bio18,Species introduction/extermination,Biosphere,Species introduction/extermination,,2011-03-14
+Bio23,Loading,Biosphere,Loading,,2011-03-14
+Bio22,Element supply,Biosphere,Element supply,,2011-03-14
+Bio21,Consolidation,Biosphere,Consolidation,,2011-03-14
+Bio11,Movement,Biosphere,Movement,,2011-03-14
+Bio10,Material supply,Biosphere,Material supply,,2011-03-14
+Bio17,Material use,Biosphere,Material use,,2011-03-14
+Bio14,Stimulation/inhibition,Biosphere,Stimulation/inhibition,,2011-03-14
+Bio16,Anthropogenic release,Biosphere,Anthropogenic release,,2011-03-14
+Bio29,Weathering,Biosphere,Weathering,,2011-03-14
+Bio30,Wind stress,Biosphere,Wind stress,,2011-03-14
+Bio31,Acceleration,Biosphere,Acceleration,,2011-03-14
+Bio32,Convection,Biosphere,Convection,,2011-03-14
+Bio34,Deposition,Biosphere,Deposition,,2011-03-14
+Bio33,Covering,Biosphere,Covering,,2011-02-23
+Bio37,Interception,Biosphere,Interception,,2011-03-14
+Bio38,Relocation,Biosphere,Relocation,,2011-03-14
+Bio35,Export,Biosphere,Export,,2011-03-14
+Bio40,Saturation,Biosphere,Saturation,,2011-03-14
+Bio39,Resuspension,Biosphere,Resuspension,,2011-03-14
+Bio36,Import,Biosphere,Import,,2011-03-14
+Bio42,Exposure,Biosphere,Exposure,,2011-03-14
+Bio44,Irradiation,Biosphere,Irradiation,,2011-02-23
+Bio41,Decay,Biosphere,Decay,,2011-03-14
+Bio45,Light-related processes,Biosphere,Light-related processes,,2011-03-14
+Bio43,Heat storage,Biosphere,Heat storage,,2011-03-14
+Bio46,Radiolysis,Biosphere,Radiolysis,,2011-02-23
+Bio47,Radionuclide release,Biosphere,Radionuclide release,,2011-03-14
+Bio48,Change in rock surface location,Biosphere,Change in rock surface location,,2011-03-14
+Bio50,Terrestrialisation,Biosphere,Terrestrialisation,,2011-03-14
+Bio49,Sea level change,Biosphere,Sea level change,,2011-03-14
+Cli11,Climate related issues - Denudation,External factor,Climatic processes and effectsClimate related issues - Denudation,,2011-03-15
+Bio24,Phase transitions,Biosphere,Phase transitions,,2011-03-14
+Bio25,Physical properties change,Biosphere,Physical properties change,,2011-03-14
+Bio26,Reactions,Biosphere,Reactions,,2011-03-14
+Bio27,Sorption/desorption,Biosphere,Sorption/desorption,,2011-03-14
+CompBio01,Geosphere,Biosphere,Geosphere,,2011-02-08
+CompBio02,Regolith,Biosphere,Regolith,,2011-02-23
+CompBio03,Primary producers,Biosphere,Primary producers,,2011-02-23
+CompBio04,Decomposers,Biosphere,Decomposers,,2011-02-23
+CompBio05,Filter feeders,Biosphere,Filter feeders,,2011-02-23
+CompBio06,Herbivores,Biosphere,Herbivores,,2011-02-23
+CompBio07,Carnivores,Biosphere,Carnivores,,2011-02-23
+CompBio08,Humans,Biosphere,Humans,,2011-02-23
+CompBio09,Water in regolith,Biosphere,Water in regolith,,2011-02-23
+CompBio10,Surface water,Biosphere,Surface water,,2011-02-23
+CompBio11,Water composition,Biosphere,Water composition,,2011-02-23
+CompBio12,Gas and local atmosphere,Biosphere,Gas and local atmosphere,,2011-02-23
+CompBio13,Temperature,Biosphere,Temperature,,2011-02-23
+F17,Radionuclide transport,Internal process,Radionuclide transport,Fuel/cavity in canister,2011-03-14
+C10,Stress corrosion cracking of cast iron insert,Internal process,Stress corrosion cracking of cast iron insert,Cast iron insert and copper canister,2011-03-14
+C09,Galvanic corrosion,Internal process,Galvanic corrosion,Cast iron insert and copper canister,2011-03-14
+C08,Corrosion of cast iron insert,Internal process,Corrosion of cast iron insert,Cast iron insert and copper canister,2011-03-14
+ISCA01,Mishaps - central area,Initial state,Mishaps - central area,Central area,2011-02-25
+ISCA02,Design deviations - central area,Initial state,Design deviations - central area,Central area,2011-02-25
+ISTS01,Mishaps/Design deviations - top seal,Initial state,Mishaps/Design deviations - top seal,Top seal,2011-02-25
+Bio51,Thresholding,Biosphere,Thresholding,,2011-03-14
+CompBio14,Radionuclides,Biosphere,Radionuclides,,2011-02-23
+CompBio15,External conditions,Biosphere,External conditions,,2011-02-09
+Bu26,Transport of radionuclides in a gas phase,Internal process,Transport of radionuclides in a gas phase,Buffer,2011-03-25
+Bu22,Cementation,Internal process,Cementation,Buffer,2011-03-25
+TS17,Speciation of radionuclides,Internal process,Speciation of radionuclides,Top seal,2011-03-08
+TS15,Steel corrosion,Internal process,Steel corrosion,Top seal,2011-03-08

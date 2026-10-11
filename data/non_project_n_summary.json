@@ -1,0 +1,92 @@
+{
+  "cohort_n": 55,
+  "formal_heading_only_n": 20,
+  "formal_too_general_n": 35,
+  "resolvable_association_n": 36,
+  "unresolved_association_n": 19,
+  "unresolved_fraction": 0.34545454545454546,
+  "no_resolved_relevant_destination_n": 20,
+  "nonempty_query_n": 55,
+  "documentary_class_counts": {
+    "Original-inventory reference": 18,
+    "No identifiable documentary destination": 15,
+    "SR-Site-stage SKB association": 10,
+    "Earlier-stage SKB association": 9,
+    "SKB rationale without identifiable destination": 3
+  },
+  "inventory_counts": {
+    "A": 10,
+    "E": 1,
+    "H": 2,
+    "I": 2,
+    "J": 24,
+    "M": 11,
+    "S": 1,
+    "W": 4
+  },
+  "no_destination_source_ids": [
+    "E SFL-00",
+    "J 3.1.08",
+    "J 4.1.07",
+    "J 4.2.05",
+    "J 5.07",
+    "J 5.08",
+    "J 5.19",
+    "J 5.46",
+    "J 6.03",
+    "J 6.14",
+    "J 7.01",
+    "J 7.03",
+    "M 2.1.07",
+    "M 2.2.01",
+    "S 027"
+  ],
+  "unresolved_source_ids": [
+    "A 1.04",
+    "E SFL-00",
+    "H 2.2.3",
+    "J 3.1.08",
+    "J 4.1.07",
+    "J 4.2.05",
+    "J 5.07",
+    "J 5.08",
+    "J 5.19",
+    "J 5.46",
+    "J 6.03",
+    "J 6.14",
+    "J 7.01",
+    "J 7.02",
+    "J 7.03",
+    "M 2.1.07",
+    "M 2.2.01",
+    "S 027",
+    "W 2.100"
+  ],
+  "multiple_resolved_destinations_n": 19,
+  "single_resolved_destination_n": 17,
+  "ifep_domain_counts_are_overlapping": true,
+  "no_ifep_domain_n": 1,
+  "association_statistics": [
+    {
+      "scope": "All inventories",
+      "records_n": 1671,
+      "inventories_n": 10,
+      "relevance_categories_n": 2,
+      "pearson_chi2": 583.3930928891637,
+      "degrees_of_freedom": 9,
+      "ordinary_cramers_v": 0.5908706479549479,
+      "bias_corrected_cramers_v": 0.5864681202430728
+    },
+    {
+      "scope": "Project N excluded",
+      "records_n": 1525,
+      "inventories_n": 9,
+      "relevance_categories_n": 2,
+      "pearson_chi2": 42.122104962604766,
+      "degrees_of_freedom": 8,
+      "ordinary_cramers_v": 0.1661958255627828,
+      "bias_corrected_cramers_v": 0.14962084694286987
+    }
+  ],
+  "project_n_share_full_chi2": 0.864554057131854
+}

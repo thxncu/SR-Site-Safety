@@ -1,0 +1,339 @@
+{
+  "screened_population_n": 1671,
+  "relevant_n": 1301,
+  "not_relevant_n": 370,
+  "coverage_n": 200,
+  "screening_operations": {
+    "Coverage elsewhere": 200,
+    "System applicability": 166,
+    "Non-FEP designation": 4
+  },
+  "exact_reason_phrases_n": 23,
+  "documentary_classes": {
+    "No identifiable documentary destination": 160,
+    "Original-inventory reference": 18,
+    "SR-Site-stage SKB association": 10,
+    "Earlier-stage SKB association": 9,
+    "SKB rationale without identifiable destination": 3
+  },
+  "documentary_unresolved_n": 164,
+  "sources_with_resolved_documentary_destination_n": 36,
+  "provenance_relations_n": 262,
+  "resolved_destination_multiplicity": {
+    "1": 17,
+    "2": 6,
+    "4": 2,
+    "5": 3,
+    "6": 1,
+    "7": 1,
+    "9": 2,
+    "10": 1,
+    "11": 1,
+    "15": 2
+  },
+  "documentary_properties": {
+    "formal_reason_coverage_assertion": 200,
+    "documentary_unresolved": 164,
+    "no_resolved_relevant_destination": 165,
+    "imported_text_present": 56,
+    "imported_description_present": 56,
+    "imported_comments_present": 1,
+    "skb_explanatory_rationale_present": 18,
+    "skb_discussion_coverage_assertion_present": 5,
+    "skb_discussion_targeted_assertion_present": 4,
+    "skb_discussion_scope_rationale_present": 5,
+    "skb_adoption_documented": 3,
+    "current_skb_adoption_documented": 0,
+    "current_association_present": 10,
+    "historical_association_present": 9,
+    "original_inventory_reference_present": 27,
+    "original_inventory_coverage_reference_present": 20,
+    "ambiguous_reference_present": 10,
+    "reference_resolution_issue_present": 18,
+    "unresolved_reference_present": 4,
+    "unverified_reference_present": 6,
+    "status_conflict_present": 1
+  },
+  "lookup_candidates": [
+    {
+      "scope": "All coverage decisions",
+      "source_population_n": 200,
+      "method": "normalized_exact_title",
+      "eligibility_rule": "No taxonomy restriction",
+      "sources_with_candidates_n": 90,
+      "candidate_relations_n": 148,
+      "sources_with_multiple_candidates_n": 24,
+      "candidate_relations_without_shared_ifep_n": 5,
+      "project_N_sources_n": 86
+    },
+    {
+      "scope": "All coverage decisions",
+      "source_population_n": 200,
+      "method": "normalized_exact_title",
+      "eligibility_rule": "Shared IFEP required",
+      "sources_with_candidates_n": 88,
+      "candidate_relations_n": 143,
+      "sources_with_multiple_candidates_n": 23,
+      "candidate_relations_without_shared_ifep_n": 0,
+      "project_N_sources_n": 85
+    },
+    {
+      "scope": "All coverage decisions",
+      "source_population_n": 200,
+      "method": "same_inventory_identifier_descendant",
+      "eligibility_rule": "No taxonomy restriction",
+      "sources_with_candidates_n": 1,
+      "candidate_relations_n": 1,
+      "sources_with_multiple_candidates_n": 0,
+      "candidate_relations_without_shared_ifep_n": 1,
+      "project_N_sources_n": 1
+    },
+    {
+      "scope": "All coverage decisions",
+      "source_population_n": 200,
+      "method": "same_inventory_identifier_descendant",
+      "eligibility_rule": "Shared IFEP required",
+      "sources_with_candidates_n": 0,
+      "candidate_relations_n": 0,
+      "sources_with_multiple_candidates_n": 0,
+      "candidate_relations_without_shared_ifep_n": 0,
+      "project_N_sources_n": 0
+    },
+    {
+      "scope": "Documentary unresolved",
+      "source_population_n": 164,
+      "method": "normalized_exact_title",
+      "eligibility_rule": "No taxonomy restriction",
+      "sources_with_candidates_n": 87,
+      "candidate_relations_n": 145,
+      "sources_with_multiple_candidates_n": 24,
+      "candidate_relations_without_shared_ifep_n": 4,
+      "project_N_sources_n": 86
+    },
+    {
+      "scope": "Documentary unresolved",
+      "source_population_n": 164,
+      "method": "normalized_exact_title",
+      "eligibility_rule": "Shared IFEP required",
+      "sources_with_candidates_n": 86,
+      "candidate_relations_n": 141,
+      "sources_with_multiple_candidates_n": 23,
+      "candidate_relations_without_shared_ifep_n": 0,
+      "project_N_sources_n": 85
+    },
+    {
+      "scope": "Documentary unresolved",
+      "source_population_n": 164,
+      "method": "same_inventory_identifier_descendant",
+      "eligibility_rule": "No taxonomy restriction",
+      "sources_with_candidates_n": 1,
+      "candidate_relations_n": 1,
+      "sources_with_multiple_candidates_n": 0,
+      "candidate_relations_without_shared_ifep_n": 1,
+      "project_N_sources_n": 1
+    },
+    {
+      "scope": "Documentary unresolved",
+      "source_population_n": 164,
+      "method": "same_inventory_identifier_descendant",
+      "eligibility_rule": "Shared IFEP required",
+      "sources_with_candidates_n": 0,
+      "candidate_relations_n": 0,
+      "sources_with_multiple_candidates_n": 0,
+      "candidate_relations_without_shared_ifep_n": 0,
+      "project_N_sources_n": 0
+    }
+  ],
+  "cramers_v_all": 0.5864681202430728,
+  "cramers_v_without_N": 0.14962084694286987,
+  "network": {
+    "archived_associations_n": 4384,
+    "relevant_associations_n": 4375,
+    "excluded_source_associations_n": 9,
+    "archived_pfep_nodes_n": 1302,
+    "relevant_pfep_nodes_n": 1301,
+    "target_identifiers_n": 341,
+    "matched_catalogue_identifiers_n": 340,
+    "unmatched_target_identifiers": [
+      "VarBft01"
+    ],
+    "catalogue_records_n": 407,
+    "unlinked_catalogue_records_n": 67,
+    "connected_components_n": 3,
+    "largest_component_nodes_n": 1535,
+    "top_ten_target_share": 0.1959397810218978,
+    "annotation_patterns": [
+      {
+        "scope": "All archived associations",
+        "annotation_pattern": "Handled-aspects text only",
+        "association_n": 3498
+      },
+      {
+        "scope": "All archived associations",
+        "annotation_pattern": "Unhandled-because text only",
+        "association_n": 476
+      },
+      {
+        "scope": "All archived associations",
+        "annotation_pattern": "Both annotation fields",
+        "association_n": 125
+      },
+      {
+        "scope": "All archived associations",
+        "annotation_pattern": "Neither annotation field",
+        "association_n": 285
+      },
+      {
+        "scope": "Finally relevant PFEP associations",
+        "annotation_pattern": "Handled-aspects text only",
+        "association_n": 3489
+      },
+      {
+        "scope": "Finally relevant PFEP associations",
+        "annotation_pattern": "Unhandled-because text only",
+        "association_n": 476
+      },
+      {
+        "scope": "Finally relevant PFEP associations",
+        "annotation_pattern": "Both annotation fields",
+        "association_n": 125
+      },
+      {
+        "scope": "Finally relevant PFEP associations",
+        "annotation_pattern": "Neither annotation field",
+        "association_n": 285
+      }
+    ]
+  },
+  "external_review_passages_n": 42,
+  "external_review_source_counts": {
+    "SSM 2012:34": 24,
+    "SSM 2012:36": 13,
+    "OECD/NEA 2012": 5
+  },
+  "external_review_category_counts": {
+    "Navigability and access": 7,
+    "Cross-document consistency": 6,
+    "Actor attribution and QA": 5,
+    "Data/argument provenance": 5,
+    "Referential specificity": 4,
+    "Completeness and exclusion justification": 4,
+    "Temporal attribution": 3,
+    "Completeness and mapping": 3,
+    "Reproducibility and justification": 2,
+    "Completeness and corpus currency": 1,
+    "Contestability and unevenness": 1,
+    "Methodological coherence": 1
+  },
+  "retrieval": {
+    "covered_elsewhere_sources_n": 200,
+    "relevant_candidate_pool_n": 1301,
+    "documentary_unresolved_n": 164,
+    "source_text_empty_n": 144,
+    "source_text_empty_by_inventory": {
+      "A": 0,
+      "E": 0,
+      "H": 0,
+      "I": 0,
+      "J": 0,
+      "M": 0,
+      "N": 144,
+      "S": 0,
+      "W": 0
+    },
+    "documentary_unresolved_empty_source_text_n": 144,
+    "primary_search_outcomes": {
+      "candidate_at_or_above_threshold_n": 120,
+      "best_eligible_below_threshold_n": 24,
+      "no_eligible_candidate_n": 20
+    },
+    "primary_search_outcomes_by_inventory": {
+      "A": {
+        "documentary_unresolved_n": 1,
+        "source_text_empty_n": 0,
+        "candidate_at_or_above_threshold_n": 0,
+        "best_eligible_below_threshold_n": 1,
+        "no_eligible_candidate_n": 0
+      },
+      "E": {
+        "documentary_unresolved_n": 1,
+        "source_text_empty_n": 0,
+        "candidate_at_or_above_threshold_n": 0,
+        "best_eligible_below_threshold_n": 0,
+        "no_eligible_candidate_n": 1
+      },
+      "H": {
+        "documentary_unresolved_n": 1,
+        "source_text_empty_n": 0,
+        "candidate_at_or_above_threshold_n": 1,
+        "best_eligible_below_threshold_n": 0,
+        "no_eligible_candidate_n": 0
+      },
+      "J": {
+        "documentary_unresolved_n": 12,
+        "source_text_empty_n": 0,
+        "candidate_at_or_above_threshold_n": 10,
+        "best_eligible_below_threshold_n": 2,
+        "no_eligible_candidate_n": 0
+      },
+      "M": {
+        "documentary_unresolved_n": 2,
+        "source_text_empty_n": 0,
+        "candidate_at_or_above_threshold_n": 2,
+        "best_eligible_below_threshold_n": 0,
+        "no_eligible_candidate_n": 0
+      },
+      "N": {
+        "documentary_unresolved_n": 145,
+        "source_text_empty_n": 144,
+        "candidate_at_or_above_threshold_n": 105,
+        "best_eligible_below_threshold_n": 21,
+        "no_eligible_candidate_n": 19
+      },
+      "S": {
+        "documentary_unresolved_n": 1,
+        "source_text_empty_n": 0,
+        "candidate_at_or_above_threshold_n": 1,
+        "best_eligible_below_threshold_n": 0,
+        "no_eligible_candidate_n": 0
+      },
+      "W": {
+        "documentary_unresolved_n": 1,
+        "source_text_empty_n": 0,
+        "candidate_at_or_above_threshold_n": 1,
+        "best_eligible_below_threshold_n": 0,
+        "no_eligible_candidate_n": 0
+      }
+    },
+    "baseline_equals_title_ablation_for_empty_source_text": true,
+    "fallback_leaves_nonempty_queries_unchanged": true,
+    "primary_strict_benchmark": {
+      "benchmark_scope": "strict_source_endpoints",
+      "model": "baseline_text_fields",
+      "eligibility_rule": "shared_IFEP_required",
+      "n_source_cases": 18,
+      "n_Project_N_cases": 0,
+      "n_empty_source_text_cases": 0,
+      "eligible_candidate_n_min": 5,
+      "eligible_candidate_n_max": 186,
+      "cases_with_eligible_endpoint_n": 16,
+      "no_eligible_candidate_n": 0,
+      "no_endpoint_eligible_n": 2,
+      "median_best_rank_when_endpoint_eligible": 1.0,
+      "hit_at_1_n": 10,
+      "hit_at_1_fraction": 0.5555555555555556,
+      "hit_at_5_n": 13,
+      "hit_at_5_fraction": 0.7222222222222222,
+      "hit_at_10_n": 15,
+      "hit_at_10_fraction": 0.8333333333333334
+    },
+    "independent_domain_validation": false,
+    "documentary_inputs_modified": false,
+    "no_resolved_relevant_destination_n": 165,
+    "alternative_subset_primary_search_outcomes": {
+      "candidate_at_or_above_threshold_n": 121,
+      "best_eligible_below_threshold_n": 24,
+      "no_eligible_candidate_n": 20
+    }
+  }
+}

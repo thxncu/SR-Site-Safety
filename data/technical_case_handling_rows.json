@@ -1,0 +1,200 @@
+[
+  {
+    "source_record_id": "526",
+    "ASPECTS OF NEA FEP HANDLED": "Colloid generation from the buffer is discussed.",
+    "COMMENTS": "Does not really fit the FEP description.",
+    "NEA PROJECT FEP ID": "I 058",
+    "NEA PROJECT FEP NAME": "Colloid formation (natural and vault generated) ",
+    "SRSITE FEP ID": "Bu18"
+  },
+  {
+    "source_record_id": "527",
+    "ASPECTS OF NEA FEP HANDLED": "The effect of an alkaline plume from cement degradation is discussed.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "Ge17"
+  },
+  {
+    "source_record_id": "531",
+    "ASPECTS OF NEA FEP HANDLED": "The galvanic coupling between iron and copper does not lead to noticeable increase in the corrosion rate.",
+    "NEA PROJECT FEP ID": "I 126",
+    "NEA PROJECT FEP NAME": "Corrosion (galvanic coupling) ",
+    "SRSITE FEP ID": "C09"
+  },
+  {
+    "source_record_id": "1065",
+    "ASPECTS OF NEA FEP HANDLED": "Colloid generation from the backfill is discussed.",
+    "COMMENTS": "Does not really fit the FEP description.",
+    "NEA PROJECT FEP ID": "I 058",
+    "NEA PROJECT FEP NAME": "Colloid formation (natural and vault generated) ",
+    "SRSITE FEP ID": "BfT16"
+  },
+  {
+    "source_record_id": "1604",
+    "ASPECTS OF NEA FEP HANDLED": "Colloids and colloid stability are discussed. However, colloid formation is of no consequence for the chemical properties of the geosphere.",
+    "COMMENTS": "Colloid-facilitated radionuclide transport is further discussed in process \"Transport of radionuclides in the water phase\" (Ge24).",
+    "NEA PROJECT FEP ID": "I 058",
+    "NEA PROJECT FEP NAME": "Colloid formation (natural and vault generated) ",
+    "SRSITE FEP ID": "Ge18"
+  },
+  {
+    "source_record_id": "2143",
+    "ASPECTS OF NEA FEP HANDLED": "Colloid-facilitated transport included.",
+    "COMMENTS": "See also \"Colloid formation and transport\" (Ge18).",
+    "NEA PROJECT FEP ID": "I 058",
+    "NEA PROJECT FEP NAME": "Colloid formation (natural and vault generated) ",
+    "SRSITE FEP ID": "Ge24"
+  },
+  {
+    "source_record_id": "5852",
+    "ASPECTS OF NEA FEP HANDLED": "Impact of pH on thebackfill material is discussed.",
+    "COMMENTS": "See process \"Monmorillonite transformation\" (BfT15).",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarBfT09"
+  },
+  {
+    "source_record_id": "5910",
+    "ASPECTS OF NEA FEP HANDLED": "Different type of grout and concrete constructions. Amounts remaining at closure",
+    "COMMENTS": "Underground openings construction report, section 4.6\rClosure production report chapter 5",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarBfT10"
+  },
+  {
+    "source_record_id": "5911",
+    "ASPECTS OF NEA FEP HANDLED": "Impact of degradation of concrete grout in fractures is discussed.",
+    "COMMENTS": "See process \"Degradation of grout\" (GE17).",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarGe10"
+  },
+  {
+    "source_record_id": "5912",
+    "ASPECTS OF NEA FEP HANDLED": "Amount and composition of injection grout in rock fractures around deposition tunnels and other caverns.",
+    "COMMENTS": "Underground openings construction report, section 4.6\rClosure production report chapter 5",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarGe12"
+  },
+  {
+    "source_record_id": "5913",
+    "ASPECTS OF NEA FEP HANDLED": "Initial dimensions and composition of bottom plate.\rDegradation of concrete bottom plate.",
+    "COMMENTS": "Underground openings construction report, section 5.3.6.\rSee process \"Alteration of concrete\" (BP11)",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarBP08"
+  },
+  {
+    "source_record_id": "5915",
+    "ASPECTS OF NEA FEP HANDLED": "Impact of concrete alteration on porewater composition",
+    "COMMENTS": "See process \"Alteration of concrete components\" (CA15)",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarCA09"
+  },
+  {
+    "source_record_id": "5916",
+    "ASPECTS OF NEA FEP HANDLED": "Different type of grout and concrete constructions in the central area. Amounts ",
+    "COMMENTS": "Underground openings construction report, section 4.6\rClosure production report chapter 5",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarCA10"
+  },
+  {
+    "source_record_id": "5917",
+    "ASPECTS OF NEA FEP HANDLED": "Initial composition of concrete (low pH) and volume.\rEffects of long-term alterations. ",
+    "COMMENTS": "Backfill production report section 7.2 and chapter 10.\rSee process \"Alteration of concrete\" (Pg12)",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarPg08"
+  },
+  {
+    "source_record_id": "5918",
+    "ASPECTS OF NEA FEP HANDLED": "Effects of alteration on porewater composition",
+    "COMMENTS": "See process \"Alteration of concrete\" (Pg12)",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarPg09"
+  },
+  {
+    "source_record_id": "5919",
+    "ASPECTS OF NEA FEP HANDLED": "Backfill concepts for surface- and tunnel-based boreholes are discussed.",
+    "COMMENTS": "Closure production report section 3.5 and chapter 5.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarBhS08"
+  },
+  {
+    "source_record_id": "5920",
+    "ASPECTS OF NEA FEP HANDLED": "Impact of concrete alteration on porewater composition",
+    "COMMENTS": "See process \"Alteration of concrete\" (BhS12).",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarBhS09"
+  },
+  {
+    "source_record_id": "6279",
+    "ASPECTS OF NEA FEP HANDLED": "A QA plan has been implemented. Model issues are described in the model summary report.",
+    "NEA PROJECT FEP ID": "I 273",
+    "NEA PROJECT FEP NAME": "Container performance(incorrect modelling) ",
+    "SRSITE FEP ID": "Meth02"
+  },
+  {
+    "source_record_id": "7324",
+    "COMMENTS": "Not specifically discussed for the bottom plate.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "BP12"
+  },
+  {
+    "source_record_id": "7333",
+    "COMMENTS": "Not specifically discussed for the bottom plate.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry)  degradation of concrete",
+    "SRSITE FEP ID": "BP11"
+  },
+  {
+    "source_record_id": "7395",
+    "ASPECTS OF NEA FEP HANDLED": "Concrete is discussed.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "CA15"
+  },
+  {
+    "source_record_id": "7427",
+    "COMMENTS": "Not specifically discussed for the tunnel plug.",
+    "NEA PROJECT FEP ID": "I 058",
+    "NEA PROJECT FEP NAME": "Colloid formation (natural and vault generated) ",
+    "SRSITE FEP ID": "Pg16"
+  },
+  {
+    "source_record_id": "7446",
+    "COMMENTS": "Discussed in Pg12.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "Pg13"
+  },
+  {
+    "source_record_id": "7453",
+    "ASPECTS OF NEA FEP HANDLED": "Concrete is discussed.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "Pg12"
+  },
+  {
+    "source_record_id": "7544",
+    "ASPECTS OF NEA FEP HANDLED": "Effects of alteration on porewater composition",
+    "COMMENTS": "See process \"Alteration of concrete\" (BP11)",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "VarBP09"
+  },
+  {
+    "source_record_id": "8536",
+    "ASPECTS OF NEA FEP HANDLED": "The effect of high pH is discussed.",
+    "NEA PROJECT FEP ID": "I 061",
+    "NEA PROJECT FEP NAME": "Concrete (influence on vault chemistry) ",
+    "SRSITE FEP ID": "BfT15"
+  }
+]

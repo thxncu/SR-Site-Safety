@@ -1,0 +1,111 @@
+{
+  "covered_elsewhere_sources_n": 200,
+  "relevant_candidate_pool_n": 1301,
+  "documentary_unresolved_n": 164,
+  "source_text_empty_n": 144,
+  "source_text_empty_by_inventory": {
+    "A": 0,
+    "E": 0,
+    "H": 0,
+    "I": 0,
+    "J": 0,
+    "M": 0,
+    "N": 144,
+    "S": 0,
+    "W": 0
+  },
+  "documentary_unresolved_empty_source_text_n": 144,
+  "primary_search_outcomes": {
+    "candidate_at_or_above_threshold_n": 120,
+    "best_eligible_below_threshold_n": 24,
+    "no_eligible_candidate_n": 20
+  },
+  "primary_search_outcomes_by_inventory": {
+    "A": {
+      "documentary_unresolved_n": 1,
+      "source_text_empty_n": 0,
+      "candidate_at_or_above_threshold_n": 0,
+      "best_eligible_below_threshold_n": 1,
+      "no_eligible_candidate_n": 0
+    },
+    "E": {
+      "documentary_unresolved_n": 1,
+      "source_text_empty_n": 0,
+      "candidate_at_or_above_threshold_n": 0,
+      "best_eligible_below_threshold_n": 0,
+      "no_eligible_candidate_n": 1
+    },
+    "H": {
+      "documentary_unresolved_n": 1,
+      "source_text_empty_n": 0,
+      "candidate_at_or_above_threshold_n": 1,
+      "best_eligible_below_threshold_n": 0,
+      "no_eligible_candidate_n": 0
+    },
+    "J": {
+      "documentary_unresolved_n": 12,
+      "source_text_empty_n": 0,
+      "candidate_at_or_above_threshold_n": 10,
+      "best_eligible_below_threshold_n": 2,
+      "no_eligible_candidate_n": 0
+    },
+    "M": {
+      "documentary_unresolved_n": 2,
+      "source_text_empty_n": 0,
+      "candidate_at_or_above_threshold_n": 2,
+      "best_eligible_below_threshold_n": 0,
+      "no_eligible_candidate_n": 0
+    },
+    "N": {
+      "documentary_unresolved_n": 145,
+      "source_text_empty_n": 144,
+      "candidate_at_or_above_threshold_n": 105,
+      "best_eligible_below_threshold_n": 21,
+      "no_eligible_candidate_n": 19
+    },
+    "S": {
+      "documentary_unresolved_n": 1,
+      "source_text_empty_n": 0,
+      "candidate_at_or_above_threshold_n": 1,
+      "best_eligible_below_threshold_n": 0,
+      "no_eligible_candidate_n": 0
+    },
+    "W": {
+      "documentary_unresolved_n": 1,
+      "source_text_empty_n": 0,
+      "candidate_at_or_above_threshold_n": 1,
+      "best_eligible_below_threshold_n": 0,
+      "no_eligible_candidate_n": 0
+    }
+  },
+  "baseline_equals_title_ablation_for_empty_source_text": true,
+  "fallback_leaves_nonempty_queries_unchanged": true,
+  "primary_strict_benchmark": {
+    "benchmark_scope": "strict_source_endpoints",
+    "model": "baseline_text_fields",
+    "eligibility_rule": "shared_IFEP_required",
+    "n_source_cases": 18,
+    "n_Project_N_cases": 0,
+    "n_empty_source_text_cases": 0,
+    "eligible_candidate_n_min": 5,
+    "eligible_candidate_n_max": 186,
+    "cases_with_eligible_endpoint_n": 16,
+    "no_eligible_candidate_n": 0,
+    "no_endpoint_eligible_n": 2,
+    "median_best_rank_when_endpoint_eligible": 1.0,
+    "hit_at_1_n": 10,
+    "hit_at_1_fraction": 0.5555555555555556,
+    "hit_at_5_n": 13,
+    "hit_at_5_fraction": 0.7222222222222222,
+    "hit_at_10_n": 15,
+    "hit_at_10_fraction": 0.8333333333333334
+  },
+  "independent_domain_validation": false,
+  "documentary_inputs_modified": false,
+  "no_resolved_relevant_destination_n": 165,
+  "alternative_subset_primary_search_outcomes": {
+    "candidate_at_or_above_threshold_n": 121,
+    "best_eligible_below_threshold_n": 24,
+    "no_eligible_candidate_n": 20
+  }
+}

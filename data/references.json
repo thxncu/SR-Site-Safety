@@ -1,0 +1,1412 @@
+{
+  "references": [
+    {
+      "key": "Baldwin2012",
+      "citation": "Baldwin & Hicks, 2012",
+      "parts": [
+        {
+          "text": "Baldwin, T. D., & Hicks, T. W. (2012). ",
+          "italic": false
+        },
+        {
+          "text": "Documentation and traceability of data in SKB's safety assessment SR-Site: Initial review phase",
+          "italic": true
+        },
+        {
+          "text": " (SSM 2012:36). Swedish Radiation Safety Authority.",
+          "italic": false
+        },
+        {
+          "text": " https://www.stralsakerhetsmyndigheten.se/en/publications/reports/waste-shipments-physical-protection/2012/201236/",
+          "italic": false,
+          "url": "https://www.stralsakerhetsmyndigheten.se/en/publications/reports/waste-shipments-physical-protection/2012/201236/"
+        }
+      ],
+      "text": "Baldwin, T. D., & Hicks, T. W. (2012). Documentation and traceability of data in SKB's safety assessment SR-Site: Initial review phase (SSM 2012:36). Swedish Radiation Safety Authority. https://www.stralsakerhetsmyndigheten.se/en/publications/reports/waste-shipments-physical-protection/2012/201236/",
+      "year": 2012
+    },
+    {
+      "key": "Barthe2020",
+      "citation": "Barthe et al., 2020",
+      "parts": [
+        {
+          "text": "Barthe, Y., Elam, M., & Sundqvist, G. (2020). ",
+          "italic": false
+        },
+        {
+          "text": "Technological fix or divisible object of collective concern? Histories of conflict over the geological disposal of nuclear waste in Sweden and France. ",
+          "italic": false
+        },
+        {
+          "text": "Science as Culture, 29",
+          "italic": true
+        },
+        {
+          "text": "(2), 196–218.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1080/09505431.2019.1645108",
+          "italic": false,
+          "url": "https://doi.org/10.1080/09505431.2019.1645108"
+        }
+      ],
+      "text": "Barthe, Y., Elam, M., & Sundqvist, G. (2020). Technological fix or divisible object of collective concern? Histories of conflict over the geological disposal of nuclear waste in Sweden and France. Science as Culture, 29(2), 196–218. https://doi.org/10.1080/09505431.2019.1645108",
+      "year": 2020
+    },
+    {
+      "key": "Beltagy2019",
+      "citation": "Beltagy et al., 2019",
+      "year": 2019,
+      "text": "Beltagy, I., Lo, K., & Cohan, A. (2019). SciBERT: A pretrained language model for scientific text. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (pp. 3615–3620). Association for Computational Linguistics. https://doi.org/10.18653/v1/D19-1371",
+      "parts": [
+        {
+          "text": "Beltagy, I., Lo, K., & Cohan, A. (2019). SciBERT: A pretrained language model for scientific text. In ",
+          "italic": false
+        },
+        {
+          "text": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing",
+          "italic": true
+        },
+        {
+          "text": " (pp. 3615–3620). Association for Computational Linguistics. ",
+          "italic": false
+        },
+        {
+          "text": "https://doi.org/10.18653/v1/D19-1371",
+          "italic": false,
+          "url": "https://doi.org/10.18653/v1/D19-1371"
+        }
+      ]
+    },
+    {
+      "key": "Bergsma2013",
+      "citation": "Bergsma, 2013",
+      "year": 2013,
+      "text": "Bergsma, W. (2013). A bias-correction for Cramér’s V and Tschuprow’s T. Journal of the Korean Statistical Society, 42(3), 323–328. https://doi.org/10.1016/j.jkss.2012.10.002",
+      "parts": [
+        {
+          "text": "Bergsma, W. (2013). A bias-correction for Cramér’s V and Tschuprow’s T. ",
+          "italic": false
+        },
+        {
+          "text": "Journal of the Korean Statistical Society, 42",
+          "italic": true
+        },
+        {
+          "text": "(3), 323–328. ",
+          "italic": false
+        },
+        {
+          "text": "https://doi.org/10.1016/j.jkss.2012.10.002",
+          "italic": false,
+          "url": "https://doi.org/10.1016/j.jkss.2012.10.002"
+        }
+      ]
+    },
+    {
+      "key": "Bowker1999",
+      "citation": "Bowker & Star, 1999",
+      "parts": [
+        {
+          "text": "Bowker, G. C., & Star, S. L. (1999). ",
+          "italic": false
+        },
+        {
+          "text": "Sorting things out: Classification and its consequences",
+          "italic": true
+        },
+        {
+          "text": ". MIT Press.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.7551/mitpress/6352.001.0001",
+          "italic": false,
+          "url": "https://doi.org/10.7551/mitpress/6352.001.0001"
+        }
+      ],
+      "text": "Bowker, G. C., & Star, S. L. (1999). Sorting things out: Classification and its consequences. MIT Press. https://doi.org/10.7551/mitpress/6352.001.0001",
+      "year": 1999
+    },
+    {
+      "key": "Cobbe2021",
+      "citation": "Cobbe et al., 2021",
+      "parts": [
+        {
+          "text": "Cobbe, J., Lee, M. S. A., & Singh, J. (2021). ",
+          "italic": false
+        },
+        {
+          "text": "Reviewable automated decision-making: A framework for accountable algorithmic systems. In ",
+          "italic": false
+        },
+        {
+          "text": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+          "italic": true
+        },
+        {
+          "text": " (pp. 598–609). Association for Computing Machinery.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1145/3442188.3445921",
+          "italic": false,
+          "url": "https://doi.org/10.1145/3442188.3445921"
+        }
+      ],
+      "text": "Cobbe, J., Lee, M. S. A., & Singh, J. (2021). Reviewable automated decision-making: A framework for accountable algorithmic systems. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 598–609). Association for Computing Machinery. https://doi.org/10.1145/3442188.3445921",
+      "year": 2021
+    },
+    {
+      "key": "Downer2024",
+      "citation": "Downer, 2024",
+      "parts": [
+        {
+          "text": "Downer, J. (2024). ",
+          "italic": false
+        },
+        {
+          "text": "Rational accidents: Reckoning with catastrophic technologies",
+          "italic": true
+        },
+        {
+          "text": ". MIT Press.",
+          "italic": false
+        },
+        {
+          "text": " https://mitpress.mit.edu/9780262546997/rational-accidents/",
+          "italic": false,
+          "url": "https://mitpress.mit.edu/9780262546997/rational-accidents/"
+        }
+      ],
+      "text": "Downer, J. (2024). Rational accidents: Reckoning with catastrophic technologies. MIT Press. https://mitpress.mit.edu/9780262546997/rational-accidents/",
+      "year": 2024
+    },
+    {
+      "key": "Durdovic2026",
+      "citation": "Durdovic, 2026",
+      "parts": [
+        {
+          "text": "Durdovic, M. (2026). ",
+          "italic": false
+        },
+        {
+          "text": "The democratic durability of nuclear waste disposal: Narratives of local opposition in the United States and the Czech Republic. ",
+          "italic": false
+        },
+        {
+          "text": "Progress in Nuclear Energy, 200",
+          "italic": true
+        },
+        {
+          "text": ", Article 106529.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1016/j.pnucene.2026.106529",
+          "italic": false,
+          "url": "https://doi.org/10.1016/j.pnucene.2026.106529"
+        }
+      ],
+      "text": "Durdovic, M. (2026). The democratic durability of nuclear waste disposal: Narratives of local opposition in the United States and the Czech Republic. Progress in Nuclear Energy, 200, Article 106529. https://doi.org/10.1016/j.pnucene.2026.106529",
+      "year": 2026
+    },
+    {
+      "key": "Ebeling2025",
+      "citation": "Ebeling et al., 2025",
+      "parts": [
+        {
+          "text": "Ebeling, M., Heiermann, M., & Röhlig, K.-J. (2025). ",
+          "italic": false
+        },
+        {
+          "text": "Opportunities for the further development of the safety case for deep geological repositories by transdisciplinary research – FEP catalogs and scenario development. ",
+          "italic": false
+        },
+        {
+          "text": "Frontiers in Nuclear Engineering, 3",
+          "italic": true
+        },
+        {
+          "text": ", Article 1416508.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.3389/fnuen.2024.1416508",
+          "italic": false,
+          "url": "https://doi.org/10.3389/fnuen.2024.1416508"
+        }
+      ],
+      "text": "Ebeling, M., Heiermann, M., & Röhlig, K.-J. (2025). Opportunities for the further development of the safety case for deep geological repositories by transdisciplinary research – FEP catalogs and scenario development. Frontiers in Nuclear Engineering, 3, Article 1416508. https://doi.org/10.3389/fnuen.2024.1416508",
+      "year": 2025
+    },
+    {
+      "key": "Elam2009",
+      "citation": "Elam & Sundqvist, 2009",
+      "parts": [
+        {
+          "text": "Elam, M., & Sundqvist, G. (2009). ",
+          "italic": false
+        },
+        {
+          "text": "The Swedish KBS project: A last word in nuclear fuel safety prepares to conquer the world? ",
+          "italic": false
+        },
+        {
+          "text": "Journal of Risk Research, 12",
+          "italic": true
+        },
+        {
+          "text": "(7–8), 969–988.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1080/13669870903126077",
+          "italic": false,
+          "url": "https://doi.org/10.1080/13669870903126077"
+        }
+      ],
+      "text": "Elam, M., & Sundqvist, G. (2009). The Swedish KBS project: A last word in nuclear fuel safety prepares to conquer the world? Journal of Risk Research, 12(7–8), 969–988. https://doi.org/10.1080/13669870903126077",
+      "year": 2009
+    },
+    {
+      "key": "Emmenegger2025",
+      "citation": "Emmenegger, 2025",
+      "parts": [
+        {
+          "text": "Emmenegger, R. (2025). ",
+          "italic": false
+        },
+        {
+          "text": "Nuclear strata: Enacting clay for the deep geological disposal of nuclear waste in Switzerland. ",
+          "italic": false
+        },
+        {
+          "text": "Environment and Planning E: Nature and Space, 8",
+          "italic": true
+        },
+        {
+          "text": "(3), 978–1001.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1177/25148486251324935",
+          "italic": false,
+          "url": "https://doi.org/10.1177/25148486251324935"
+        }
+      ],
+      "text": "Emmenegger, R. (2025). Nuclear strata: Enacting clay for the deep geological disposal of nuclear waste in Switzerland. Environment and Planning E: Nature and Space, 8(3), 978–1001. https://doi.org/10.1177/25148486251324935",
+      "year": 2025
+    },
+    {
+      "key": "Gotel1994",
+      "citation": "Gotel & Finkelstein, 1994",
+      "parts": [
+        {
+          "text": "Gotel, O. C. Z., & Finkelstein, A. C. W. (1994). ",
+          "italic": false
+        },
+        {
+          "text": "An analysis of the requirements traceability problem. In ",
+          "italic": false
+        },
+        {
+          "text": "Proceedings of the First International Conference on Requirements Engineering",
+          "italic": true
+        },
+        {
+          "text": " (pp. 94–101). IEEE Computer Society Press.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1109/ICRE.1994.292398",
+          "italic": false,
+          "url": "https://doi.org/10.1109/ICRE.1994.292398"
+        }
+      ],
+      "text": "Gotel, O. C. Z., & Finkelstein, A. C. W. (1994). An analysis of the requirements traceability problem. In Proceedings of the First International Conference on Requirements Engineering (pp. 94–101). IEEE Computer Society Press. https://doi.org/10.1109/ICRE.1994.292398",
+      "year": 1994
+    },
+    {
+      "key": "Government2022",
+      "citation": "Government Offices of Sweden, 2022",
+      "parts": [
+        {
+          "text": "Government Offices of Sweden (2022, January 27). ",
+          "italic": false
+        },
+        {
+          "text": "Final disposal of spent nuclear fuel",
+          "italic": true
+        },
+        {
+          "text": ".",
+          "italic": false
+        },
+        {
+          "text": " https://www.government.se/articles/2022/01/final-disposal-of-spent-nuclear-fuel/",
+          "italic": false,
+          "url": "https://www.government.se/articles/2022/01/final-disposal-of-spent-nuclear-fuel/"
+        }
+      ],
+      "text": "Government Offices of Sweden (2022, January 27). Final disposal of spent nuclear fuel. https://www.government.se/articles/2022/01/final-disposal-of-spent-nuclear-fuel/",
+      "year": 2022
+    },
+    {
+      "key": "Rohlig2024",
+      "citation": "Heiermann & Olszok, 2024",
+      "parts": [
+        {
+          "text": "Heiermann, M., & Olszok, V. (2024). ",
+          "italic": false
+        },
+        {
+          "text": "Transdisciplinary research on the safety case for nuclear waste repositories with a special focus on uncertainties and indicators. ",
+          "italic": false
+        },
+        {
+          "text": "Frontiers in Nuclear Engineering, 3",
+          "italic": true
+        },
+        {
+          "text": ", Article 1414964.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.3389/fnuen.2024.1414964",
+          "italic": false,
+          "url": "https://doi.org/10.3389/fnuen.2024.1414964"
+        }
+      ],
+      "text": "Heiermann, M., & Olszok, V. (2024). Transdisciplinary research on the safety case for nuclear waste repositories with a special focus on uncertainties and indicators. Frontiers in Nuclear Engineering, 3, Article 1414964. https://doi.org/10.3389/fnuen.2024.1414964",
+      "year": 2024
+    },
+    {
+      "key": "Hicks2012",
+      "citation": "Hicks & Baldwin, 2012",
+      "parts": [
+        {
+          "text": "Hicks, T. W., & Baldwin, T. D. (2012). ",
+          "italic": false
+        },
+        {
+          "text": "Review of FEP handling in the SR-Site safety assessment: Initial review phase",
+          "italic": true
+        },
+        {
+          "text": " (SSM 2012:34). Swedish Radiation Safety Authority.",
+          "italic": false
+        },
+        {
+          "text": " https://www.stralsakerhetsmyndigheten.se/publikationer/rapporter/avfall--transport--fysiskt-skydd/2012/201234/",
+          "italic": false,
+          "url": "https://www.stralsakerhetsmyndigheten.se/publikationer/rapporter/avfall--transport--fysiskt-skydd/2012/201234/"
+        }
+      ],
+      "text": "Hicks, T. W., & Baldwin, T. D. (2012). Review of FEP handling in the SR-Site safety assessment: Initial review phase (SSM 2012:34). Swedish Radiation Safety Authority. https://www.stralsakerhetsmyndigheten.se/publikationer/rapporter/avfall--transport--fysiskt-skydd/2012/201234/",
+      "year": 2012
+    },
+    {
+      "key": "Hietala2022",
+      "citation": "Hietala & Geysmans, 2022",
+      "parts": [
+        {
+          "text": "Hietala, M., & Geysmans, R. (2022). ",
+          "italic": false
+        },
+        {
+          "text": "Social sciences and radioactive waste management: Acceptance, acceptability, and a persisting socio-technical divide. ",
+          "italic": false
+        },
+        {
+          "text": "Journal of Risk Research, 25",
+          "italic": true
+        },
+        {
+          "text": "(4), 423–438.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1080/13669877.2020.1864010",
+          "italic": false,
+          "url": "https://doi.org/10.1080/13669877.2020.1864010"
+        }
+      ],
+      "text": "Hietala, M., & Geysmans, R. (2022). Social sciences and radioactive waste management: Acceptance, acceptability, and a persisting socio-technical divide. Journal of Risk Research, 25(4), 423–438. https://doi.org/10.1080/13669877.2020.1864010",
+      "year": 2022
+    },
+    {
+      "key": "Hume2024",
+      "citation": "Hume et al., 2024",
+      "parts": [
+        {
+          "text": "Hume, S., West, G., & Dobie, G. (2024). ",
+          "italic": false
+        },
+        {
+          "text": "A framework for capturing and representing the process to classify nuclear waste and informing where processes can be automated. ",
+          "italic": false
+        },
+        {
+          "text": "Progress in Nuclear Energy, 170",
+          "italic": true
+        },
+        {
+          "text": ", Article 105133.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1016/j.pnucene.2024.105133",
+          "italic": false,
+          "url": "https://doi.org/10.1016/j.pnucene.2024.105133"
+        }
+      ],
+      "text": "Hume, S., West, G., & Dobie, G. (2024). A framework for capturing and representing the process to classify nuclear waste and informing where processes can be automated. Progress in Nuclear Energy, 170, Article 105133. https://doi.org/10.1016/j.pnucene.2024.105133",
+      "year": 2024
+    },
+    {
+      "key": "IAEA2012",
+      "citation": "IAEA, 2012",
+      "parts": [
+        {
+          "text": "International Atomic Energy Agency (2012). ",
+          "italic": false
+        },
+        {
+          "text": "The safety case and safety assessment for the disposal of radioactive waste",
+          "italic": true
+        },
+        {
+          "text": " (IAEA Safety Standards Series No. SSG-23).",
+          "italic": false
+        },
+        {
+          "text": " https://gnssn.iaea.org/RTWS/hidra/Shared%20Documents/related%20IAEA%20SS/SSG-23.pdf",
+          "italic": false,
+          "url": "https://gnssn.iaea.org/RTWS/hidra/Shared%20Documents/related%20IAEA%20SS/SSG-23.pdf"
+        }
+      ],
+      "text": "International Atomic Energy Agency (2012). The safety case and safety assessment for the disposal of radioactive waste (IAEA Safety Standards Series No. SSG-23). https://gnssn.iaea.org/RTWS/hidra/Shared%20Documents/related%20IAEA%20SS/SSG-23.pdf",
+      "year": 2012
+    },
+    {
+      "key": "Kang2025",
+      "citation": "Kang et al., 2025",
+      "parts": [
+        {
+          "text": "Kang, M., Son, K., Yang, J., Lee, H., Jeong, H., Choi, K., Kim, H., Heo, G., & Chang, K. (2025). ",
+          "italic": false
+        },
+        {
+          "text": "Development of integrated FEPs for safety case scenario development. ",
+          "italic": false
+        },
+        {
+          "text": "Journal of Nuclear Science and Technology, 62",
+          "italic": true
+        },
+        {
+          "text": "(2), 209–213.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1080/00223131.2024.2414778",
+          "italic": false,
+          "url": "https://doi.org/10.1080/00223131.2024.2414778"
+        }
+      ],
+      "text": "Kang, M., Son, K., Yang, J., Lee, H., Jeong, H., Choi, K., Kim, H., Heo, G., & Chang, K. (2025). Development of integrated FEPs for safety case scenario development. Journal of Nuclear Science and Technology, 62(2), 209–213. https://doi.org/10.1080/00223131.2024.2414778",
+      "year": 2025
+    },
+    {
+      "key": "Klinke2012",
+      "citation": "Klinke & Renn, 2012",
+      "parts": [
+        {
+          "text": "Klinke, A., & Renn, O. (2012). ",
+          "italic": false
+        },
+        {
+          "text": "Adaptive and integrative governance on risk and uncertainty. ",
+          "italic": false
+        },
+        {
+          "text": "Journal of Risk Research, 15",
+          "italic": true
+        },
+        {
+          "text": "(3), 273–292.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1080/13669877.2011.636838",
+          "italic": false,
+          "url": "https://doi.org/10.1080/13669877.2011.636838"
+        }
+      ],
+      "text": "Klinke, A., & Renn, O. (2012). Adaptive and integrative governance on risk and uncertainty. Journal of Risk Research, 15(3), 273–292. https://doi.org/10.1080/13669877.2011.636838",
+      "year": 2012
+    },
+    {
+      "key": "Klinke2021",
+      "citation": "Klinke & Renn, 2021",
+      "parts": [
+        {
+          "text": "Klinke, A., & Renn, O. (2021). ",
+          "italic": false
+        },
+        {
+          "text": "The coming of age of risk governance. ",
+          "italic": false
+        },
+        {
+          "text": "Risk Analysis, 41",
+          "italic": true
+        },
+        {
+          "text": "(3), 544–557.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1111/risa.13383",
+          "italic": false,
+          "url": "https://doi.org/10.1111/risa.13383"
+        }
+      ],
+      "text": "Klinke, A., & Renn, O. (2021). The coming of age of risk governance. Risk Analysis, 41(3), 544–557. https://doi.org/10.1111/risa.13383",
+      "year": 2021
+    },
+    {
+      "key": "Kuhlman2024",
+      "citation": "Kuhlman et al., 2024",
+      "parts": [
+        {
+          "text": "Kuhlman, K. L., Bartol, J., Carter, A., Lommerzheim, A., & Wolf, J. (2024). ",
+          "italic": false
+        },
+        {
+          "text": "Scenario development for safety assessment in deep geologic disposal of high-level radioactive waste and spent nuclear fuel: A review. ",
+          "italic": false
+        },
+        {
+          "text": "Risk Analysis, 44",
+          "italic": true
+        },
+        {
+          "text": "(8), 1850–1864.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1111/risa.14276",
+          "italic": false,
+          "url": "https://doi.org/10.1111/risa.14276"
+        }
+      ],
+      "text": "Kuhlman, K. L., Bartol, J., Carter, A., Lommerzheim, A., & Wolf, J. (2024). Scenario development for safety assessment in deep geologic disposal of high-level radioactive waste and spent nuclear fuel: A review. Risk Analysis, 44(8), 1850–1864. https://doi.org/10.1111/risa.14276",
+      "year": 2024
+    },
+    {
+      "key": "Lehtonen2022",
+      "citation": "Lehtonen et al., 2022",
+      "parts": [
+        {
+          "text": "Lehtonen, M., Kojo, M., Kari, M., Jartti, T., & Litmanen, T. (2022). ",
+          "italic": false
+        },
+        {
+          "text": "Trust, mistrust and distrust as blind spots of Social Licence to Operate: Illustration via three forerunner countries in nuclear waste management. ",
+          "italic": false
+        },
+        {
+          "text": "Journal of Risk Research, 25",
+          "italic": true
+        },
+        {
+          "text": "(5), 577–593.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1080/13669877.2021.1957987",
+          "italic": false,
+          "url": "https://doi.org/10.1080/13669877.2021.1957987"
+        }
+      ],
+      "text": "Lehtonen, M., Kojo, M., Kari, M., Jartti, T., & Litmanen, T. (2022). Trust, mistrust and distrust as blind spots of Social Licence to Operate: Illustration via three forerunner countries in nuclear waste management. Journal of Risk Research, 25(5), 577–593. https://doi.org/10.1080/13669877.2021.1957987",
+      "year": 2022
+    },
+    {
+      "key": "Marchau2019",
+      "citation": "Marchau et al., 2019",
+      "parts": [
+        {
+          "text": "Marchau, V. A. W. J., Walker, W. E., Bloemen, P. J. T. M., & Popper, S. W. (Eds.). (2019). ",
+          "italic": false
+        },
+        {
+          "text": "Decision making under deep uncertainty: From theory to practice",
+          "italic": true
+        },
+        {
+          "text": ". Springer.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1007/978-3-030-05252-2",
+          "italic": false,
+          "url": "https://doi.org/10.1007/978-3-030-05252-2"
+        }
+      ],
+      "text": "Marchau, V. A. W. J., Walker, W. E., Bloemen, P. J. T. M., & Popper, S. W. (Eds.). (2019). Decision making under deep uncertainty: From theory to practice. Springer. https://doi.org/10.1007/978-3-030-05252-2",
+      "year": 2019
+    },
+    {
+      "key": "Mbah2024",
+      "citation": "Mbah & Kuppler, 2024",
+      "parts": [
+        {
+          "text": "Mbah, M., & Kuppler, S. (2024). ",
+          "italic": false
+        },
+        {
+          "text": "Governing nuclear waste in the long term: On the role of place. ",
+          "italic": false
+        },
+        {
+          "text": "Historical Social Research, 49",
+          "italic": true
+        },
+        {
+          "text": "(1), 193–226.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.12759/hsr.49.2024.09",
+          "italic": false,
+          "url": "https://doi.org/10.12759/hsr.49.2024.09"
+        }
+      ],
+      "text": "Mbah, M., & Kuppler, S. (2024). Governing nuclear waste in the long term: On the role of place. Historical Social Research, 49(1), 193–226. https://doi.org/10.12759/hsr.49.2024.09",
+      "year": 2024
+    },
+    {
+      "key": "Moreau2013",
+      "citation": "Moreau & Missier, 2013",
+      "parts": [
+        {
+          "text": "Moreau, L., & Missier, P. (Eds.). (2013). ",
+          "italic": false
+        },
+        {
+          "text": "PROV-DM: The PROV data model",
+          "italic": true
+        },
+        {
+          "text": " (W3C Recommendation, 30 April 2013). World Wide Web Consortium. ",
+          "italic": false
+        },
+        {
+          "text": "https://www.w3.org/TR/prov-dm/",
+          "italic": false,
+          "url": "https://www.w3.org/TR/prov-dm/"
+        }
+      ],
+      "text": "Moreau, L., & Missier, P. (Eds.). (2013). PROV-DM: The PROV data model (W3C Recommendation, 30 April 2013). World Wide Web Consortium. https://www.w3.org/TR/prov-dm/",
+      "year": 2013
+    },
+    {
+      "key": "Muller2025",
+      "citation": "Müller et al., 2025",
+      "parts": [
+        {
+          "text": "Müller, P., Gottron, E.-M., Messerschmidt, Y., Schöne, F., Wengorsch, T., Bartetzko, A., & Rühaak, W. (2025). ",
+          "italic": false
+        },
+        {
+          "text": "Database application for multi-level area-specific FEP catalogues in the German site selection process for high-level radioactive waste disposal. ",
+          "italic": false
+        },
+        {
+          "text": "Advances in Geosciences, 67",
+          "italic": true
+        },
+        {
+          "text": ", 25–33.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.5194/adgeo-67-25-2025",
+          "italic": false,
+          "url": "https://doi.org/10.5194/adgeo-67-25-2025"
+        }
+      ],
+      "text": "Müller, P., Gottron, E.-M., Messerschmidt, Y., Schöne, F., Wengorsch, T., Bartetzko, A., & Rühaak, W. (2025). Database application for multi-level area-specific FEP catalogues in the German site selection process for high-level radioactive waste disposal. Advances in Geosciences, 67, 25–33. https://doi.org/10.5194/adgeo-67-25-2025",
+      "year": 2025
+    },
+    {
+      "key": "NEA1992",
+      "citation": "NEA, 1992",
+      "parts": [
+        {
+          "text": "Nuclear Energy Agency (1992). ",
+          "italic": false
+        },
+        {
+          "text": "Safety assessment of radioactive waste repositories: Systematic approaches to scenario development",
+          "italic": true
+        },
+        {
+          "text": ". OECD Publishing.",
+          "italic": false
+        },
+        {
+          "text": " https://www.oecd-nea.org/upload/docs/application/pdf/2020-11/1992_a_seul_systematic_approaches_to_scenario_development_2020-11-13_16-54-52_960.pdf",
+          "italic": false,
+          "url": "https://www.oecd-nea.org/upload/docs/application/pdf/2020-11/1992_a_seul_systematic_approaches_to_scenario_development_2020-11-13_16-54-52_960.pdf"
+        }
+      ],
+      "text": "Nuclear Energy Agency (1992). Safety assessment of radioactive waste repositories: Systematic approaches to scenario development. OECD Publishing. https://www.oecd-nea.org/upload/docs/application/pdf/2020-11/1992_a_seul_systematic_approaches_to_scenario_development_2020-11-13_16-54-52_960.pdf",
+      "year": 1992
+    },
+    {
+      "key": "NEA2012",
+      "citation": "NEA, 2012",
+      "parts": [
+        {
+          "text": "Nuclear Energy Agency (2012). ",
+          "italic": false
+        },
+        {
+          "text": "The post-closure radiological safety case for a spent fuel repository in Sweden: An international peer review of the SKB license-application study of March 2011",
+          "italic": true
+        },
+        {
+          "text": " (NEA No. 7084). OECD Publishing.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1787/9789264991910-en",
+          "italic": false,
+          "url": "https://doi.org/10.1787/9789264991910-en"
+        }
+      ],
+      "text": "Nuclear Energy Agency (2012). The post-closure radiological safety case for a spent fuel repository in Sweden: An international peer review of the SKB license-application study of March 2011 (NEA No. 7084). OECD Publishing. https://doi.org/10.1787/9789264991910-en",
+      "year": 2012
+    },
+    {
+      "key": "NEA2019",
+      "citation": "NEA, 2019",
+      "parts": [
+        {
+          "text": "Nuclear Energy Agency (2019). ",
+          "italic": false
+        },
+        {
+          "text": "Preservation of records, knowledge and memory (RK&M) across generations: Final report of the RK&M initiative",
+          "italic": true
+        },
+        {
+          "text": " (NEA No. 7421). OECD Publishing.",
+          "italic": false
+        },
+        {
+          "text": " https://oecd-nea.org/jcms/pl_15088/preservation-of-records-knowledge-and-memory-across-generations-final-report",
+          "italic": false,
+          "url": "https://oecd-nea.org/jcms/pl_15088/preservation-of-records-knowledge-and-memory-across-generations-final-report"
+        }
+      ],
+      "text": "Nuclear Energy Agency (2019). Preservation of records, knowledge and memory (RK&M) across generations: Final report of the RK&M initiative (NEA No. 7421). OECD Publishing. https://oecd-nea.org/jcms/pl_15088/preservation-of-records-knowledge-and-memory-across-generations-final-report",
+      "year": 2019
+    },
+    {
+      "key": "NEA2024",
+      "citation": "NEA, 2024",
+      "parts": [
+        {
+          "text": "Nuclear Energy Agency (2024). ",
+          "italic": false
+        },
+        {
+          "text": "International features, events and processes (IFEP) list for the deep geological disposal of radioactive waste",
+          "italic": true
+        },
+        {
+          "text": " (Version 3.1; NEA/RWM/R(2024)2). OECD Publishing.",
+          "italic": false
+        },
+        {
+          "text": " https://www.oecd-nea.org/upload/docs/application/pdf/2024-11/2b_-_nea_rwm_r_2024_2.pdf",
+          "italic": false,
+          "url": "https://www.oecd-nea.org/upload/docs/application/pdf/2024-11/2b_-_nea_rwm_r_2024_2.pdf"
+        }
+      ],
+      "text": "Nuclear Energy Agency (2024). International features, events and processes (IFEP) list for the deep geological disposal of radioactive waste (Version 3.1; NEA/RWM/R(2024)2). OECD Publishing. https://www.oecd-nea.org/upload/docs/application/pdf/2024-11/2b_-_nea_rwm_r_2024_2.pdf",
+      "year": 2024
+    },
+    {
+      "key": "NEA2025",
+      "citation": "NEA, 2025",
+      "parts": [
+        {
+          "text": "Nuclear Energy Agency (2025). ",
+          "italic": false
+        },
+        {
+          "text": "Digital safety case integration for radioactive waste and geological disposal",
+          "italic": true
+        },
+        {
+          "text": " [Workshop webpage, 23–24 April 2025]. OECD Nuclear Energy Agency.",
+          "italic": false
+        },
+        {
+          "text": " https://oecd-nea.org/jcms/pl_96243/digital-safety-case-integration-for-radioactive-waste-and-geological-disposal",
+          "italic": false,
+          "url": "https://oecd-nea.org/jcms/pl_96243/digital-safety-case-integration-for-radioactive-waste-and-geological-disposal"
+        }
+      ],
+      "text": "Nuclear Energy Agency (2025). Digital safety case integration for radioactive waste and geological disposal [Workshop webpage, 23–24 April 2025]. OECD Nuclear Energy Agency. https://oecd-nea.org/jcms/pl_96243/digital-safety-case-integration-for-radioactive-waste-and-geological-disposal",
+      "year": 2025
+    },
+    {
+      "key": "Oreskes1994",
+      "citation": "Oreskes et al., 1994",
+      "parts": [
+        {
+          "text": "Oreskes, N., Shrader-Frechette, K., & Belitz, K. (1994). ",
+          "italic": false
+        },
+        {
+          "text": "Verification, validation, and confirmation of numerical models in the Earth sciences. ",
+          "italic": false
+        },
+        {
+          "text": "Science, 263",
+          "italic": true
+        },
+        {
+          "text": "(5147), 641–646.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1126/science.263.5147.641",
+          "italic": false,
+          "url": "https://doi.org/10.1126/science.263.5147.641"
+        }
+      ],
+      "text": "Oreskes, N., Shrader-Frechette, K., & Belitz, K. (1994). Verification, validation, and confirmation of numerical models in the Earth sciences. Science, 263(5147), 641–646. https://doi.org/10.1126/science.263.5147.641",
+      "year": 1994
+    },
+    {
+      "key": "Osthammar2026",
+      "citation": "Östhammar Municipality, 2026",
+      "parts": [
+        {
+          "text": "Östhammar Municipality (2026, September 29). ",
+          "italic": false
+        },
+        {
+          "text": "Aktuellt i slutförvarsfrågan 2026-09-29: Rapport från Slutförvarsorganisationen till Kommunfullmäktige",
+          "italic": true
+        },
+        {
+          "text": " [Current developments in the final repository issue: Report to the municipal council]. ",
+          "italic": false
+        },
+        {
+          "text": "https://www.osthammar.se/link/8d0671a24332406dac7abb564eb41841.aspx",
+          "italic": false,
+          "url": "https://www.osthammar.se/link/8d0671a24332406dac7abb564eb41841.aspx"
+        }
+      ],
+      "text": "Östhammar Municipality (2026, September 29). Aktuellt i slutförvarsfrågan 2026-09-29: Rapport från Slutförvarsorganisationen till Kommunfullmäktige [Current developments in the final repository issue: Report to the municipal council]. https://www.osthammar.se/link/8d0671a24332406dac7abb564eb41841.aspx",
+      "year": 2026
+    },
+    {
+      "key": "Parotte2021",
+      "citation": "Parotte, 2021",
+      "parts": [
+        {
+          "text": "Parotte, C. (2021). ",
+          "italic": false
+        },
+        {
+          "text": "The power and limits of classification: Radioactive waste categories as reshaped by disposal options. ",
+          "italic": false
+        },
+        {
+          "text": "Nuclear Technology, 207",
+          "italic": true
+        },
+        {
+          "text": "(9), 1469–1482.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1080/00295450.2021.1888618",
+          "italic": false,
+          "url": "https://doi.org/10.1080/00295450.2021.1888618"
+        }
+      ],
+      "text": "Parotte, C. (2021). The power and limits of classification: Radioactive waste categories as reshaped by disposal options. Nuclear Technology, 207(9), 1469–1482. https://doi.org/10.1080/00295450.2021.1888618",
+      "year": 2021
+    },
+    {
+      "key": "Pottin2026",
+      "citation": "Pottin & Felt, 2026",
+      "parts": [
+        {
+          "text": "Pottin, A., & Felt, U. (2026). ",
+          "italic": false
+        },
+        {
+          "text": "Decommissioning as residual care: Transforming nuclear reactors into waste. ",
+          "italic": false
+        },
+        {
+          "text": "Science, Technology, & Human Values",
+          "italic": true
+        },
+        {
+          "text": ". Advance online publication.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1177/01622439261453137",
+          "italic": false,
+          "url": "https://doi.org/10.1177/01622439261453137"
+        }
+      ],
+      "text": "Pottin, A., & Felt, U. (2026). Decommissioning as residual care: Transforming nuclear reactors into waste. Science, Technology, & Human Values. Advance online publication. https://doi.org/10.1177/01622439261453137",
+      "year": 2026
+    },
+    {
+      "key": "Power1996",
+      "citation": "Power, 1996",
+      "parts": [
+        {
+          "text": "Power, M. (1996). ",
+          "italic": false
+        },
+        {
+          "text": "Making things auditable. ",
+          "italic": false
+        },
+        {
+          "text": "Accounting, Organizations and Society, 21",
+          "italic": true
+        },
+        {
+          "text": "(2–3), 289–315.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1016/0361-3682(95)00004-6",
+          "italic": false,
+          "url": "https://doi.org/10.1016/0361-3682(95)00004-6"
+        }
+      ],
+      "text": "Power, M. (1996). Making things auditable. Accounting, Organizations and Society, 21(2–3), 289–315. https://doi.org/10.1016/0361-3682(95)00004-6",
+      "year": 1996
+    },
+    {
+      "key": "Power2021",
+      "citation": "Power, 2021",
+      "parts": [
+        {
+          "text": "Power, M. (2021). ",
+          "italic": false
+        },
+        {
+          "text": "Modelling the micro-foundations of the audit society: Organizations and the logic of the audit trail. ",
+          "italic": false
+        },
+        {
+          "text": "Academy of Management Review, 46",
+          "italic": true
+        },
+        {
+          "text": "(1), 6–32.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.5465/amr.2017.0212",
+          "italic": false,
+          "url": "https://doi.org/10.5465/amr.2017.0212"
+        }
+      ],
+      "text": "Power, M. (2021). Modelling the micro-foundations of the audit society: Organizations and the logic of the audit trail. Academy of Management Review, 46(1), 6–32. https://doi.org/10.5465/amr.2017.0212",
+      "year": 2021
+    },
+    {
+      "key": "Schurkmann2022",
+      "citation": "Schürkmann, 2022",
+      "parts": [
+        {
+          "text": "Schürkmann, C. (2022). ",
+          "italic": false
+        },
+        {
+          "text": "Joining multiple collaborations: Toward a sociomaterial perspective on nuclear waste management between society, technology and nature. ",
+          "italic": false
+        },
+        {
+          "text": "Worldwide Waste: Journal of Interdisciplinary Studies, 5",
+          "italic": true
+        },
+        {
+          "text": "(1), Article 3.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.5334/wwwj.86",
+          "italic": false,
+          "url": "https://doi.org/10.5334/wwwj.86"
+        }
+      ],
+      "text": "Schürkmann, C. (2022). Joining multiple collaborations: Toward a sociomaterial perspective on nuclear waste management between society, technology and nature. Worldwide Waste: Journal of Interdisciplinary Studies, 5(1), Article 3. https://doi.org/10.5334/wwwj.86",
+      "year": 2022
+    },
+    {
+      "key": "Singh2023",
+      "citation": "Singh et al., 2023",
+      "year": 2023,
+      "text": "Singh, A., D’Arcy, M., Cohan, A., Downey, D., & Feldman, S. (2023). SciRepEval: A multi-format benchmark for scientific document representations. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (pp. 5548–5566). Association for Computational Linguistics. https://doi.org/10.18653/v1/2023.emnlp-main.338",
+      "parts": [
+        {
+          "text": "Singh, A., D’Arcy, M., Cohan, A., Downey, D., & Feldman, S. (2023). SciRepEval: A multi-format benchmark for scientific document representations. In ",
+          "italic": false
+        },
+        {
+          "text": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+          "italic": true
+        },
+        {
+          "text": " (pp. 5548–5566). Association for Computational Linguistics. ",
+          "italic": false
+        },
+        {
+          "text": "https://doi.org/10.18653/v1/2023.emnlp-main.338",
+          "italic": false,
+          "url": "https://doi.org/10.18653/v1/2023.emnlp-main.338"
+        }
+      ]
+    },
+    {
+      "key": "Smith2026",
+      "citation": "Smith, 2026",
+      "parts": [
+        {
+          "text": "Smith, P. (2026). ",
+          "italic": false
+        },
+        {
+          "text": "The safety case for a deep geological repository in Switzerland: Concepts for waste disposal and methodology for safety assessment. ",
+          "italic": false
+        },
+        {
+          "text": "Frontiers in Nuclear Engineering, 5",
+          "italic": true
+        },
+        {
+          "text": ", Article 1840901.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.3389/fnuen.2026.1840901",
+          "italic": false,
+          "url": "https://doi.org/10.3389/fnuen.2026.1840901"
+        }
+      ],
+      "text": "Smith, P. (2026). The safety case for a deep geological repository in Switzerland: Concepts for waste disposal and methodology for safety assessment. Frontiers in Nuclear Engineering, 5, Article 1840901. https://doi.org/10.3389/fnuen.2026.1840901",
+      "year": 2026
+    },
+    {
+      "key": "Son2023",
+      "citation": "Son et al., 2023",
+      "parts": [
+        {
+          "text": "Son, K., Choi, K., Yang, J., Jeong, H., Kim, H., Chang, K., & Heo, G. (2023). ",
+          "italic": false
+        },
+        {
+          "text": "A review of the features, events, and processes and scenario development for Korean risk assessment of a deep geological repository for high-level radioactive waste. ",
+          "italic": false
+        },
+        {
+          "text": "Nuclear Engineering and Technology, 55",
+          "italic": true
+        },
+        {
+          "text": "(11), 4083–4095.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1016/j.net.2023.07.027",
+          "italic": false,
+          "url": "https://doi.org/10.1016/j.net.2023.07.027"
+        }
+      ],
+      "text": "Son, K., Choi, K., Yang, J., Jeong, H., Kim, H., Chang, K., & Heo, G. (2023). A review of the features, events, and processes and scenario development for Korean risk assessment of a deep geological repository for high-level radioactive waste. Nuclear Engineering and Technology, 55(11), 4083–4095. https://doi.org/10.1016/j.net.2023.07.027",
+      "year": 2023
+    },
+    {
+      "key": "Star1996",
+      "citation": "Star & Ruhleder, 1996",
+      "parts": [
+        {
+          "text": "Star, S. L., & Ruhleder, K. (1996). ",
+          "italic": false
+        },
+        {
+          "text": "Steps toward an ecology of infrastructure: Design and access for large information spaces. ",
+          "italic": false
+        },
+        {
+          "text": "Information Systems Research, 7",
+          "italic": true
+        },
+        {
+          "text": "(1), 111–134.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1287/isre.7.1.111",
+          "italic": false,
+          "url": "https://doi.org/10.1287/isre.7.1.111"
+        }
+      ],
+      "text": "Star, S. L., & Ruhleder, K. (1996). Steps toward an ecology of infrastructure: Design and access for large information spaces. Information Systems Research, 7(1), 111–134. https://doi.org/10.1287/isre.7.1.111",
+      "year": 1996
+    },
+    {
+      "key": "Sundqvist2002",
+      "citation": "Sundqvist, 2002",
+      "parts": [
+        {
+          "text": "Sundqvist, G. (2002). ",
+          "italic": false
+        },
+        {
+          "text": "The bedrock of opinion: Science, technology and society in the siting of high-level nuclear waste",
+          "italic": true
+        },
+        {
+          "text": ". Kluwer Academic Publishers.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1007/978-94-015-9950-4",
+          "italic": false,
+          "url": "https://doi.org/10.1007/978-94-015-9950-4"
+        }
+      ],
+      "text": "Sundqvist, G. (2002). The bedrock of opinion: Science, technology and society in the siting of high-level nuclear waste. Kluwer Academic Publishers. https://doi.org/10.1007/978-94-015-9950-4",
+      "year": 2002
+    },
+    {
+      "key": "SKB2010a",
+      "citation": "SKB, 2010a",
+      "parts": [
+        {
+          "text": "Swedish Nuclear Fuel and Waste Management Company (2010a). ",
+          "italic": false
+        },
+        {
+          "text": "Buffer, backfill and closure process report for the safety assessment SR-Site",
+          "italic": true
+        },
+        {
+          "text": " (TR-10-47; updated January 2014). ",
+          "italic": false
+        },
+        {
+          "text": "https://skb.com/publication/2168448",
+          "italic": false,
+          "url": "https://skb.com/publication/2168448"
+        }
+      ],
+      "text": "Swedish Nuclear Fuel and Waste Management Company (2010a). Buffer, backfill and closure process report for the safety assessment SR-Site (TR-10-47; updated January 2014). https://skb.com/publication/2168448",
+      "year": 2010
+    },
+    {
+      "key": "SKB2010b",
+      "citation": "SKB, 2010b",
+      "parts": [
+        {
+          "text": "Swedish Nuclear Fuel and Waste Management Company (2010b). ",
+          "italic": false
+        },
+        {
+          "text": "Data report for the safety assessment SR-Site",
+          "italic": true
+        },
+        {
+          "text": " (TR-10-52).",
+          "italic": false
+        },
+        {
+          "text": " https://skb.com/publication/2166291",
+          "italic": false,
+          "url": "https://skb.com/publication/2166291"
+        }
+      ],
+      "text": "Swedish Nuclear Fuel and Waste Management Company (2010b). Data report for the safety assessment SR-Site (TR-10-52). https://skb.com/publication/2166291",
+      "year": 2010
+    },
+    {
+      "key": "SKB2010c",
+      "citation": "SKB, 2010c",
+      "parts": [
+        {
+          "text": "Swedish Nuclear Fuel and Waste Management Company (2010c). ",
+          "italic": false
+        },
+        {
+          "text": "FEP report for the safety assessment SR-Site",
+          "italic": true
+        },
+        {
+          "text": " (TR-10-45).",
+          "italic": false
+        },
+        {
+          "text": " https://skb.com/publication/2167368",
+          "italic": false,
+          "url": "https://skb.com/publication/2167368"
+        }
+      ],
+      "text": "Swedish Nuclear Fuel and Waste Management Company (2010c). FEP report for the safety assessment SR-Site (TR-10-45). https://skb.com/publication/2167368",
+      "year": 2010
+    },
+    {
+      "key": "SKB2011",
+      "citation": "SKB, 2011",
+      "parts": [
+        {
+          "text": "Swedish Nuclear Fuel and Waste Management Company (2011). ",
+          "italic": false
+        },
+        {
+          "text": "Long-term safety for the final repository for spent nuclear fuel at Forsmark: Main report of the SR-Site project",
+          "italic": true
+        },
+        {
+          "text": " (TR-11-01; Vols. I–III).",
+          "italic": false
+        },
+        {
+          "text": " https://skb.com/publication/2345580",
+          "italic": false,
+          "url": "https://skb.com/publication/2345580"
+        }
+      ],
+      "text": "Swedish Nuclear Fuel and Waste Management Company (2011). Long-term safety for the final repository for spent nuclear fuel at Forsmark: Main report of the SR-Site project (TR-11-01; Vols. I–III). https://skb.com/publication/2345580",
+      "year": 2011
+    },
+    {
+      "key": "SKB2022",
+      "citation": "SKB, 2022",
+      "parts": [
+        {
+          "text": "Swedish Nuclear Fuel and Waste Management Company (2022). ",
+          "italic": false
+        },
+        {
+          "text": "Post-closure safety for the final repository for spent nuclear fuel at Forsmark: Main report, PSAR version",
+          "italic": true
+        },
+        {
+          "text": " (TR-21-01; revised December 2025).",
+          "italic": false
+        },
+        {
+          "text": " https://skb.com/publication/2506409",
+          "italic": false,
+          "url": "https://skb.com/publication/2506409"
+        }
+      ],
+      "text": "Swedish Nuclear Fuel and Waste Management Company (2022). Post-closure safety for the final repository for spent nuclear fuel at Forsmark: Main report, PSAR version (TR-21-01; revised December 2025). https://skb.com/publication/2506409",
+      "year": 2022
+    },
+    {
+      "key": "SKB2025",
+      "citation": "SKB, 2025",
+      "parts": [
+        {
+          "text": "Swedish Nuclear Fuel and Waste Management Company (2025, January 15). ",
+          "italic": false
+        },
+        {
+          "text": "Construction begins on Swedish Spent Fuel Repository",
+          "italic": true
+        },
+        {
+          "text": ".",
+          "italic": false
+        },
+        {
+          "text": " https://skb.com/nyhet/construction-begins-on-swedish-spent-fuel-repository/",
+          "italic": false,
+          "url": "https://skb.com/nyhet/construction-begins-on-swedish-spent-fuel-repository/"
+        }
+      ],
+      "text": "Swedish Nuclear Fuel and Waste Management Company (2025, January 15). Construction begins on Swedish Spent Fuel Repository. https://skb.com/nyhet/construction-begins-on-swedish-spent-fuel-repository/",
+      "year": 2025
+    },
+    {
+      "key": "SSM2024",
+      "citation": "SSM, 2024",
+      "parts": [
+        {
+          "text": "Swedish Radiation Safety Authority (2024, January 26). ",
+          "italic": false
+        },
+        {
+          "text": "En stegvis prövningsprocess",
+          "italic": true
+        },
+        {
+          "text": " [A staged review process]. ",
+          "italic": false
+        },
+        {
+          "text": "https://www.stralsakerhetsmyndigheten.se/omraden/radioaktivt-avfall/slutforvar/en-stegvis-provning/",
+          "italic": false,
+          "url": "https://www.stralsakerhetsmyndigheten.se/omraden/radioaktivt-avfall/slutforvar/en-stegvis-provning/"
+        }
+      ],
+      "text": "Swedish Radiation Safety Authority (2024, January 26). En stegvis prövningsprocess [A staged review process]. https://www.stralsakerhetsmyndigheten.se/omraden/radioaktivt-avfall/slutforvar/en-stegvis-provning/",
+      "year": 2024
+    },
+    {
+      "key": "Wei2026",
+      "citation": "Wei et al., 2026",
+      "parts": [
+        {
+          "text": "Wei, J., Ren, H., & Miao, J. (2026). ",
+          "italic": false
+        },
+        {
+          "text": "Safety as a defensible governance claim within safety management: A minimal structure for auditable safety arguments. ",
+          "italic": false
+        },
+        {
+          "text": "Safety Science, 201",
+          "italic": true
+        },
+        {
+          "text": ", Article 107263.",
+          "italic": false
+        },
+        {
+          "text": " https://doi.org/10.1016/j.ssci.2026.107263",
+          "italic": false,
+          "url": "https://doi.org/10.1016/j.ssci.2026.107263"
+        }
+      ],
+      "text": "Wei, J., Ren, H., & Miao, J. (2026). Safety as a defensible governance claim within safety management: A minimal structure for auditable safety arguments. Safety Science, 201, Article 107263. https://doi.org/10.1016/j.ssci.2026.107263",
+      "year": 2026
+    }
+  ]
+}
