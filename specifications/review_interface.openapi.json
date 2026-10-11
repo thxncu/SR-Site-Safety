@@ -1,0 +1,145 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Proposed FEP screening review interface",
+    "version": "1.0.0",
+    "description": "Proposed interface contract for a versioned record store and review task service. The package supplies a local record checker; no deployed endpoint or integration with a named safety-case platform is asserted."
+  },
+  "paths": {
+    "/assessments/{assessment}/screening/{record_id}": {
+      "get": {
+        "summary": "Return the versioned screening record with evidence and analytical leads kept distinct",
+        "parameters": [
+          {
+            "name": "assessment",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "record_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Versioned record",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "./screening_record.schema.json"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Record absent from the specified assessment"
+          }
+        }
+      }
+    },
+    "/record-checks": {
+      "post": {
+        "summary": "Check record format and application consistency, then identify technical review tasks",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "./screening_record.schema.json"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Record format checks completed; application issues and technical review tasks are reported separately.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RecordChecks"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Submitted content has a JSON syntax or record format error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RecordChecks"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Issue": {
+        "type": "object",
+        "properties": {
+          "code": {
+            "type": "string",
+            "minLength": 1
+          },
+          "path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "message": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "code",
+          "path",
+          "message"
+        ],
+        "additionalProperties": false
+      },
+      "RecordChecks": {
+        "type": "object",
+        "properties": {
+          "format_valid": {
+            "type": "boolean"
+          },
+          "format_issues": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Issue"
+            }
+          },
+          "application_issues": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Issue"
+            }
+          },
+          "technical_review_tasks": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Issue"
+            }
+          }
+        },
+        "required": [
+          "format_valid",
+          "format_issues",
+          "application_issues",
+          "technical_review_tasks"
+        ],
+        "additionalProperties": false
+      }
+    }
+  }
+}

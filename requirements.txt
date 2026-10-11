@@ -1,0 +1,8 @@
+# Package 2.1.0, 2026-10-10. Tested with Python 3.12.14.
+# Core analysis and figure dependencies; record checks use the standard library.
+# A Jupyter environment is optional and is not required by reproduce_analysis.py.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.8.0
+matplotlib==3.10.8

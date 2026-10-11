@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying study when using this replication dataset."
+title: "Replication package for: Traceability of screening decisions for features, events and processes in Sweden's SR-Site safety case"
+version: 2.1.0
+date-released: 2026-10-10
+type: dataset
+authors:
+  - family-names: Park
+    given-names: Chankook
+    affiliation: "Division of Climate Change, Hankuk University of Foreign Studies"
+    orcid: "https://orcid.org/0000-0002-5433-9937"
+keywords:
+  - safety assessment
+  - safety case
+  - nuclear waste
+  - traceability
+  - features, events and processes
+  - SR-Site
