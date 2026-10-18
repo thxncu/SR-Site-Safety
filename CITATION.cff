@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying study and identify this package version when using these data."
+title: "Replication package for: Traceability of Inherited FEP Coverage Decisions for Geological Disposal Safety Assessment Updates"
+version: 3.3.0
+date-released: 2026-10-17
+type: dataset
+authors:
+  - family-names: Park
+    given-names: Chankook
+    affiliation: "Division of Climate Change, Hankuk University of Foreign Studies"
+    orcid: "https://orcid.org/0000-0002-5433-9937"
+keywords:
+  - geological disposal
+  - FEP screening
+  - safety assessment
+  - traceability
+  - SR-Site

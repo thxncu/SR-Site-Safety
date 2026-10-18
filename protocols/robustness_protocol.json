@@ -1,0 +1,47 @@
+{
+  "package_version": "3.1.0",
+  "analysis_stage": "Retrospective descriptive analysis of fixed archive-derived inputs",
+  "registration": "Exploratory retrospective comparisons; no preregistered analysis plan.",
+  "bm25": {
+    "k1": 1.2,
+    "b": 0.75,
+    "tokenization": "scikit-learn CountVectorizer default token_pattern, lowercase, English stop words, unigrams",
+    "candidate_statistics_only": true,
+    "query_term_weight": "binary",
+    "stemming": false,
+    "dense_model_comparison": false,
+    "threshold_used_for_benchmark": null,
+    "tie_break": "ascending canonical PFEP identifier",
+    "configurations": 4
+  },
+  "resampling": {
+    "unit": "source with complete attested endpoint set",
+    "sources": 18,
+    "pairs": 42,
+    "draws": 10000,
+    "generator": "NumPy PCG64",
+    "seed": 20261017,
+    "paired_draws": true,
+    "quantile_method": "linear",
+    "interval": "central 95% conditional source-resampling sensitivity; not population confidence interval"
+  },
+  "influence": {
+    "leave_one_source": true,
+    "leave_one_inventory": true,
+    "retrain_or_refit": false,
+    "interpretation": "composition influence, not held-out or external validation"
+  },
+  "software_verification": {
+    "synthetic_fault_fixtures": 13,
+    "observed_control": 1,
+    "operational_performance_claim": false,
+    "input_snapshot_not_mutated": true
+  },
+  "out_of_scope": [
+    "Independent coding agreement",
+    "Expert coverage validation",
+    "Production reliability or certification",
+    "PSAR database reconciliation",
+    "New physical safety calculation"
+  ]
+}

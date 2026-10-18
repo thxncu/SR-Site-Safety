@@ -1,0 +1,14 @@
+file,field,definition
+data/relation_rule_sensitivity_sources.csv,rule,R1 principal identity; R2 relevant PFEP or stage-qualified SKB; R3 R2 excluding contextual-only relation types.
+data/relation_rule_sensitivity_sources.csv,pfep_id,Canonical source PFEP identifier from the fixed 55-source cohort.
+data/relation_rule_sensitivity_sources.csv,resolved_targets_n,"Number of distinct retained (target type, target identifier, target assessment stage) triples."
+data/relation_rule_sensitivity_sources.csv,task,Destination identification for zero targets; single-destination scope for one; distributed scope for more than one.
+data/relation_rule_sensitivity_sources.csv,target_keys,"Semicolon-delimited retained target triples; each triple joins type, identifier and stage with a vertical bar."
+data/relation_rule_sensitivity_summary.csv,rule,R1 principal identity; R2 relevant PFEP or stage-qualified SKB; R3 R2 excluding contextual-only relation types.
+data/relation_rule_sensitivity_summary.csv,selection,Human-readable definition of the relation-selection rule.
+data/relation_rule_sensitivity_summary.csv,sources_n,Number of sources retained in the denominator; 55 under every rule.
+data/relation_rule_sensitivity_summary.csv,resolved_sources_n,Sources with at least one retained target.
+data/relation_rule_sensitivity_summary.csv,destination_identification_n,Sources with zero retained targets.
+data/relation_rule_sensitivity_summary.csv,single_destination_scope_n,Sources with exactly one retained target.
+data/relation_rule_sensitivity_summary.csv,distributed_scope_n,Sources with more than one retained target.
+data/relation_rule_sensitivity_summary.csv,sources_resolved_only_by_R1,Sources resolved by R1 whose resolved status is lost under the row rule; empty for R1.

@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0.0",
+  "record_id": "SR-Site:H 1.6.3",
+  "source": {
+    "namespace": "NEA Project H",
+    "identifier": "H 1.6.3",
+    "assessment_stage": "SR-Site",
+    "catalogue_version": "Version 2.1",
+    "component": null
+  },
+  "source_aggregation": {
+    "level": "broad_description",
+    "basis": "The assessment discussion explicitly describes the source entry as a very general or super FEP.",
+    "locator": {
+      "source_file": "NEA mapping_SRSite.KSE",
+      "source_sha256": "63bd9c43ce3ca97d8822dc0252ad336fae80302a7b136ebdd5da906c9d90d86a",
+      "record_id": "716",
+      "field": "COMMENTS NEEDS DISCUSSION",
+      "evidence_span": "Very general FEP (super FEP) and might possibly be screened out for that reason.\r2002-04-11: Screen out"
+    }
+  },
+  "mapping_context": {
+    "assessment_stage": "SR-Site",
+    "catalogue_version": "SR-Site",
+    "receiving_component": "Buffer",
+    "locator": {
+      "source_file": "NEA mapping_SRSite.KSE",
+      "source_sha256": "63bd9c43ce3ca97d8822dc0252ad336fae80302a7b136ebdd5da906c9d90d86a",
+      "record_id": "716",
+      "field": "SYSTEM COMPONENT",
+      "evidence_span": "Buffer"
+    }
+  },
+  "screening": {
+    "outcome": "coverage_elsewhere",
+    "revision_date": "2011-03-30",
+    "authorities": [
+      "Allan Hedin",
+      "Johan Andersson",
+      "Kristina Skagius"
+    ],
+    "authority_locator": {
+      "source_file": "NEA mapping_SRSite.KSE",
+      "source_sha256": "63bd9c43ce3ca97d8822dc0252ad336fae80302a7b136ebdd5da906c9d90d86a",
+      "record_id": "716",
+      "field": "SCREENED OUT BY",
+      "evidence_span": "Allan Hedin, Johan Andersson, Kristina Skagius"
+    },
+    "reason_locator": {
+      "source_file": "NEA mapping_SRSite.KSE",
+      "source_sha256": "63bd9c43ce3ca97d8822dc0252ad336fae80302a7b136ebdd5da906c9d90d86a",
+      "record_id": "716",
+      "field": "RELEVANCE MOTIVATION",
+      "evidence_span": "Too general, covered by other NEA project FEPs"
+    }
+  },
+  "relations": [
+    {
+      "relation_id": "R-07cd70e75a08953e",
+      "origin": "assessment_record",
+      "meaning": "structured_process_association",
+      "direction": "source_to_target",
+      "source": {
+        "namespace": "NEA Project H",
+        "identifier": "H 1.6.3",
+        "assessment_stage": "SR-Site",
+        "catalogue_version": "Version 2.1",
+        "component": null
+      },
+      "targets": [
+        {
+          "namespace": "SKB process",
+          "identifier": "Bu13",
+          "assessment_stage": "SR-Site",
+          "catalogue_version": "SR-Site",
+          "component": "Buffer"
+        }
+      ],
+      "locator": {
+        "source_file": "NEA mapping_SRSite.KSE",
+        "source_sha256": "63bd9c43ce3ca97d8822dc0252ad336fae80302a7b136ebdd5da906c9d90d86a",
+        "record_id": "716",
+        "field": "PROCESS LIST",
+        "evidence_span": "Alterations of impurities"
+      },
+      "scope": {
+        "status": "unrecorded",
+        "covered_aspects": [],
+        "residual_aspects": [],
+        "justification": null
+      }
+    },
+    {
+      "relation_id": "R-0d11cb7c4f76a1a2",
+      "origin": "assessment_record",
+      "meaning": "structured_process_association",
+      "direction": "source_to_target",
+      "source": {
+        "namespace": "NEA Project H",
+        "identifier": "H 1.6.3",
+        "assessment_stage": "SR-Site",
+        "catalogue_version": "Version 2.1",
+        "component": null
+      },
+      "targets": [
+        {
+          "namespace": "SKB process",
+          "identifier": "Bu13",
+          "assessment_stage": "SR-Site",
+          "catalogue_version": "SR-Site",
+          "component": "Buffer"
+        }
+      ],
+      "locator": {
+        "source_file": "NEA mapping_SRSite.KSE",
+        "source_sha256": "63bd9c43ce3ca97d8822dc0252ad336fae80302a7b136ebdd5da906c9d90d86a",
+        "record_id": "716",
+        "field": "SELECTED PROCESS",
+        "evidence_span": "Alterations of impurities"
+      },
+      "scope": {
+        "status": "unrecorded",
+        "covered_aspects": [],
+        "residual_aspects": [],
+        "justification": null
+      }
+    }
+  ],
+  "adoption": {
+    "status": "unrecorded",
+    "authority": null,
+    "decision_date": null,
+    "adopted_relation_ids": [],
+    "justification": null
+  },
+  "handling": [],
+  "applicability_premises": [],
+  "stage_changes": [],
+  "retrieval_leads": []
+}
