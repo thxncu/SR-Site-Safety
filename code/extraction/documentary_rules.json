@@ -1,0 +1,1837 @@
+{
+  "schema_version": "2.0",
+  "coding_scope": "Record-level textual interpretation of archived source fields; deterministic namespace and stage-qualified resolution. The supplied interpretations do not constitute independent adjudication.",
+  "record_fields": {
+    "skb_adoption_documented": "A provenance relation expressly attributes treatment to a named SKB historical/current assessment element; stage remains explicit.",
+    "current_skb_adoption_documented": "The relation expressly documents affirmative SR-Site adoption as the basis of the current exclusion; mere retained fields or earlier-stage comments do not qualify.",
+    "skb_discussion_coverage_assertion_present": "A supplementary SKB discussion states that described source aspects are treated elsewhere; excludes the formulaic RELEVANCE MOTIVATION.",
+    "skb_discussion_targeted_assertion_present": "That statement names a treatment destination/family or explicitly refers to a process list, even if its exact version or member cannot be resolved.",
+    "skb_discussion_scope_rationale_present": "The supplementary SKB discussion identifies source aspects and how they are assigned to, or excluded from, treatment."
+  },
+  "records": {
+    "A 1.04": {
+      "rationale": "The imported description states a broad interfaces/boundary-condition problem. SKB classifies it as a general methodology comment; no treatment destination is specified.",
+      "references": [],
+      "other_relations": []
+    },
+    "A 1.10": {
+      "rationale": "The SR-Site table retains an exact process-name association with Alterations of impurities. The earlier discussion proposes broad mapping to processes and Temperature/Pressure variables, but does not adopt a complete coverage path. Imported see-also names are original-inventory references; repeated titles remain ambiguous within that inventory.",
+      "references": [
+        {
+          "span": "See also Backfill evolution, Buffer evolution, Chemical gradients, Chemical kinetics, Complexation by organics, Container corrosion products, Coupled processes, Galvanic coupling, Hydrothermal alteration, Long-term physical stability, Precipitation and dissolution, Radiolysis, Seal evolution, and Speciation.",
+          "targets": [
+            "Backfill evolution",
+            "Buffer evolution",
+            "Chemical gradients",
+            "Chemical kinetics",
+            "Complexation by organics",
+            "Container corrosion products",
+            "Coupled processes",
+            "Galvanic coupling",
+            "Hydrothermal alteration",
+            "Long-term physical stability",
+            "Precipitation and dissolution",
+            "Radiolysis",
+            "Seal evolution",
+            "Speciation"
+          ],
+          "semantics": "see_also",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "Related discussion is provided under Groundwater composition, Groundwater - evolution and Speciation in the list of geosphere factors (Table B.2).",
+          "targets": [
+            "Groundwater composition",
+            "Groundwater - evolution",
+            "Speciation"
+          ],
+          "semantics": "related_discussion",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision.",
+          "prefixes": [
+            "A 2."
+          ]
+        }
+      ],
+      "other_relations": []
+    },
+    "A 1.25": {
+      "rationale": "The retained process-name association resolves to Earth currents. A 2002 SKB discussion says thermal-gradient transport and density gradients are addressed in the processes below, but explicitly says electrochemical gradients and osmosis are not discussed. The archived selection does not demonstrate which process list the 2002 statement referred to or complete coverage. Imported explicit-treatment and see-also references are separately qualified.",
+      "references": [
+        {
+          "span": "Processes requiring quantitative treatment are listed separately, such as Chemical interactions and Diffusion.",
+          "targets": [
+            "Chemical interactions",
+            "Diffusion"
+          ],
+          "semantics": "aspects_examined_in",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "See also Backfill evolution, Biological activity, Boundary conditions, Buffer evolution, Chemical interactions, Chemical kinetics, Complexation by organics, Container corrosion products, Diffusion, Formation of gases, Galvanic coupling, Hydrothermal alteration, Long-term physical stability, Precipitation and dissolution, Radiolysis, Seal evolution, Speciation and Temperature effects.",
+          "targets": [
+            "Backfill evolution",
+            "Biological activity",
+            "Boundary conditions",
+            "Buffer evolution",
+            "Chemical interactions",
+            "Chemical kinetics",
+            "Complexation by organics",
+            "Container corrosion products",
+            "Diffusion",
+            "Formation of gases",
+            "Galvanic coupling",
+            "Hydrothermal alteration",
+            "Long-term physical stability",
+            "Precipitation and dissolution",
+            "Radiolysis",
+            "Seal evolution",
+            "Speciation",
+            "Temperature effects"
+          ],
+          "semantics": "see_also",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": [
+        {
+          "span": "Thermal gradient driven transport (Soret effect) and density gradients are addressed in the Processes below. Electrochemical gradients and Osmosis is not discussed and should maybe be mentioned in connection to Radionuclide transport.\r2002-04-12: Screen out",
+          "semantics": "process_set_coverage_statement",
+          "stage": "SKB screening discussion (2002)",
+          "target_type": "UNRESOLVED_PROCESS_SET",
+          "target_name": "Processes below",
+          "target_literal": "Processes below",
+          "identifier_resolution": "deictic_reference_without_versioned_target_list",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "historical_target_list_unspecified",
+          "explicit_destination": 1,
+          "scope_rationale_present": 1,
+          "interpretation_rationale": "The2002 discussion states treatment of thermal and density-gradient aspects and explicitly identifies other aspects as not discussed. The current Earth currents selection is not sufficient to reconstruct the2002 process list."
+        }
+      ],
+      "skb_discussion_coverage_assertion_present": 1,
+      "skb_discussion_targeted_assertion_present": 1,
+      "skb_discussion_scope_rationale_present": 1
+    },
+    "A 1.34": {
+      "rationale": "Current retained process and variable selections identify Fracturing and Fracture geometry, without a SKB explanation of which parts of the source they cover. The imported description explicitly sends other elements to a list of named factors. Boundary conditions is itself excluded and Earthquakes has several same-inventory entries; those distinctions are retained.",
+      "references": [
+        {
+          "span": "Other elements of this feature are discussed elsewhere; see Backfill characteristics, Boundary conditions, Buffer characteristics, Earthquakes, Faulty buffer emplacement, Long-term physical stability, Percolation in shafts and Seal failure.",
+          "targets": [
+            "Backfill characteristics",
+            "Boundary conditions",
+            "Buffer characteristics",
+            "Earthquakes",
+            "Faulty buffer emplacement",
+            "Long-term physical stability",
+            "Percolation in shafts",
+            "Seal failure"
+          ],
+          "semantics": "aspects_discussed_elsewhere",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "A 1.39": {
+      "rationale": "The SKB discussion lists possible external impacts and uncertainty, without a selected target. Imported Glaciation is an ambiguous title across three parts of inventory A. Climate change is explicitly referred to in both the geosphere and biosphere lists, permitting two section-qualified original-inventory links, but not an SKB-adopted coverage path.",
+      "references": [
+        {
+          "span": "See also Glaciation.",
+          "targets": [
+            "Glaciation"
+          ],
+          "semantics": "see_also",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "Further discussion is provided under Climate change in the lists of geosphere and biosphere factors (Tables B.2 and B.3).",
+          "targets": [
+            "Climate change"
+          ],
+          "semantics": "related_discussion",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision.",
+          "prefixes": [
+            "A 2.",
+            "A 3."
+          ],
+          "explicit_multiple_namespaces": true
+        }
+      ],
+      "other_relations": []
+    },
+    "A 1.78": {
+      "rationale": "The retained variable name Mechanical stresses is qualified by the source system component Fuel/cavity in canister and resolves to VarF05. A different canister-component variable with the same title is not selected. The imported list points to specific factors but does not claim complete coverage by them.",
+      "references": [
+        {
+          "span": "See other specific factors such as: Earthquakes, Long-term transients, Reflooding, Seal failure, Stability of UO2 and Time dependence.",
+          "targets": [
+            "Earthquakes",
+            "Long-term transients",
+            "Reflooding",
+            "Seal failure",
+            "Stability of UO2",
+            "Time dependence"
+          ],
+          "semantics": "specific_factor_reference",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "A 1.81": {
+      "rationale": "A current retained process selection identifies Alterations of impurities in the Buffer. The discussion calls the source too general and records exclusion; it provides no coverage-scope rationale. Imported see-also references and explicitly qualified geosphere/biosphere discussion pointers remain source-inventory evidence.",
+      "references": [
+        {
+          "span": "See also Backfill evolution, Buffer evolution, Container failure (long-term), Chemical interactions, Diffusion, Hydrothermal alteration, Long-term physical stability, Seal evolution and Temperature rises (unexpected).",
+          "targets": [
+            "Backfill evolution",
+            "Buffer evolution",
+            "Container failure (long-term)",
+            "Chemical interactions",
+            "Diffusion",
+            "Hydrothermal alteration",
+            "Long-term physical stability",
+            "Seal evolution",
+            "Temperature rises (unexpected)"
+          ],
+          "semantics": "see_also",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "Further discussion is provided under Vault heating effects in the lists of geosphere and biosphere factors (Tables B.2 and B.3).",
+          "targets": [
+            "Vault heating effects"
+          ],
+          "semantics": "related_discussion",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision.",
+          "prefixes": [
+            "A 2.",
+            "A 3."
+          ],
+          "explicit_multiple_namespaces": true
+        }
+      ],
+      "other_relations": []
+    },
+    "A 1.83": {
+      "rationale": "The imported description explicitly distributes time-dependent processes to named factors. Diffusion has two same-inventory matches and remains ambiguous; the other named references can be resolved locally. SKB records generality/exclusion without explicitly adopting the imported list.",
+      "references": [
+        {
+          "span": "Other time dependent processes are discussed separately elsewhere.  See, for example, Backfill evolution, Chemical kinetics, Container failure (long-term), Diffusion, Long-term transients, Reflooding and others.",
+          "targets": [
+            "Backfill evolution",
+            "Chemical kinetics",
+            "Container failure (long-term)",
+            "Diffusion",
+            "Long-term transients",
+            "Reflooding"
+          ],
+          "semantics": "aspects_discussed_elsewhere",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "A 2.32": {
+      "rationale": "The SR-Site table retains named process and variable associations with fracture-filling-mineral dissolution/precipitation and Groundwater composition. SKB discussion mentions potential surface causes rather than assigning their full treatment. Imported related-discussion names are constrained to the expressly named vault-factor list; unqualified repeated names remain ambiguous.",
+      "references": [
+        {
+          "span": "See also Colloid formation, Groundwater - evolution, Precipitation and dissolution, Recharge groundwater, Salinity effects on flow, Speciation and Vault heating effects.",
+          "targets": [
+            "Colloid formation",
+            "Groundwater - evolution",
+            "Precipitation and dissolution",
+            "Recharge groundwater",
+            "Salinity effects on flow",
+            "Speciation",
+            "Vault heating effects"
+          ],
+          "semantics": "see_also",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "Related discussion is provided under Backfill evolution, Buffer evolution, Chemical gradients, Chemical interactions, Chemical kinetics and Seal evolution in the list of vault factors (Table B.1).",
+          "targets": [
+            "Backfill evolution",
+            "Buffer evolution",
+            "Chemical gradients",
+            "Chemical interactions",
+            "Chemical kinetics",
+            "Seal evolution"
+          ],
+          "semantics": "related_discussion",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision.",
+          "prefixes": [
+            "A 1."
+          ]
+        }
+      ],
+      "other_relations": []
+    },
+    "A 3.085": {
+      "rationale": "The imported description explicitly distributes recycling among seven named local factors. SKB discussion separately states partial coverage by three SAFE interaction families. The historical family names exist in multiple matrix cells, so no single target cell or current SR-Site lineage is inferred.",
+      "references": [
+        {
+          "span": "The recycling process is discussed separately under factors that include: Ashes and sewage sludge fertilizers, Bacteria and microbes in soil, Carcasses, Charcoal production, Crop fertilizers and soil conditioners, Peat and leaf litter harvesting and Soil.",
+          "targets": [
+            "Ashes and sewage sludge fertilizers",
+            "Bacteria and microbes in soil",
+            "Carcasses",
+            "Charcoal production",
+            "Crop fertilizers and soil conditioners",
+            "Peat and leaf litter harvesting",
+            "Soil"
+          ],
+          "semantics": "aspects_discussed_elsewhere",
+          "mode": "name",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": [
+        {
+          "span": "Could be included in the biosphere system. In SAFE, this aspect is not specifically addressed, but to some extent covered by the interactions \"Uptake/sorption\", \"Excretion\" and \"Food supply\"\r2002-04-11: Map to biosphere",
+          "semantics": "historical_partial_treatment",
+          "stage": "SAFE",
+          "target_type": "SAFE_INTERACTION_FAMILY",
+          "target_id": "",
+          "target_name": "Uptake/sorption",
+          "target_literal": "Uptake/sorption",
+          "identifier_resolution": "historical_family_name",
+          "target_source_file": "SAFEbiomatrix.KSE",
+          "target_source_record_id": "",
+          "target_exists_in_stage": "yes",
+          "candidate_count": 6,
+          "candidate_target_ids": "3.15a Uptake/sorption; 4.15a Uptake/sorption; 5.15a Uptake/sorption; 6.15a Uptake/sorption; 7.15a Uptake/sorption; 8.15a Uptake/sorption",
+          "ambiguity": "multiple_historical_matrix_cells",
+          "explicit_destination": 1,
+          "reference_verified": 0,
+          "skb_adoption_documented": 1,
+          "scope_rationale_present": 1,
+          "interpretation_rationale": "The screening discussion expressly describes treatment in SAFE. The archive contains the named element or interaction family; a repeated family name does not select one matrix cell or establish later SR-Site lineage."
+        },
+        {
+          "span": "Could be included in the biosphere system. In SAFE, this aspect is not specifically addressed, but to some extent covered by the interactions \"Uptake/sorption\", \"Excretion\" and \"Food supply\"\r2002-04-11: Map to biosphere",
+          "semantics": "historical_partial_treatment",
+          "stage": "SAFE",
+          "target_type": "SAFE_INTERACTION_FAMILY",
+          "target_id": "",
+          "target_name": "Excretion",
+          "target_literal": "Excretion",
+          "identifier_resolution": "historical_family_name",
+          "target_source_file": "SAFEbiomatrix.KSE",
+          "target_source_record_id": "",
+          "target_exists_in_stage": "yes",
+          "candidate_count": 7,
+          "candidate_target_ids": "3.15b Excretion; 4.15b Excretion; 5.15b Excretion; 6.15b Excretion; 7.15b Excretion; 8.12a Excretion; 8.15b Excretion",
+          "ambiguity": "multiple_historical_matrix_cells",
+          "explicit_destination": 1,
+          "reference_verified": 0,
+          "skb_adoption_documented": 1,
+          "scope_rationale_present": 1,
+          "interpretation_rationale": "The screening discussion expressly describes treatment in SAFE. The archive contains the named element or interaction family; a repeated family name does not select one matrix cell or establish later SR-Site lineage."
+        },
+        {
+          "span": "Could be included in the biosphere system. In SAFE, this aspect is not specifically addressed, but to some extent covered by the interactions \"Uptake/sorption\", \"Excretion\" and \"Food supply\"\r2002-04-11: Map to biosphere",
+          "semantics": "historical_partial_treatment",
+          "stage": "SAFE",
+          "target_type": "SAFE_INTERACTION_FAMILY",
+          "target_id": "",
+          "target_name": "Food supply",
+          "target_literal": "Food supply",
+          "identifier_resolution": "historical_family_name",
+          "target_source_file": "SAFEbiomatrix.KSE",
+          "target_source_record_id": "",
+          "target_exists_in_stage": "yes",
+          "candidate_count": 24,
+          "candidate_target_ids": "3.4b Food supply; 3.5b Food supply; 3.6b Food supply; 3.8b Food supply; 4.4b Food supply; 4.5b Food supply; 4.6b Food supply; 4.7b Food supply; 4.8b Food supply; 5.4b Food supply; 5.5b Food supply; 5.7b Food supply; 5.8b Food supply; 6.4b Food supply; 6.5bFood supply; 6.7b Food supply; 6.8b Food supply; 7.4b Food supply; 7.5b Food supply; 7.7b Food supply; 7.8b Food supply; 8.4b Food supply; 8.5b Food supply; 8.7b Food supply",
+          "ambiguity": "multiple_historical_matrix_cells",
+          "explicit_destination": 1,
+          "reference_verified": 0,
+          "skb_adoption_documented": 1,
+          "scope_rationale_present": 1,
+          "interpretation_rationale": "The screening discussion expressly describes treatment in SAFE. The archive contains the named element or interaction family; a repeated family name does not select one matrix cell or establish later SR-Site lineage."
+        }
+      ],
+      "skb_discussion_coverage_assertion_present": 1,
+      "skb_discussion_targeted_assertion_present": 1,
+      "skb_discussion_scope_rationale_present": 1
+    },
+    "E SFL-00": {
+      "rationale": "The imported description describes a set of57 SFL-specific FEPs and gives a physical example. It does not enumerate destination identifiers;57 is a count, not a local FEP reference. SKB supplies no destination-specific explanation.",
+      "references": [],
+      "other_relations": []
+    },
+    "H 1.6.3": {
+      "rationale": "The retained selected-process and process-list fields identify Alterations of impurities in the Buffer, resolving toBu13. The numbered list in the imported prose enumerates mechanisms rather than local identifiers. SKB calls the source general and excludes it without a coverage-scope explanation.",
+      "references": [],
+      "other_relations": []
+    },
+    "H 2.2.3": {
+      "rationale": "The imported description presents modelling alternatives and recommendations, with numbered prose examples rather than reference identifiers. SKB describes a general model/data issue and records exclusion; no treatment destination is supplied.",
+      "references": [],
+      "other_relations": []
+    },
+    "I 039": {
+      "rationale": "The retained SR-Site process and variable fields identify Alterations of impurities and Pore water composition in the Buffer. The imported PSAR section references concern the original programme. SKB provides no scope-specific adoption rationale for the retained associations.",
+      "references": [],
+      "other_relations": [
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "RESPONSE:  Dominant vault chemical interactions are discussed in the PSAR in Part III, Section 3.5 and 5.1.",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "PSAR Part III Section 3.5",
+          "target_name": "PSAR Part III Section 3.5",
+          "target_literal": "3.5",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        },
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "RESPONSE:  Dominant vault chemical interactions are discussed in the PSAR in Part III, Section 3.5 and 5.1.",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "PSAR Part III Section 5.1",
+          "target_name": "PSAR Part III Section 5.1",
+          "target_literal": "5.1",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        }
+      ]
+    },
+    "I 165": {
+      "rationale": "The imported RESPONSE explicitly states that four listed local FEPs examine the preceding factors:126,58,61 and273. All four identifiers resolve in inventory I. The SKB discussion generally attributes relevant interface processes to other FEPs but names no destination; it does not explicitly adopt the imported list. The phrase colloid formation is not expanded to another inventory.",
+      "references": [
+        {
+          "span": "RESPONSE:  The factors mentioned above are examined in other FEPs:\r 126  Corrosion (galvanic coupling)\r   58  Colloid Formation (natural & vault generated)\r   61  Concrete (influence on vault chemistry) \r 273  Container Performance (incorrect modelling)",
+          "targets": [
+            "126",
+            "58",
+            "61",
+            "273"
+          ],
+          "semantics": "aspects_examined_in",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": [],
+      "skb_discussion_coverage_assertion_present": 1,
+      "skb_discussion_scope_rationale_present": 1
+    },
+    "J 2.3.02": {
+      "rationale": "The imported text identifies corrosion 2.1.1 as the coverage destination. Its next sentence names 2.3.3 as a record to screen out, not as the coverage destination. This differs from the source identifier 2.3.02 and is retained as a source-text inconsistency; no identity correction is inferred.",
+      "references": [
+        {
+          "span": "Electrochemical cracking is covered by corrosion (2.1.1).",
+          "targets": [
+            "2.1.1"
+          ],
+          "semantics": "covered_by",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "Thus 2.3.3 may be screened out on the administrative (duplicate) criterion.",
+          "targets": [
+            "2.3.3"
+          ],
+          "semantics": "other_record_exclusion",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision.",
+          "direction_valid": 0,
+          "relation_direction": "statement_about_target"
+        }
+      ],
+      "other_relations": []
+    },
+    "J 3.1.08": {
+      "rationale": "The imported text only calls the item a heading and gives administrative exclusion. Neither the imported description nor SKB fields identify a destination.",
+      "references": [],
+      "other_relations": []
+    },
+    "J 3.1.12": {
+      "rationale": "The imported description explicitly identifies local FEP3.1.1 as its coverage destination. The source is excluded administratively in both the imported text and SKB table, but no SKB adoption of that particular reference is documented.",
+      "references": [
+        {
+          "span": "This FEP is covered by 3.1.1 \"Degradation of the bentonite by chemical reac tions\".",
+          "targets": [
+            "3.1.1"
+          ],
+          "semantics": "covered_by",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 4.1.03": {
+      "rationale": "The imported description explicitly splits the source into local FEP5.45 and4.1.9. The repeated source identifier4.1.3 in the following exclusion sentence is not a destination.",
+      "references": [
+        {
+          "span": "This FEP is split into two new ones 5.45 (Colloids and transport) and 4.1.9 (Complexing agents).",
+          "targets": [
+            "5.45",
+            "4.1.9"
+          ],
+          "semantics": "split_into",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 4.1.07": {
+      "rationale": "The imported description explains temperature influences on chemical reactions and lists example mechanisms. It gives no identifier or stated treatment destination; ordinary scientific concepts are not expanded into PFEP links.",
+      "references": [],
+      "other_relations": []
+    },
+    "J 4.2.02.2": {
+      "rationale": "The imported description explicitly assigns treatment to local FEP4.2.2.1. That directional reference is preserved as original-inventory evidence; the SKB screening fields do not explicitly adopt it.",
+      "references": [
+        {
+          "span": "This FEP is treated in Excavation/backfilling effects on nearby rock 4.2.2.1.",
+          "targets": [
+            "4.2.2.1"
+          ],
+          "semantics": "treated_in",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 4.2.02.3": {
+      "rationale": "The imported description explicitly assigns treatment to local FEP4.2.2.1. That directional reference is preserved as original-inventory evidence; the SKB screening fields do not explicitly adopt it.",
+      "references": [
+        {
+          "span": "This FEP is treated in Excavation backfilling on nearby rock 4.2.2.1.",
+          "targets": [
+            "4.2.2.1"
+          ],
+          "semantics": "treated_in",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 4.2.05": {
+      "rationale": "The imported description enumerates local FEPs as causes of changes in groundwater flow. These are incoming causal references, not destinations to which treatment of the source is assigned. The long methodological discussion and named physical concepts do not establish documentary coverage.",
+      "references": [
+        {
+          "span": "LOCAL CHANGES:   The following FEPs are examples of processes that may cause groundwater flow changes in the nearby rock:\r3.1.1     Degradation of the bentonite; \r3.1.5     Coagulation of bentonite; \r3.2.1.1  Swelling of bentonite into tunnels and cracks; \r3.2.2.2  Uneven swelling of bentonite; \r3.2.3     Mechanical failure of buffer/backfill; \r3.2.4     Erosion of bufferlbackfill; \r3.2.7     Swelling of corrosion products; \r3.2.9     Flow through the buffer backfill; \r4.2.2     Thermo-hydro-mechanical effects                                                                   \r\rCHANGES OF PROPERTIES IN THE FAR-FIELD ROCK:   The following FEPs are examples of FEPs that may change the flow properties of the far-field rock:\r4.2.6   Faulting; \r4.2.1   Mechanical rupture of repository; \r4.2.3   Extreme channel flow;\r4.2.4   Thermal buoyancy; \r4.2.8   Enhanced rock fracturing (Human induced actions); \r\r5.2      Non-sealed repository; \r5.8      Poorly constructed repository; \r5.9      Unsealed bore-holes and/or shafts; \r5.27    Human induced actions on groundwater recharge; \r5.30    Underground test of nuclear devices; \r5.34    Geothermal energy production;\r5.36    Reuse of boreholes; \r5.38    Sabotage; \r5.41    Water producing well; \r5.14    Resaturation; \r5.11    Degradation of hole and shaft seals; \r5.21    Future boreholes and undetected past; \r5.15    Earthquake; \r5.16    Uplift; \r5.17    Permafrost; \r5.42    Glaciation; \r5.26    Surface sediment erosion; \r5.25    Stress changes on conductivity; \r6.13    Geothermally induced flow\r\rGLOBAL CHANGES IN THE GROUNDWATER RECHARGE:   The following FEPs are examples of what could cause global changes in the groundwater recharge: \r\r5.42   Glaciation; \r5.31   Change in sea-level; \r5.32   Desert and unsaturation",
+          "targets": [
+            "3.1.1",
+            "3.1.5",
+            "3.2.1.1",
+            "3.2.2.2",
+            "3.2.3",
+            "3.2.4",
+            "3.2.7",
+            "3.2.9",
+            "4.2.2",
+            "4.2.6",
+            "4.2.1",
+            "4.2.3",
+            "4.2.4",
+            "4.2.8",
+            "5.2",
+            "5.8",
+            "5.9",
+            "5.27",
+            "5.30",
+            "5.34",
+            "5.36",
+            "5.38",
+            "5.41",
+            "5.14",
+            "5.11",
+            "5.21",
+            "5.15",
+            "5.16",
+            "5.17",
+            "5.42",
+            "5.26",
+            "5.25",
+            "6.13",
+            "5.31",
+            "5.32"
+          ],
+          "semantics": "target_causes_source",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision.",
+          "relation_direction": "target_to_source"
+        }
+      ],
+      "other_relations": []
+    },
+    "J 5.07": {
+      "rationale": "The imported text says poor-design effects are represented by more detailed FEPs but does not identify them. No additional destination appears in the SKB screening fields.",
+      "references": [],
+      "other_relations": []
+    },
+    "J 5.08": {
+      "rationale": "The imported text states that the item is too general and covered by other more specific FEPs but supplies no destination identifier or unambiguous referential title.",
+      "references": [],
+      "other_relations": []
+    },
+    "J 5.18": {
+      "rationale": "The imported text treats the source as almost identical to local FEP4.2.5. That record exists but is also Not relevant in the SKB table; the link is a recoverable original-inventory reference, not a terminal relevant treatment path.",
+      "references": [
+        {
+          "span": "Enhanced groundwater flow is almost identical to 4.2.5 Changes of groundwater flow. Thus 5.18 is screened out on the ADM criterion.",
+          "targets": [
+            "4.2.5"
+          ],
+          "semantics": "duplicate_of",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 5.19": {
+      "rationale": "The imported text identifies plate movement as a cause of other local FEPs. These are outgoing causal relationships, not coverage destinations. The source is excluded for being a broad heading; SKB records no destination.",
+      "references": [
+        {
+          "span": "This is an ongoing process which is one of the causes for 4.2.6, 4.2.8, 4.2.9, 5.15, 5.16.",
+          "targets": [
+            "4.2.6",
+            "4.2.8",
+            "4.2.9",
+            "5.15",
+            "5.16"
+          ],
+          "semantics": "source_causes_target",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 5.21": {
+      "rationale": "The imported description marks similarity to five local records but expressly lumps the source into5.9 only. The SR-Site variable fields separately name Initial state general, which is not found in the stage-qualified variable lookup. That unresolved retained association does not replace the explicit original-inventory lumping relation.",
+      "references": [
+        {
+          "span": "This FEP is similar to 5.9, 5.11, 5.34, 5.36 and 5.41.",
+          "targets": [
+            "5.9",
+            "5.11",
+            "5.34",
+            "5.36",
+            "5.41"
+          ],
+          "semantics": "similar_to",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "Lumping 5.9",
+          "targets": [
+            "5.9"
+          ],
+          "semantics": "lumped_into",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 5.23": {
+      "rationale": "The imported text directs the effect to hydrostatic pressure2.3.7.2 and repeats this as the lumping destination. This is an original-inventory treatment pointer; no independent SKB adoption is inferred.",
+      "references": [
+        {
+          "span": "EFFECT:    See hydrostatic pressure 2.3.7.2.",
+          "targets": [
+            "2.3.7.2"
+          ],
+          "semantics": "replacement_cross_reference",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 5.24": {
+      "rationale": "The imported text assigns treatment to two local FEPs4.2.2.1 and4.2.7. Both destinations are retained, without substituting a single highest-ranked candidate.",
+      "references": [
+        {
+          "span": "This FEP is treated in EXCAVATION/BACKFILLING EFFECTS ON NEAR BY ROCK 4.2.2.1 and in thermo-hydro-mechanical effects 4.2.7.",
+          "targets": [
+            "4.2.2.1",
+            "4.2.7"
+          ],
+          "semantics": "treated_in",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 5.25": {
+      "rationale": "The imported text explicitly assigns treatment to local FEP6.6. SKB exclusion is recorded without a separate adoption or scope statement.",
+      "references": [
+        {
+          "span": "This FEP is treated in 6.6 Weathering of flow paths.",
+          "targets": [
+            "6.6"
+          ],
+          "semantics": "treated_in",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 5.46": {
+      "rationale": "The imported description identifies a primary-FEP heading and administrative exclusion, but gives no destination identifier or unambiguous referential title.",
+      "references": [],
+      "other_relations": []
+    },
+    "J 6.03": {
+      "rationale": "The imported text cites7.8 as a cause of chemical intrusion and4.1.1,4.1.2,4.1.9 as effects. These causal links are not assigned coverage destinations, even though all are explicit local references.",
+      "references": [
+        {
+          "span": "More serious cases of chemical intrusion can occur due to human actions (see 7.8).",
+          "targets": [
+            "7.8"
+          ],
+          "semantics": "target_causes_source",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision.",
+          "relation_direction": "target_to_source"
+        },
+        {
+          "span": "EFFECTS:   See 4.1.1, 4.1.2 and 4.1.9.",
+          "targets": [
+            "4.1.1",
+            "4.1.2",
+            "4.1.9"
+          ],
+          "semantics": "source_causes_target",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 6.08": {
+      "rationale": "The imported prose lumps the source into7.7 and7.8, while its explicit lumping field also lists5.31 and5.32. Both parts of the source are preserved as stated; no arbitrary preference is assigned to one list. The records form a distributed original-inventory reference set, not evidence of adopted SR-Site coverage.",
+      "references": [
+        {
+          "span": "Lump into human induced changes of surface water hydrology (7.7) and altered surface water chemistry by humans (7.8).",
+          "targets": [
+            "7.7",
+            "7.8"
+          ],
+          "semantics": "lumped_into",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        },
+        {
+          "span": "Lumping 5.31  5.32  7.7  7.8         ",
+          "targets": [
+            "5.31",
+            "5.32",
+            "7.7",
+            "7.8"
+          ],
+          "semantics": "lumped_into",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 6.12": {
+      "rationale": "The imported description consists of a discussion pointer to the local undetected-fracture-zone record6.1. It is retained as a replacement cross-reference, without claiming SKB endorsement or full scope equivalence.",
+      "references": [
+        {
+          "span": "See discussion on undetected fracture zone 6.1.",
+          "targets": [
+            "6.1"
+          ],
+          "semantics": "replacement_cross_reference",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "J 6.14": {
+      "rationale": "The imported text attributes exclusion to negligible impact at a named meeting. SKB uses a heading/coverage motivation, but neither field supplies a destination. The different stated screening bases are not merged.",
+      "references": [],
+      "other_relations": []
+    },
+    "J 7.01": {
+      "rationale": "The imported description refers broadly to the biosphere domain and gives an exclusion status. A domain name alone is not an identifiable target record; no SKB destination is supplied.",
+      "references": [],
+      "other_relations": []
+    },
+    "J 7.02": {
+      "rationale": "The imported description refers only to the biosphere. The SKB discussion separately says SAFE considered the source in Uptake/sorption and Excretion interactions. These are historical interaction families occurring in several matrix cells, not an unambiguous current SR-Site destination.",
+      "references": [],
+      "other_relations": [
+        {
+          "span": "Map to biosphere. In SAFE, this was considered in interactions like \"Uptake/sorption\" and \"Excretion\".",
+          "semantics": "historical_named_treatment",
+          "stage": "SAFE",
+          "target_type": "SAFE_INTERACTION_FAMILY",
+          "target_id": "",
+          "target_name": "Uptake/sorption",
+          "target_literal": "Uptake/sorption",
+          "identifier_resolution": "historical_family_name",
+          "target_source_file": "SAFEbiomatrix.KSE",
+          "target_source_record_id": "",
+          "target_exists_in_stage": "yes",
+          "candidate_count": 6,
+          "candidate_target_ids": "3.15a Uptake/sorption; 4.15a Uptake/sorption; 5.15a Uptake/sorption; 6.15a Uptake/sorption; 7.15a Uptake/sorption; 8.15a Uptake/sorption",
+          "ambiguity": "multiple_historical_matrix_cells",
+          "explicit_destination": 1,
+          "reference_verified": 0,
+          "skb_adoption_documented": 1,
+          "scope_rationale_present": 1,
+          "interpretation_rationale": "The screening discussion expressly describes treatment in SAFE. The archive contains the named element or interaction family; a repeated family name does not select one matrix cell or establish later SR-Site lineage."
+        },
+        {
+          "span": "Map to biosphere. In SAFE, this was considered in interactions like \"Uptake/sorption\" and \"Excretion\".",
+          "semantics": "historical_named_treatment",
+          "stage": "SAFE",
+          "target_type": "SAFE_INTERACTION_FAMILY",
+          "target_id": "",
+          "target_name": "Excretion",
+          "target_literal": "Excretion",
+          "identifier_resolution": "historical_family_name",
+          "target_source_file": "SAFEbiomatrix.KSE",
+          "target_source_record_id": "",
+          "target_exists_in_stage": "yes",
+          "candidate_count": 7,
+          "candidate_target_ids": "3.15b Excretion; 4.15b Excretion; 5.15b Excretion; 6.15b Excretion; 7.15b Excretion; 8.12a Excretion; 8.15b Excretion",
+          "ambiguity": "multiple_historical_matrix_cells",
+          "explicit_destination": 1,
+          "reference_verified": 0,
+          "skb_adoption_documented": 1,
+          "scope_rationale_present": 1,
+          "interpretation_rationale": "The screening discussion expressly describes treatment in SAFE. The archive contains the named element or interaction family; a repeated family name does not select one matrix cell or establish later SR-Site lineage."
+        }
+      ],
+      "skb_discussion_coverage_assertion_present": 1,
+      "skb_discussion_targeted_assertion_present": 1,
+      "skb_discussion_scope_rationale_present": 1
+    },
+    "J 7.03": {
+      "rationale": "The imported description refers broadly to the biosphere domain and gives an exclusion status. A domain name alone is not an identifiable target record; no SKB destination is supplied.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 1.6.05": {
+      "rationale": "The imported description consists of references to two local sections and an administrative-rejection status. These are retained as two replacement cross-references, without inferring SKB adoption.",
+      "references": [
+        {
+          "span": "See § 1.6.4 and 3.3.6.",
+          "targets": [
+            "1.6.4",
+            "3.3.6"
+          ],
+          "semantics": "replacement_cross_reference",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "M 1.7.05": {
+      "rationale": "The SRCANBIOSPHEREFEP LIST field identifies one or more provisional SR-Can category records; the SRSITEBIOSPHEREFEP LIST field is empty. Each provisional ID is resolved against the SR-Can catalogue, preserving its historical stage and broad category scope. No current SR-Site treatment lineage or final coverage adoption is stated.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 1.7.06": {
+      "rationale": "The SRCANBIOSPHEREFEP LIST field identifies one or more provisional SR-Can category records; the SRSITEBIOSPHEREFEP LIST field is empty. Each provisional ID is resolved against the SR-Can catalogue, preserving its historical stage and broad category scope. No current SR-Site treatment lineage or final coverage adoption is stated.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 1.7.07": {
+      "rationale": "The SRCANBIOSPHEREFEP LIST field identifies one or more provisional SR-Can category records; the SRSITEBIOSPHEREFEP LIST field is empty. Each provisional ID is resolved against the SR-Can catalogue, preserving its historical stage and broad category scope. No current SR-Site treatment lineage or final coverage adoption is stated.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 1.7.08": {
+      "rationale": "The SRCANBIOSPHEREFEP LIST field identifies one or more provisional SR-Can category records; the SRSITEBIOSPHEREFEP LIST field is empty. Each provisional ID is resolved against the SR-Can catalogue, preserving its historical stage and broad category scope. No current SR-Site treatment lineage or final coverage adoption is stated.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 1.7.09": {
+      "rationale": "The SRCANBIOSPHEREFEP LIST field identifies one or more provisional SR-Can category records; the SRSITEBIOSPHEREFEP LIST field is empty. Each provisional ID is resolved against the SR-Can catalogue, preserving its historical stage and broad category scope. No current SR-Site treatment lineage or final coverage adoption is stated.",
+      "references": [
+        {
+          "span": "Ecological response to the climate should be considered in the biosphere model (cf. § 1.3).",
+          "targets": [
+            "1.3"
+          ],
+          "semantics": "see_also",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "M 2.1.04": {
+      "rationale": "The imported text explicitly treats the stated stress-field changes as repository effects in local section3.3.02. This is a recoverable original-inventory treatment reference, separate from SKB adoption.",
+      "references": [
+        {
+          "span": "Stress field changes are considered as repository effects in § 3.3.02.",
+          "targets": [
+            "3.3.02"
+          ],
+          "semantics": "treated_in",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "M 2.1.07": {
+      "rationale": "The imported text rejects the item because its definition is indistinct. Neither that explanation nor the SKB fields specify a treatment destination.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 2.2.01": {
+      "rationale": "The imported text invokes quality assurance and nondestructive analyses to avoid waste-disposal errors. It does not identify another FEP as its treatment destination, and SKB supplies no destination-specific rationale.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 2.4.06": {
+      "rationale": "The SRCANBIOSPHEREFEP LIST field identifies one or more provisional SR-Can category records; the SRSITEBIOSPHEREFEP LIST field is empty. Each provisional ID is resolved against the SR-Can catalogue, preserving its historical stage and broad category scope. No current SR-Site treatment lineage or final coverage adoption is stated.",
+      "references": [],
+      "other_relations": []
+    },
+    "M 3.2.04": {
+      "rationale": "The imported description consists of a local section3.2.3 cross-reference and administrative rejection. The referenced local record is retained as the replacement destination, without inferring independent SKB adoption.",
+      "references": [
+        {
+          "span": "See § 3.2.3",
+          "targets": [
+            "3.2.3"
+          ],
+          "semantics": "replacement_cross_reference",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": []
+    },
+    "N 1.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.1.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.1.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.11": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.12": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.13": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.3": {
+      "rationale": "The imported description consists only of the parenthetical scope labels intrusive and extrusive. No treatment destination is specified in the available screening or mapping fields.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.2.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.3.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.4.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.5.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.11": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.12": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.13": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.14": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.6.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 1.7.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.1.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.11": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.2.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.11": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.12": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.3.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.10": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.8": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 2.4.9": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.1.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.1.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.1.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.1.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.1.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.2.7": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.3.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.3.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.3.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.3.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.3.5": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.3.6": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.4.1": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.4.2": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.4.3": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "N 3.4.4": {
+      "rationale": "The archived record supplies a title-level entry but no specific treatment destination in the imported description/comments, screening discussion, assessment-basis or structured mapping fields. Title or taxonomy similarity can generate separate retrieval candidates but supplies no documentary adoption evidence.",
+      "references": [],
+      "other_relations": []
+    },
+    "S 027": {
+      "rationale": "The imported description explains radionuclide transport and lists influences and effects. Its ordinary mechanism names and report citation do not specify a source-to-treatment destination. SKB supplies no destination-specific explanation.",
+      "references": [],
+      "other_relations": []
+    },
+    "W 1.050": {
+      "rationale": "The imported WIPP description uses a low-consequence screening argument and cites WIPP report sections. SKB discussion independently names the historical SAFE Quaternary deposits diagonal and its interactions, then records2010 reclassification. The named diagonal resolves uniquely in SAFE; current SR-Site lineage is not specified.",
+      "references": [],
+      "other_relations": [
+        {
+          "span": "2002-04-23. Map to biosphere. In SAFE, soil characteristics were included in the diagonal element \"Quaternary deposits\" and processes leading to changes in these characteristics were included in various interactions on this diagonal element.\r2010-03-25: Reclassified as not relevant. /KSk",
+          "semantics": "historical_named_treatment",
+          "stage": "SAFE",
+          "target_type": "SAFE_MATRIX_ELEMENT",
+          "target_id": "02.02",
+          "target_name": "Quaternary deposits",
+          "target_literal": "Quaternary deposits",
+          "identifier_resolution": "exact_historical_name",
+          "target_source_file": "SAFEbiomatrix.KSE",
+          "target_source_record_id": "532",
+          "target_exists_in_stage": "yes",
+          "candidate_count": 1,
+          "candidate_target_ids": "Quaternary deposits",
+          "ambiguity": "none",
+          "explicit_destination": 1,
+          "reference_verified": 1,
+          "skb_adoption_documented": 1,
+          "scope_rationale_present": 1,
+          "interpretation_rationale": "The screening discussion expressly describes treatment in SAFE. The archive contains the named element or interaction family; a repeated family name does not select one matrix cell or establish later SR-Site lineage."
+        },
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "Relevant CCA Sections for further information:\tAppendix SCR, Section SCR.1.4.4\r",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "WIPP CCA Appendix SCR Section SCR.1.4.4",
+          "target_name": "WIPP CCA Appendix SCR Section SCR.1.4.4",
+          "target_literal": "SCR.1.4.4",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        }
+      ],
+      "skb_discussion_coverage_assertion_present": 1,
+      "skb_discussion_targeted_assertion_present": 1,
+      "skb_discussion_scope_rationale_present": 1
+    },
+    "W 1.072": {
+      "rationale": "The screening discussion records a2002 biosphere mapping followed by2010 reclassification as Not relevant. Nine SR-Site biosphere IDs and nine handling edges remain in the archive. These current-table associations are retained with a status conflict; their presence alone is not an affirmative current coverage decision.",
+      "references": [],
+      "other_relations": [
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "Relevant CCA Sections for further information:\tAppendix SCR, Section SCR.1.8.2\r\tAppendix CLI\r",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "WIPP CCA Appendix SCR Section SCR.1.8.2",
+          "target_name": "WIPP CCA Appendix SCR Section SCR.1.8.2",
+          "target_literal": "SCR.1.8.2",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        },
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "Relevant CCA Sections for further information:\tAppendix SCR, Section SCR.1.8.2\r\tAppendix CLI\r",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "WIPP CCA Appendix CLI",
+          "target_name": "WIPP CCA Appendix CLI",
+          "target_literal": "Appendix CLI",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        }
+      ]
+    },
+    "W 2.072": {
+      "rationale": "The imported WIPP text discusses exothermic-reaction consequences and explicitly refers readers to five local FEPs. Quantities and report section numbers elsewhere in the field are not PFEP identifiers. These related-discussion pointers do not demonstrate SKB adoption or complete coverage of the source.",
+      "references": [
+        {
+          "span": "These calculated temperature rises resulting from backfill carbonation, microbial degradation, and aluminum corrosion will not have a significant effect on the performance of the disposal system, as discussed further under FEP No. 2.030 (thermally-induced stress), 2.043 (thermal convection), 2.044 and 2.049 (gas generation), and 2.093 (thermochemical transport).",
+          "targets": [
+            "2.030",
+            "2.043",
+            "2.044",
+            "2.049",
+            "2.093"
+          ],
+          "semantics": "related_discussion",
+          "mode": "numeric",
+          "rationale": "The quoted statement identifies this relation in the imported source inventory; it does not establish adoption of that relation by the SR-Site screening decision."
+        }
+      ],
+      "other_relations": [
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "Relevant CCA Sections for further information:\tAppendix SCR, Section SCR.2.5.7\r\tAppendix WCA, Section 5.3.1\r",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "WIPP CCA Appendix SCR Section SCR.2.5.7",
+          "target_name": "WIPP CCA Appendix SCR Section SCR.2.5.7",
+          "target_literal": "SCR.2.5.7",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        },
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "Relevant CCA Sections for further information:\tAppendix SCR, Section SCR.2.5.7\r\tAppendix WCA, Section 5.3.1\r",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "WIPP CCA Appendix WCA Section 5.3.1",
+          "target_name": "WIPP CCA Appendix WCA Section 5.3.1",
+          "target_literal": "5.3.1",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        }
+      ]
+    },
+    "W 2.100": {
+      "rationale": "The imported text describes chemical gradients and excludes enhanced diffusion for low consequences. Those physical-concept mentions do not identify PFEP destinations. SKB discussion records uncertainty about the source and a generality-based exclusion, without a specific target.",
+      "references": [],
+      "other_relations": [
+        {
+          "source_file": "PROFEP.KSE",
+          "source_field": "FEP DESCRIPTION",
+          "span": "Relevant CCA Sections for further information:\tAppendix SCR, Section SCR.2.7.5\r",
+          "semantics": "ancillary_report_reference",
+          "origin_layer": "original_inventory",
+          "stage": "original_inventory",
+          "target_type": "REPORT_SECTION",
+          "target_id": "WIPP CCA Appendix SCR Section SCR.2.7.5",
+          "target_name": "WIPP CCA Appendix SCR Section SCR.2.7.5",
+          "target_literal": "SCR.2.7.5",
+          "target_exists_in_stage": "unknown",
+          "ambiguity": "report_section_not_resolved_in_database",
+          "explicit_destination": 0,
+          "interpretation_rationale": "The imported description cites an original-programme report section. This is not an identifier in the PFEP catalogue or evidence of SKB adoption."
+        }
+      ]
+    }
+  }
+}
