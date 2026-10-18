@@ -1,0 +1,11 @@
+{
+  "data/coverage_evidence_200.csv": "7d42bea97ccfec0186310a5c99e61a59985eb6d9a0ae74b7dea54ebde4efeb5a",
+  "data/provenance_relations.csv": "a37bc6b0259061efbcb4b97e3ede117874e5382745dbdb66d7ee79fc5a4a60e5",
+  "data/source_inventory_profiles_10.csv": "8a8a7a0ef5a405b3bc98b3b4538a4e7c558efcc75765bf1919a305a826e0f1c6",
+  "data/pfep_relevance_population_1671.csv": "4cb19375703adc4f5b4eb4ff6935e01cc3c911a0fffa067ae678e17f9fb70a56",
+  "data/not_relevant_370_normalized.csv": "e93261c304ee9baaf9e942da7864e10479de37904be4157ed03c5624db4b2f2a",
+  "data/srsite_catalogue_407.csv": "e5552ed78f65d5484c56dfe06cd70a2213cfb6a1e3fb7439efef7660e6c2b9d3",
+  "data/retrieval_search_outcomes.csv": "50b59232c159389859214d86eea07fbc466583714859b1b8c66dae70717866a2",
+  "data/retrieval_benchmark_cases.csv": "96a4a9f4329ee71207042c7b3b51a904f26a469572efbbb1152a0544631dec6f",
+  "code/semantic/traceability_semantics.py": "954fd20d740b7ae9d95c9ecae512c293dbe145f0e4ed262016958290ff9ee342"
+}

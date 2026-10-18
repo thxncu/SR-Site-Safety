@@ -1,0 +1,10 @@
+scope,model,documentary_unresolved_n,sources_with_eligible_pool_n,same_leading_target_as_baseline_n,source_text_empty_n,threshold,candidate_at_or_above_threshold_n,best_eligible_below_threshold_n,no_eligible_candidate_n
+All,baseline_text_fields,164,144,144,144,0.34,120,24,20
+Project N,baseline_text_fields,145,126,126,144,0.34,105,21,19
+Other inventories,baseline_text_fields,19,18,18,0,0.34,15,3,1
+All,title_only_ablation,164,144,135,144,0.34,108,36,20
+Project N,title_only_ablation,145,126,126,144,0.34,105,21,19
+Other inventories,title_only_ablation,19,18,9,0,0.34,3,15,1
+All,missing_text_title_fallback,164,144,113,144,0.34,135,9,20
+Project N,missing_text_title_fallback,145,126,95,144,0.34,120,6,19
+Other inventories,missing_text_title_fallback,19,18,18,0,0.34,15,3,1

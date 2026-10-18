@@ -1,0 +1,16 @@
+inventory_group,group_n,documentary_class,sources_n,percent,sources_with_resolved_destinations_n
+All,200,SR-Site-stage SKB association,10,5.0,10
+All,200,Earlier-stage SKB association,9,4.5,8
+All,200,Original-inventory reference,18,9.0,18
+All,200,SKB rationale without identifiable destination,3,1.5,0
+All,200,No identifiable documentary destination,160,80.0,0
+Project N,145,SR-Site-stage SKB association,0,0.0,0
+Project N,145,Earlier-stage SKB association,0,0.0,0
+Project N,145,Original-inventory reference,0,0.0,0
+Project N,145,SKB rationale without identifiable destination,0,0.0,0
+Project N,145,No identifiable documentary destination,145,100.0,0
+Other inventories,55,SR-Site-stage SKB association,10,18.181818181818183,10
+Other inventories,55,Earlier-stage SKB association,9,16.363636363636363,8
+Other inventories,55,Original-inventory reference,18,32.72727272727273,18
+Other inventories,55,SKB rationale without identifiable destination,3,5.454545454545454,0
+Other inventories,55,No identifiable documentary destination,15,27.27272727272727,0

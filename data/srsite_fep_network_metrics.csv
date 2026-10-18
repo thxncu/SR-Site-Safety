@@ -1,0 +1,342 @@
+sr_id,sr_name,degree_pfep
+Ge03,Groundwater flow,137
+CompBio02,Regolith,117
+CompBio08,Humans,111
+Meth02,Assessment methodology,102
+CompBio14,Radionuclides,74
+CompBio10,Surface water,70
+Bio32,Convection,69
+C08,Corrosion of cast iron insert,61
+Ge13,Speciation and sorption,60
+CompBio11,Water composition,58
+CompBio03,Primary producers,55
+Bio34,Deposition,52
+VarGe10,Groundwater composition,51
+Ge24,Transport of radionuclides in the water phase,49
+FHA06,"Technical analysis, actions with mechanical impact and purpose",48
+Bio42,Exposure,46
+Bu08,Swelling/mass redistribution,45
+Bio15,Uptake,45
+F17,Radionuclide transport,44
+Bio39,Resuspension,44
+Bio38,Relocation,43
+CompBio09,Water in regolith,42
+Ge11,Advective transport/mixing of dissolved species,39
+Ge04,Gas flow/dissolution,39
+Ge15,Dissolution/precipitation of fracture-filling minerals,39
+VarGe06,Fracture geometry,37
+CompBio12,Gas and local atmosphere,36
+C11,Corrosion of copper canister,34
+Ge16,Microbial processes,32
+F12,Fuel dissolution,32
+Ge07,Fracturing,31
+Ge06,Reactivation - Displacement along existing discontinuities,30
+CompBio06,Herbivores,30
+Bio19,Water use,30
+Ge14,Reactions groundwater/rock matrix,29
+CompBio07,Carnivores,28
+Cli11,Climate related issues - Denudation,28
+BfT10,Diffusive transport of species,28
+Ge12,Diffusive transport of dissolved species in fractures and rock matrix,28
+Bu11,Diffusive transport of species,27
+BfT07,Swelling/mass redistribution,26
+Ge18,Colloidal processes,26
+Cli03,Climate system - Climate dynamics,25
+Ge17,Degradation of grout,24
+F14,"Speciation of radionuclides, colloid formation",24
+Bu12,Sorption (including exchange of major ions),24
+Bu16,Montmorillonite transformation,23
+Bu18,Montmorillonite colloid release,23
+Meth01,Assessment basis,23
+BfT18,Microbial processes,22
+BfT15,Montmorillonite transformation,22
+Bu21,Microbial processes,21
+Bio02,Consumption,21
+FHA07,"Technical analysis, actions with chemical impact and purpose",21
+BfT16,Backfill colloid release,21
+FHA05,"Technical analysis, actions with hydraulic impact and purpose",21
+F10,Water radiolysis,21
+Ge19,Formation/dissolution/reaction of gaseous species,20
+CA15,Alteration of concrete components,20
+Bu13,Alterations of impurities,20
+BfT11,Sorption (including exchange of major ions),19
+VarGe09,Fracture minerals,19
+Bu24,Speciation of radionuclides,19
+FHA01,General considerations,18
+CA17,Microbial processes,18
+BfT20,Speciation of radionuclides,18
+Bio28,Water supply,18
+CompBio04,Decomposers,17
+VarBfT10,Structural and stray materials,17
+Bio06,Food supply,17
+VarGe07,Rock stresses,17
+C03,Deformation of cast iron insert,17
+Bu25,Transport of radionuclides in the water phase,17
+BfT21,Transport of radionuclides in the water phase,17
+LSGe02,Earthquakes,17
+Bio24,Phase transitions,17
+Pg12,Alteration of concrete,17
+BP09,Diffusive transport of species,16
+VarCA10,Structural and stray materials,16
+BP11,Alteration of concrete,16
+ISGen01,Major mishaps/accidents/sabotage,16
+BfT12,Alterations of backfill impurities,16
+VarBfT09,Backfill porewater composition,15
+BP14,Microbial processes,15
+VarBu11,Porewater composition,15
+Bio26,Reactions,15
+Bio29,Weathering,15
+F11,Metal corrosion,15
+Ge25,Transport of radionuclides in the gas phase,15
+CA11,Sorption,15
+F05,"Water and gas transport in canister cavity, boiling/condensation",14
+LSGe01,Mechanical evolution of the Shield,14
+VarF08,Water composition,14
+CA18,Speciation of radionuclides,14
+C04,Deformation of copper canister from external pressure,14
+C09,Galvanic corrosion,14
+Bio27,Sorption/desorption,14
+BhS12,Alteration of concrete,14
+F03,Induced fission (criticality),14
+F13,Dissolution of gap inventory,13
+Bio14,Stimulation/inhibition,13
+C06,Copper deformation from internal corrosion products,13
+BP15,Speciation of radionuclides,13
+Ge05,Displacements in intact rock,13
+CA10,Diffusive transport of species,13
+Cli09,Climate related issues - Shoreline migration,12
+Cli02,Climate system - Climate forcing,12
+Bu07,Piping/erosion,12
+Bu04,Water uptake and transport for unsaturated conditions,12
+Pg17,Microbial processes,12
+Bio17,Material use,12
+BhS19,Microbial processes,12
+CompBio05,Filter feeders,12
+Cli04,Climate system - Climate in Sweden and Forsmark,12
+BfT06,Piping/erosion,12
+Bu06,Gas transport/dissolution,12
+BhS22,Transport of radionuclides in the water phase,11
+CA16,Corrosion of steel components,11
+Bu20,Radiolysis of porewater,11
+VarF06,Radionuclide inventory,11
+BfT09,Advective transport of species,11
+CA19,Transport of radionuclides in the water phase,11
+Cli01,Climate system - Components of the climate system,11
+ISGen03,Incomplete closure,11
+VarPg08,Plug materials - composition and content,10
+VarBu02,Temperature,10
+BP12,Aqueous speciation and reactions,10
+Pg15,Montmorillonite transformation,10
+BhS17,Montmorillonite transformation,10
+Bio10,Material supply,10
+VarBu12,Structural and stray materials,10
+FHA02,"Societal analysis, considered societal aspects",10
+Bio49,Sea level change,10
+C07,Radiation effects,10
+Cli08,Climate related issues - Glacial isostatic adjustment,10
+VarGe01,Temperature in bedrock,10
+VarBu08,Stress state,10
+CA07,Swelling/mass redistribution,10
+VarBu09,Bentonite composition,10
+TS12,Alteration of concrete,9
+Ge01,Heat transport,9
+F01,Radioactive decay,9
+C12,Stress corrosion cracking of the copper canister,9
+F02,Radiation attenuation/heat generation,9
+F15,Helium production,9
+Bu26,Transport of radionuclides in a gas phase,9
+Cli05,Climate related issues - Development of permafrost,9
+BfT05,Gas transport/dissolution,9
+BfT03,Water uptake and transport for unsaturated conditions,9
+BfT04,Water transport for saturated conditions,9
+Bu19,Radiation-induced transformations,8
+Bu22,Cementation,8
+C05,Thermal expansion (both cast iron insert and copper canister),8
+C13,Earth currents - stray current corrosion,8
+VarGe05,Repository geometry,8
+C10,Stress corrosion cracking of cast iron insert,8
+VarBfT08,Backfill materials - composition and content,8
+ISC01,Mishaps - canister,8
+ISBu01,Mishaps - buffer,8
+Oth01,Meteorite impact,8
+Pg13,Aqueous speciation and reactions,8
+Ge08,Creep,8
+Ge02,Freezing,8
+Bio47,Radionuclide release,8
+F09,Residual gas radiolysis/ acid formation,8
+BhS15,Alterations of impurities in bentonite,8
+TS02,Freezing,7
+VarBhS08,Sealing materials - composition and content,7
+Bio01,Bioturbation,7
+F07,Structural evolution of fuel matrix,7
+F08,Advection and diffusion,7
+TS07,Swelling/mass redistribution,7
+BP10,Sorption (including exchange of major ions),7
+VarF04,Fuel geometry,7
+Cli07,Climate related issues - Ice-sheet hydrology,7
+BP16,Transport of radionuclides in the water phase,7
+VarCA09,Central area porewater composition,7
+CompBio13,Temperature,7
+VarGe08,Matrix minerals,7
+Bio16,Anthropogenic release,7
+BfT22,Transport of radionuclides by a gas phase,6
+FHA04,"Technical analysis, actions with thermal impact and purpose",6
+Bio31,Acceleration,6
+Bu01,Radiation attenuation/ heat generation,6
+Bu05,Water transport for saturated conditions,6
+ISBhS01,Mishaps/Design deviations - borehole seals,6
+Pg07,Swelling/mass redistribution,6
+ISC02,Design deviations - canister,6
+TS16,Microbial processes,6
+VarGe12,Structural and stray materials,6
+VarBP08,Bottom plate materials - composition and content,6
+Bio05,Excretion,6
+ISBfT01,Mishaps - backfill in tunnels,6
+ISPg02,Design deviations - plugs,6
+ISBP02,Design deviations - bottom plate in deposition holes,6
+Bu10,Advective transport of species,6
+BfT17,Radiation-induced transformations,6
+CA09,Advective transport of species,6
+Bu17,Iron-bentonite interaction,6
+Bu23,Colloid transport,6
+VarPg09,Plug porewater composition,6
+BhS11,Sorption (including exchange of major ions),6
+CA04,Water transport under saturated conditions,5
+Cli06,Climate related issues - Ice-sheet dynamics,5
+CA12,Alteration of the central area backfill,5
+VarBu10,Montmorillonite composition,5
+VarCA08,Central area materials - composition and content,5
+VarBu07,Pore geometry,5
+VarF03,Hydrovariables (pressure and flow),5
+VarBP09,Bottom plate porewater composition,5
+BhS13,Aqueous speciation and reactions,5
+BP07,Swelling/mass redistribution,5
+BfT19,Colloid formation and transport,5
+Bio41,Decay,5
+F06,Mechanical cladding failure,5
+Bu02,Heat transport,5
+BP03,Water uptake and transport under unsaturated conditions,5
+Bio08,Habitat supply,5
+ISBu02,Design deviations - buffer,5
+ISBfT02,Design deviations - backfill in tunnels,5
+Pg11,Sorption (including exchange of major ions),5
+BhS02,Freezing,5
+ISGen04,Monitoring activities,5
+Ge23,Earth currents,5
+VarBfT06,Backfill pore geometry,5
+VarBfT01,Temperature,5
+VarGe13,Saturation,5
+VarBhS09,Porewater composition,5
+VarBu06,Buffer geometry,4
+BhS04,Water transport under saturated conditions,4
+VarBfT07,Stress state,4
+Bio03,Death,4
+TS04,Water transport under saturated conditions,4
+ISGen02,Effects of phased operation,4
+Pg16,Montmorillonite colloid release,4
+Bio22,Element supply,4
+Bio04,Decomposition,4
+VarGe11,Gas composition,4
+VarBhS05,Borehole geometry,4
+VarCA01,Temperature,4
+VarC02,Temperature,4
+CA06,Piping/erosion,4
+CA05,Gas transport/dissolution,4
+C02,Heat transport,4
+CA03,Water uptake and transport under unsaturated conditions,4
+BfT02,Freezing,4
+BfT01,Heat transport,4
+BfT13,Aqueous speciation and reactions,4
+ISTS01,Mishaps/Design deviations - top seal,4
+Bu03,Freezing,4
+Ge22,Radiation effects (rock and grout),4
+Bio44,Irradiation,4
+FHA03,"Technical analysis, general aspects",4
+VarPg06,Plug pore geometry,4
+Pg04,Water transport for saturated conditions,3
+ISPg01,Mishaps - plugs,3
+BP02,Freezing,3
+VarPg05,Plug geometry,3
+Bio33,Covering,3
+ISBP01,Mishaps - bottom plate in deposition holes,3
+Ge20,Methane hydrate formation,3
+Bu15,Osmosis,3
+Bu14,Aqueous speciation and reactions,3
+VarF02,Temperature,3
+VarBu05,Hydrovariables (pressures and flows),3
+BP13,Copper corrosion,3
+VarF01,Radiation intensity,3
+BfT14,Osmosis,3
+F04,Heat transport,3
+VarF07,Material composition,3
+VarGe02,Groundwater flow,3
+VarBfT04,Hydrovariables (pressures and flows),3
+BP01,Heat transport,3
+Bio21,Consolidation,3
+BhS07,Swelling/mass redistribution,3
+Bio13,Primary production,3
+CA02,Freezing,3
+Bio48,Change in rock surface location,3
+ISCA02,Design deviations - central area,3
+Pg10,Diffusive transport of species,3
+BhS10,Diffusive transport of species,3
+TS05,Gas transport/dissolution,2
+TS09,Advective transport of species,2
+VarPg01,Temperature,2
+VarBP01,Temperature,2
+Bio11,Movement,2
+VarC03,Canister geometry,2
+VarC04,Material composition,2
+VarCA04,Hydrovariables (pressure and flows),2
+CA13,Aqueous speciation and reactions,2
+CA14,Osmosis,2
+BP08,Advective transport of species,2
+VarTS09,Top seal porewater composition,2
+VarBhS10,Structural and stray materials,2
+VarBhS06,Pore geometry,2
+Bio12,Particle release/trapping,2
+Bio40,Saturation,2
+Bio25,Physical properties change,2
+VarBfT05,Backfill geometry,2
+Pg09,Advective transport of species,2
+Pg05,Gas transport/dissolution,2
+Ge10,Erosion/sedimentation in fractures,2
+Bio35,Export,2
+Bio36,Import,2
+Bio50,Terrestrialisation,2
+Ge21,Salt exclusion,2
+Bio51,Thresholding,2
+Pg14,Osmosis,2
+TS03,Water uptake and transport under unsaturated conditions,2
+TS15,Steel corrosion,2
+BhS16,Osmosis,2
+VarBP06,Bottom plate pore geometry,2
+C15,Radionuclide transport,1
+VarC05,Mechanical stresses,1
+VarC01,Radiation intensity,1
+VarCA06,Central area pore geometry,1
+VarCA05,Central area geometry,1
+BfT08,Liquefaction,1
+C14,Deposition of salts on canister surface,1
+VarF09,Gas composition,1
+CA08,Liquefaction,1
+Bio45,Light-related processes,1
+Bu09,Liquefaction,1
+Pg02,Freezing,1
+ISCA01,Mishaps - central area,1
+Pg19,Transport of radionuclides in the water phase,1
+Pg08,Liquefaction,1
+TS13,Aqueous speciation and reactions,1
+BhS09,Advective transport of species,1
+TS18,Transport of radionuclides in the water phase,1
+VarBP05,Bottom plate geometry,1
+VarBft01,,1
+VarBhS04,Hydrovariables (pressure and flows),1
+BP04,Water transport under saturated conditions,1
+VarBu04,Gas content,1
+VarBu03,Water content,1
+VarBu01,Radiation intensity,1
+VarTS05,Top seal geometry,1
+VarTS06,Top seal pore geometry,1
+VarTS08,Top seal materials - composition and content,1
+VarTS10,Structural and stray materials,1

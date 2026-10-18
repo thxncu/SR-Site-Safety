@@ -1,0 +1,106 @@
+{
+  "candidate_population": "All 1301 PFEPs classified Relevant in the archived population",
+  "source_population_for_vectorizer_fit": "All 200 coverage-elsewhere records, unchanged",
+  "benchmark_sources_n": 18,
+  "unique_source_endpoint_pairs_n": 42,
+  "source_verified_provenance_occurrences_n": 44,
+  "source_fields": [
+    "pfep_description",
+    "pfep_comments",
+    "comments_needs_discussion",
+    "assessment_basis_comment"
+  ],
+  "candidate_fields": [
+    "pfep_name",
+    "pfep_description",
+    "pfep_comments"
+  ],
+  "title_field": "pfep_name",
+  "title_metric": "2*LCS/(combined normalized title length)",
+  "word_options": {
+    "stop_words": "english",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 30000
+  },
+  "character_options": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      3,
+      5
+    ],
+    "max_features": 40000
+  },
+  "vectorizer_fit": "One unmasked joint corpus of 200 source texts plus 1301 candidate texts for each vectorizer; masked queries transform in the same fixed vocabulary and IDF weights",
+  "vocabulary_sizes": {
+    "word": 30000,
+    "character": 40000
+  },
+  "score_weights_order": [
+    "word_cosine",
+    "character_cosine",
+    "title_indel_similarity",
+    "shared_ifep_indicator"
+  ],
+  "models": {
+    "archived_weighted_score": [
+      0.35,
+      0.25,
+      0.25,
+      0.15
+    ],
+    "weighted_content_only": [
+      0.4117647058823529,
+      0.29411764705882354,
+      0.29411764705882354,
+      0.0
+    ],
+    "equal_content_weights": [
+      0.3333333333333333,
+      0.3333333333333333,
+      0.3333333333333333,
+      0.0
+    ],
+    "word_tfidf_only": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "character_tfidf_only": [
+      0.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "title_similarity_only": [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ]
+  },
+  "eligibility_variants": [
+    "shared_IFEP_required",
+    "no_IFEP_eligibility_filter"
+  ],
+  "tie_break": "Ascending PFEP identifier after descending score",
+  "masking": "Remove only numeric/full PFEP identifier literals inside source-verified PFEP-reference evidence spans. Replace each token by whitespace. Titles and named semantic references remain. Candidate records, vectorizer fit and IFEP metadata remain fixed.",
+  "masked_benchmark_queries_n": 15,
+  "numeric_tokens_removed_in_benchmark_n": 31,
+  "numeric_tokens_removed_all_200_n": 80,
+  "masked_queries_are_not_independent_validation": true,
+  "weight_optimization": "None. No objective function or held-out tuning set selected the archived weights or the 0.34 lead flag. No optimization is performed in this comparison.",
+  "cutoff_use": "The archived 0.34 threshold labels follow-up leads only; no cutoff is used for the rank comparisons.",
+  "benchmark_interpretation": "Recovery of identified imported cross-reference endpoints; neither complete relevance judgments nor validation of documentary adoption, screening adequacy or safety performance.",
+  "dense_model_benchmark_performed": false,
+  "software": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "scikit_learn": "1.8.0"
+  }
+}

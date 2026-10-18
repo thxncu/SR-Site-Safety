@@ -1,0 +1,64 @@
+inventory_group,source_n,property,present_n
+All,200,formal_reason_coverage_assertion,200
+All,200,documentary_unresolved,164
+All,200,no_resolved_relevant_destination,165
+All,200,imported_text_present,56
+All,200,imported_description_present,56
+All,200,imported_comments_present,1
+All,200,skb_explanatory_rationale_present,18
+All,200,skb_discussion_coverage_assertion_present,5
+All,200,skb_discussion_targeted_assertion_present,4
+All,200,skb_discussion_scope_rationale_present,5
+All,200,skb_adoption_documented,3
+All,200,current_skb_adoption_documented,0
+All,200,current_association_present,10
+All,200,historical_association_present,9
+All,200,original_inventory_reference_present,27
+All,200,original_inventory_coverage_reference_present,20
+All,200,ambiguous_reference_present,10
+All,200,reference_resolution_issue_present,18
+All,200,unresolved_reference_present,4
+All,200,unverified_reference_present,6
+All,200,status_conflict_present,1
+Project N,145,formal_reason_coverage_assertion,145
+Project N,145,documentary_unresolved,145
+Project N,145,no_resolved_relevant_destination,145
+Project N,145,imported_text_present,1
+Project N,145,imported_description_present,1
+Project N,145,imported_comments_present,0
+Project N,145,skb_explanatory_rationale_present,0
+Project N,145,skb_discussion_coverage_assertion_present,0
+Project N,145,skb_discussion_targeted_assertion_present,0
+Project N,145,skb_discussion_scope_rationale_present,0
+Project N,145,skb_adoption_documented,0
+Project N,145,current_skb_adoption_documented,0
+Project N,145,current_association_present,0
+Project N,145,historical_association_present,0
+Project N,145,original_inventory_reference_present,0
+Project N,145,original_inventory_coverage_reference_present,0
+Project N,145,ambiguous_reference_present,0
+Project N,145,reference_resolution_issue_present,0
+Project N,145,unresolved_reference_present,0
+Project N,145,unverified_reference_present,0
+Project N,145,status_conflict_present,0
+Other inventories,55,formal_reason_coverage_assertion,55
+Other inventories,55,documentary_unresolved,19
+Other inventories,55,no_resolved_relevant_destination,20
+Other inventories,55,imported_text_present,55
+Other inventories,55,imported_description_present,55
+Other inventories,55,imported_comments_present,1
+Other inventories,55,skb_explanatory_rationale_present,18
+Other inventories,55,skb_discussion_coverage_assertion_present,5
+Other inventories,55,skb_discussion_targeted_assertion_present,4
+Other inventories,55,skb_discussion_scope_rationale_present,5
+Other inventories,55,skb_adoption_documented,3
+Other inventories,55,current_skb_adoption_documented,0
+Other inventories,55,current_association_present,10
+Other inventories,55,historical_association_present,9
+Other inventories,55,original_inventory_reference_present,27
+Other inventories,55,original_inventory_coverage_reference_present,20
+Other inventories,55,ambiguous_reference_present,10
+Other inventories,55,reference_resolution_issue_present,18
+Other inventories,55,unresolved_reference_present,4
+Other inventories,55,unverified_reference_present,6
+Other inventories,55,status_conflict_present,1

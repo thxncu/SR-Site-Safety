@@ -1,0 +1,5 @@
+source_pfep_id,imported_endpoint_id,handling_rows_n,unique_SR_Site_targets_n,handled_text_rows_n,unhandled_text_rows_n,comment_rows_n,source_record_ids,SR_Site_target_ids,interpretation_limit
+I 165,I 126,1,1,1,0,0,531,C09,Downstream association and annotation inventory; not adopted transitive coverage.
+I 165,I 058,5,5,4,0,5,526; 1065; 1604; 2143; 7427,Bu18; BfT16; Ge18; Ge24; Pg16,Downstream association and annotation inventory; not adopted transitive coverage.
+I 165,I 061,19,19,16,0,15,527; 5852; 5910; 5911; 5912; 5913; 5915; 5916; 5917; 5918; 5919; 5920; 7324; 7333; 7395; 7446; 7453; 7544; 8536,Ge17; VarBfT09; VarBfT10; VarGe10; VarGe12; VarBP08; VarCA09; VarCA10; VarPg08; VarPg09; VarBhS08; VarBhS09; BP12; BP11; CA15; Pg13; Pg12; VarBP09; BfT15,Downstream association and annotation inventory; not adopted transitive coverage.
+I 165,I 273,1,1,1,0,0,6279,Meth02,Downstream association and annotation inventory; not adopted transitive coverage.

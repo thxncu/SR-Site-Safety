@@ -1,0 +1,83 @@
+{
+  "version": "3.1.0",
+  "basis": "Existing source-derived data; no new expert labels or safety calculations.",
+  "cohort": {
+    "sources_n": 55,
+    "identity_tasks": {
+      "identify_or_disambiguate_destination": 19,
+      "review_distributed_destination_scope": 19,
+      "review_single_destination_scope": 17
+    },
+    "historical_association_review": 9,
+    "lookup_qualification_review": 18,
+    "retained_link_status_review": 1,
+    "relation_specific_SR_Site_adoption_observed": 0,
+    "earlier_stage_adoption_observed": 3,
+    "additional_scope_rationale_text_observed": 5,
+    "screening_decision_preserved": 55
+  },
+  "I165_branches": [
+    {
+      "source_pfep_id": "I 165",
+      "imported_endpoint_id": "I 126",
+      "handling_rows_n": 1,
+      "unique_SR_Site_targets_n": 1,
+      "handled_text_rows_n": 1,
+      "unhandled_text_rows_n": 0,
+      "comment_rows_n": 0,
+      "source_record_ids": "531",
+      "SR_Site_target_ids": "C09",
+      "interpretation_limit": "Downstream association and annotation inventory; not adopted transitive coverage."
+    },
+    {
+      "source_pfep_id": "I 165",
+      "imported_endpoint_id": "I 058",
+      "handling_rows_n": 5,
+      "unique_SR_Site_targets_n": 5,
+      "handled_text_rows_n": 4,
+      "unhandled_text_rows_n": 0,
+      "comment_rows_n": 5,
+      "source_record_ids": "526; 1065; 1604; 2143; 7427",
+      "SR_Site_target_ids": "Bu18; BfT16; Ge18; Ge24; Pg16",
+      "interpretation_limit": "Downstream association and annotation inventory; not adopted transitive coverage."
+    },
+    {
+      "source_pfep_id": "I 165",
+      "imported_endpoint_id": "I 061",
+      "handling_rows_n": 19,
+      "unique_SR_Site_targets_n": 19,
+      "handled_text_rows_n": 16,
+      "unhandled_text_rows_n": 0,
+      "comment_rows_n": 15,
+      "source_record_ids": "527; 5852; 5910; 5911; 5912; 5913; 5915; 5916; 5917; 5918; 5919; 5920; 7324; 7333; 7395; 7446; 7453; 7544; 8536",
+      "SR_Site_target_ids": "Ge17; VarBfT09; VarBfT10; VarGe10; VarGe12; VarBP08; VarCA09; VarCA10; VarPg08; VarPg09; VarBhS08; VarBhS09; BP12; BP11; CA15; Pg13; Pg12; VarBP09; BfT15",
+      "interpretation_limit": "Downstream association and annotation inventory; not adopted transitive coverage."
+    },
+    {
+      "source_pfep_id": "I 165",
+      "imported_endpoint_id": "I 273",
+      "handling_rows_n": 1,
+      "unique_SR_Site_targets_n": 1,
+      "handled_text_rows_n": 1,
+      "unhandled_text_rows_n": 0,
+      "comment_rows_n": 0,
+      "source_record_ids": "6279",
+      "SR_Site_target_ids": "Meth02",
+      "interpretation_limit": "Downstream association and annotation inventory; not adopted transitive coverage."
+    }
+  ],
+  "H163_enumerated_aspects_n": 10,
+  "inputs_sha256": {
+    "retrieval_rank_comparison_pairs.csv": "609f9486375e7e793174cfb656c2bd86415bdd6ad068f240f18120085445df5a",
+    "retrieval_rank_comparison_summary.csv": "49d390d0cc9ab463d5212e7e999431dae2e466393bfce4585d168e4d2f78f9d1",
+    "retrieval_main_table_seven_rows.csv": "7e4cccf526a8f02a1802f0929a0d90fe297dd3ab6b248ab9289fe8dacefa60ca",
+    "coverage_evidence_200.csv": "7d42bea97ccfec0186310a5c99e61a59985eb6d9a0ae74b7dea54ebde4efeb5a",
+    "technical_case_handling_rows.json": "1398cf8c952dff34df9165aa392e2417e8cc2bef1504846bb07cab5380b5fbe7",
+    "pfep_srsite_network_edges.csv": "2244d3f8181aebd258f2386a24a62b491650e98aca75ae4f2f4e309df772c80c"
+  },
+  "tests": {
+    "24_configurations_reconstructed": true,
+    "existing_Hit_and_recall_reproduced": true,
+    "four_branch_sets_match_full_handling_graph": true
+  }
+}

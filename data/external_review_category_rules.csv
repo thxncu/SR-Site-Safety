@@ -1,0 +1,13 @@
+primary_dimension,decision_rule,boundary
+Actor attribution and QA,"Responsibility, completion or scope of a checking/quality-assurance procedure is the main object.",Use Temporal attribution when the main distinction is when an action or instruction took effect.
+Completeness and corpus currency,The age or update scope of the comparison inventory is the main object.,Use Completeness and mapping for coverage of a mapping within the specified corpus.
+Completeness and exclusion justification,"The stated basis for including, excluding or consolidating a process or datum is the main object.",Source-locator precision alone belongs to Referential specificity.
+Completeness and mapping,The scope or coverage of a mapping or iterative completeness process is the main object.,Methodological coherence addresses the wider assessment method rather than mapping coverage alone.
+Contestability and unevenness,The passage explicitly compares how readily different decision types can be checked or challenged.,Do not assign this label to a favorable general statement merely because the study concerns auditability.
+Cross-document consistency,"Different documentary objects contain inconsistent values, categories, model names or source-use conventions.","Use Data/argument provenance when the central question is the origin, custody or qualification of support."
+Data/argument provenance,"The origin, custody, qualification or transferability of data, models or supporting arguments is the main object.",Use Navigability and access when the main concern is a route to an otherwise identified location or object.
+Methodological coherence,The passage evaluates the coherence or international alignment of the overall FEP and scenario method.,This label does not assert completeness of individual links or uniform justification of exclusions.
+Navigability and access,"Access to, or movement between, documentary objects and treatment locations is the main object.",Use Referential specificity when an existing reference is too vague to identify the intended treatment.
+Referential specificity,"Descriptions, handling statements or references do not precisely identify the subject or supporting location.",Use Reproducibility and justification when the missing element is the substantive reasoning or calculation itself.
+Reproducibility and justification,The documented reasoning or calculation is insufficient to reconstruct or assess the particular assertion.,An unclear path to existing support alone belongs to Navigability and access or Data/argument provenance.
+Temporal attribution,"The date, version or propagation timing of an action, instruction or correction is the main object.",Do not infer current operational status from a dated historical record.

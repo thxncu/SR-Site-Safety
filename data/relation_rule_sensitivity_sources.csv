@@ -1,0 +1,166 @@
+rule,pfep_id,resolved_targets_n,task,target_keys
+R1,A 1.04,0,destination_identification,
+R1,A 1.10,15,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.09|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.16|original_inventory; PFEP|A 1.25|original_inventory; PFEP|A 1.36|original_inventory; PFEP|A 1.43|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.66|original_inventory; PFEP|A 1.71|original_inventory; PFEP|A 2.32|original_inventory; PFEP|A 2.33|original_inventory; PFEP|A 2.64|original_inventory; SKB_PROCESS|Bu13|SR-Site
+R1,A 1.25,15,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.03|original_inventory; PFEP|A 1.04|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.10|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.16|original_inventory; PFEP|A 1.35|original_inventory; PFEP|A 1.36|original_inventory; PFEP|A 1.43|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.66|original_inventory; PFEP|A 1.71|original_inventory; PFEP|A 1.81|original_inventory; SKB_PROCESS|Ge23|SR-Site
+R1,A 1.34,9,distributed_scope,PFEP|A 1.01|original_inventory; PFEP|A 1.04|original_inventory; PFEP|A 1.06|original_inventory; PFEP|A 1.33|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.59|original_inventory; PFEP|A 1.72|original_inventory; SKB_PROCESS|Ge07|SR-Site; SKB_VARIABLE|VarGe06|SR-Site
+R1,A 1.39,2,distributed_scope,PFEP|A 2.07|original_inventory; PFEP|A 3.024|original_inventory
+R1,A 1.78,6,distributed_scope,PFEP|A 1.52|original_inventory; PFEP|A 1.68|original_inventory; PFEP|A 1.72|original_inventory; PFEP|A 1.79|original_inventory; PFEP|A 1.83|original_inventory; SKB_VARIABLE|VarF05|SR-Site
+R1,A 1.81,10,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.10|original_inventory; PFEP|A 1.18|original_inventory; PFEP|A 1.43|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.71|original_inventory; PFEP|A 2.71|original_inventory; PFEP|A 3.113|original_inventory; SKB_PROCESS|Bu13|SR-Site
+R1,A 1.83,5,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.18|original_inventory; PFEP|A 1.52|original_inventory; PFEP|A 1.68|original_inventory
+R1,A 2.32,11,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.09|original_inventory; PFEP|A 1.10|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.71|original_inventory; PFEP|A 2.08|original_inventory; PFEP|A 2.33|original_inventory; PFEP|A 2.57|original_inventory; SKB_PROCESS|Ge15|SR-Site; SKB_VARIABLE|VarGe10|SR-Site
+R1,A 3.085,7,distributed_scope,PFEP|A 3.006|original_inventory; PFEP|A 3.007|original_inventory; PFEP|A 3.018|original_inventory; PFEP|A 3.020|original_inventory; PFEP|A 3.036|original_inventory; PFEP|A 3.079|original_inventory; PFEP|A 3.096|original_inventory
+R1,E SFL-00,0,destination_identification,
+R1,H 1.6.3,1,single_destination_scope,SKB_PROCESS|Bu13|SR-Site
+R1,H 2.2.3,0,destination_identification,
+R1,I 039,2,distributed_scope,SKB_PROCESS|Bu13|SR-Site; SKB_VARIABLE|VarBu11|SR-Site
+R1,I 165,4,distributed_scope,PFEP|I 058|original_inventory; PFEP|I 061|original_inventory; PFEP|I 126|original_inventory; PFEP|I 273|original_inventory
+R1,J 2.3.02,1,single_destination_scope,PFEP|J 2.1.01|original_inventory
+R1,J 3.1.08,0,destination_identification,
+R1,J 3.1.12,1,single_destination_scope,PFEP|J 3.1.01|original_inventory
+R1,J 4.1.03,2,distributed_scope,PFEP|J 4.1.09|original_inventory; PFEP|J 5.45|original_inventory
+R1,J 4.1.07,0,destination_identification,
+R1,J 4.2.02.2,1,single_destination_scope,PFEP|J 4.2.02.1|original_inventory
+R1,J 4.2.02.3,1,single_destination_scope,PFEP|J 4.2.02.1|original_inventory
+R1,J 4.2.05,0,destination_identification,
+R1,J 5.07,0,destination_identification,
+R1,J 5.08,0,destination_identification,
+R1,J 5.18,1,single_destination_scope,PFEP|J 4.2.05|original_inventory
+R1,J 5.19,0,destination_identification,
+R1,J 5.21,1,single_destination_scope,PFEP|J 5.09|original_inventory
+R1,J 5.23,1,single_destination_scope,PFEP|J 2.3.07.2|original_inventory
+R1,J 5.24,2,distributed_scope,PFEP|J 4.2.02.1|original_inventory; PFEP|J 4.2.07|original_inventory
+R1,J 5.25,1,single_destination_scope,PFEP|J 6.06|original_inventory
+R1,J 5.46,0,destination_identification,
+R1,J 6.03,0,destination_identification,
+R1,J 6.08,4,distributed_scope,PFEP|J 5.31|original_inventory; PFEP|J 5.32|original_inventory; PFEP|J 7.07|original_inventory; PFEP|J 7.08|original_inventory
+R1,J 6.12,1,single_destination_scope,PFEP|J 6.01|original_inventory
+R1,J 6.14,0,destination_identification,
+R1,J 7.01,0,destination_identification,
+R1,J 7.02,0,destination_identification,
+R1,J 7.03,0,destination_identification,
+R1,M 1.6.05,2,distributed_scope,PFEP|M 1.6.04|original_inventory; PFEP|M 3.3.06|original_inventory
+R1,M 1.7.05,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R1,M 1.7.06,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R1,M 1.7.07,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R1,M 1.7.08,2,distributed_scope,SR_FEP|ProvBio01|SR-Can; SR_FEP|ProvBio04|SR-Can
+R1,M 1.7.09,5,distributed_scope,SR_FEP|ProvBio01|SR-Can; SR_FEP|ProvBio02|SR-Can; SR_FEP|ProvBio03|SR-Can; SR_FEP|ProvBio04|SR-Can; SR_FEP|ProvBio05|SR-Can
+R1,M 2.1.04,1,single_destination_scope,PFEP|M 3.3.02|original_inventory
+R1,M 2.1.07,0,destination_identification,
+R1,M 2.2.01,0,destination_identification,
+R1,M 2.4.06,1,single_destination_scope,SR_FEP|ProvBio05|SR-Can
+R1,M 3.2.04,1,single_destination_scope,PFEP|M 3.2.03|original_inventory
+R1,S 027,0,destination_identification,
+R1,W 1.050,1,single_destination_scope,SAFE_MATRIX_ELEMENT|02.02|SAFE
+R1,W 1.072,9,distributed_scope,SR_FEP|CompBio02|SR-Site; SR_FEP|CompBio03|SR-Site; SR_FEP|CompBio04|SR-Site; SR_FEP|CompBio05|SR-Site; SR_FEP|CompBio06|SR-Site; SR_FEP|CompBio07|SR-Site; SR_FEP|CompBio09|SR-Site; SR_FEP|CompBio10|SR-Site; SR_FEP|CompBio11|SR-Site
+R1,W 2.072,5,distributed_scope,PFEP|W 2.030|original_inventory; PFEP|W 2.043|original_inventory; PFEP|W 2.044|original_inventory; PFEP|W 2.049|original_inventory; PFEP|W 2.093|original_inventory
+R1,W 2.100,0,destination_identification,
+R2,A 1.04,0,destination_identification,
+R2,A 1.10,13,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.09|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.16|original_inventory; PFEP|A 1.36|original_inventory; PFEP|A 1.43|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.66|original_inventory; PFEP|A 1.71|original_inventory; PFEP|A 2.33|original_inventory; PFEP|A 2.64|original_inventory; SKB_PROCESS|Bu13|SR-Site
+R2,A 1.25,12,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.03|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.16|original_inventory; PFEP|A 1.35|original_inventory; PFEP|A 1.36|original_inventory; PFEP|A 1.43|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.66|original_inventory; PFEP|A 1.71|original_inventory; SKB_PROCESS|Ge23|SR-Site
+R2,A 1.34,8,distributed_scope,PFEP|A 1.01|original_inventory; PFEP|A 1.06|original_inventory; PFEP|A 1.33|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.59|original_inventory; PFEP|A 1.72|original_inventory; SKB_PROCESS|Ge07|SR-Site; SKB_VARIABLE|VarGe06|SR-Site
+R2,A 1.39,2,distributed_scope,PFEP|A 2.07|original_inventory; PFEP|A 3.024|original_inventory
+R2,A 1.78,5,distributed_scope,PFEP|A 1.52|original_inventory; PFEP|A 1.68|original_inventory; PFEP|A 1.72|original_inventory; PFEP|A 1.79|original_inventory; SKB_VARIABLE|VarF05|SR-Site
+R2,A 1.81,9,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.18|original_inventory; PFEP|A 1.43|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.71|original_inventory; PFEP|A 2.71|original_inventory; PFEP|A 3.113|original_inventory; SKB_PROCESS|Bu13|SR-Site
+R2,A 1.83,5,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.18|original_inventory; PFEP|A 1.52|original_inventory; PFEP|A 1.68|original_inventory
+R2,A 2.32,10,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.07|original_inventory; PFEP|A 1.09|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.71|original_inventory; PFEP|A 2.08|original_inventory; PFEP|A 2.33|original_inventory; PFEP|A 2.57|original_inventory; SKB_PROCESS|Ge15|SR-Site; SKB_VARIABLE|VarGe10|SR-Site
+R2,A 3.085,7,distributed_scope,PFEP|A 3.006|original_inventory; PFEP|A 3.007|original_inventory; PFEP|A 3.018|original_inventory; PFEP|A 3.020|original_inventory; PFEP|A 3.036|original_inventory; PFEP|A 3.079|original_inventory; PFEP|A 3.096|original_inventory
+R2,E SFL-00,0,destination_identification,
+R2,H 1.6.3,1,single_destination_scope,SKB_PROCESS|Bu13|SR-Site
+R2,H 2.2.3,0,destination_identification,
+R2,I 039,2,distributed_scope,SKB_PROCESS|Bu13|SR-Site; SKB_VARIABLE|VarBu11|SR-Site
+R2,I 165,4,distributed_scope,PFEP|I 058|original_inventory; PFEP|I 061|original_inventory; PFEP|I 126|original_inventory; PFEP|I 273|original_inventory
+R2,J 2.3.02,1,single_destination_scope,PFEP|J 2.1.01|original_inventory
+R2,J 3.1.08,0,destination_identification,
+R2,J 3.1.12,1,single_destination_scope,PFEP|J 3.1.01|original_inventory
+R2,J 4.1.03,2,distributed_scope,PFEP|J 4.1.09|original_inventory; PFEP|J 5.45|original_inventory
+R2,J 4.1.07,0,destination_identification,
+R2,J 4.2.02.2,1,single_destination_scope,PFEP|J 4.2.02.1|original_inventory
+R2,J 4.2.02.3,1,single_destination_scope,PFEP|J 4.2.02.1|original_inventory
+R2,J 4.2.05,0,destination_identification,
+R2,J 5.07,0,destination_identification,
+R2,J 5.08,0,destination_identification,
+R2,J 5.18,0,destination_identification,
+R2,J 5.19,0,destination_identification,
+R2,J 5.21,1,single_destination_scope,PFEP|J 5.09|original_inventory
+R2,J 5.23,1,single_destination_scope,PFEP|J 2.3.07.2|original_inventory
+R2,J 5.24,2,distributed_scope,PFEP|J 4.2.02.1|original_inventory; PFEP|J 4.2.07|original_inventory
+R2,J 5.25,1,single_destination_scope,PFEP|J 6.06|original_inventory
+R2,J 5.46,0,destination_identification,
+R2,J 6.03,0,destination_identification,
+R2,J 6.08,4,distributed_scope,PFEP|J 5.31|original_inventory; PFEP|J 5.32|original_inventory; PFEP|J 7.07|original_inventory; PFEP|J 7.08|original_inventory
+R2,J 6.12,1,single_destination_scope,PFEP|J 6.01|original_inventory
+R2,J 6.14,0,destination_identification,
+R2,J 7.01,0,destination_identification,
+R2,J 7.02,0,destination_identification,
+R2,J 7.03,0,destination_identification,
+R2,M 1.6.05,2,distributed_scope,PFEP|M 1.6.04|original_inventory; PFEP|M 3.3.06|original_inventory
+R2,M 1.7.05,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R2,M 1.7.06,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R2,M 1.7.07,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R2,M 1.7.08,2,distributed_scope,SR_FEP|ProvBio01|SR-Can; SR_FEP|ProvBio04|SR-Can
+R2,M 1.7.09,5,distributed_scope,SR_FEP|ProvBio01|SR-Can; SR_FEP|ProvBio02|SR-Can; SR_FEP|ProvBio03|SR-Can; SR_FEP|ProvBio04|SR-Can; SR_FEP|ProvBio05|SR-Can
+R2,M 2.1.04,1,single_destination_scope,PFEP|M 3.3.02|original_inventory
+R2,M 2.1.07,0,destination_identification,
+R2,M 2.2.01,0,destination_identification,
+R2,M 2.4.06,1,single_destination_scope,SR_FEP|ProvBio05|SR-Can
+R2,M 3.2.04,1,single_destination_scope,PFEP|M 3.2.03|original_inventory
+R2,S 027,0,destination_identification,
+R2,W 1.050,1,single_destination_scope,SAFE_MATRIX_ELEMENT|02.02|SAFE
+R2,W 1.072,9,distributed_scope,SR_FEP|CompBio02|SR-Site; SR_FEP|CompBio03|SR-Site; SR_FEP|CompBio04|SR-Site; SR_FEP|CompBio05|SR-Site; SR_FEP|CompBio06|SR-Site; SR_FEP|CompBio07|SR-Site; SR_FEP|CompBio09|SR-Site; SR_FEP|CompBio10|SR-Site; SR_FEP|CompBio11|SR-Site
+R2,W 2.072,5,distributed_scope,PFEP|W 2.030|original_inventory; PFEP|W 2.043|original_inventory; PFEP|W 2.044|original_inventory; PFEP|W 2.049|original_inventory; PFEP|W 2.093|original_inventory
+R2,W 2.100,0,destination_identification,
+R3,A 1.04,0,destination_identification,
+R3,A 1.10,1,single_destination_scope,SKB_PROCESS|Bu13|SR-Site
+R3,A 1.25,1,single_destination_scope,SKB_PROCESS|Ge23|SR-Site
+R3,A 1.34,8,distributed_scope,PFEP|A 1.01|original_inventory; PFEP|A 1.06|original_inventory; PFEP|A 1.33|original_inventory; PFEP|A 1.51|original_inventory; PFEP|A 1.59|original_inventory; PFEP|A 1.72|original_inventory; SKB_PROCESS|Ge07|SR-Site; SKB_VARIABLE|VarGe06|SR-Site
+R3,A 1.39,0,destination_identification,
+R3,A 1.78,1,single_destination_scope,SKB_VARIABLE|VarF05|SR-Site
+R3,A 1.81,1,single_destination_scope,SKB_PROCESS|Bu13|SR-Site
+R3,A 1.83,5,distributed_scope,PFEP|A 1.02|original_inventory; PFEP|A 1.11|original_inventory; PFEP|A 1.18|original_inventory; PFEP|A 1.52|original_inventory; PFEP|A 1.68|original_inventory
+R3,A 2.32,2,distributed_scope,SKB_PROCESS|Ge15|SR-Site; SKB_VARIABLE|VarGe10|SR-Site
+R3,A 3.085,7,distributed_scope,PFEP|A 3.006|original_inventory; PFEP|A 3.007|original_inventory; PFEP|A 3.018|original_inventory; PFEP|A 3.020|original_inventory; PFEP|A 3.036|original_inventory; PFEP|A 3.079|original_inventory; PFEP|A 3.096|original_inventory
+R3,E SFL-00,0,destination_identification,
+R3,H 1.6.3,1,single_destination_scope,SKB_PROCESS|Bu13|SR-Site
+R3,H 2.2.3,0,destination_identification,
+R3,I 039,2,distributed_scope,SKB_PROCESS|Bu13|SR-Site; SKB_VARIABLE|VarBu11|SR-Site
+R3,I 165,4,distributed_scope,PFEP|I 058|original_inventory; PFEP|I 061|original_inventory; PFEP|I 126|original_inventory; PFEP|I 273|original_inventory
+R3,J 2.3.02,1,single_destination_scope,PFEP|J 2.1.01|original_inventory
+R3,J 3.1.08,0,destination_identification,
+R3,J 3.1.12,1,single_destination_scope,PFEP|J 3.1.01|original_inventory
+R3,J 4.1.03,2,distributed_scope,PFEP|J 4.1.09|original_inventory; PFEP|J 5.45|original_inventory
+R3,J 4.1.07,0,destination_identification,
+R3,J 4.2.02.2,1,single_destination_scope,PFEP|J 4.2.02.1|original_inventory
+R3,J 4.2.02.3,1,single_destination_scope,PFEP|J 4.2.02.1|original_inventory
+R3,J 4.2.05,0,destination_identification,
+R3,J 5.07,0,destination_identification,
+R3,J 5.08,0,destination_identification,
+R3,J 5.18,0,destination_identification,
+R3,J 5.19,0,destination_identification,
+R3,J 5.21,1,single_destination_scope,PFEP|J 5.09|original_inventory
+R3,J 5.23,1,single_destination_scope,PFEP|J 2.3.07.2|original_inventory
+R3,J 5.24,2,distributed_scope,PFEP|J 4.2.02.1|original_inventory; PFEP|J 4.2.07|original_inventory
+R3,J 5.25,1,single_destination_scope,PFEP|J 6.06|original_inventory
+R3,J 5.46,0,destination_identification,
+R3,J 6.03,0,destination_identification,
+R3,J 6.08,4,distributed_scope,PFEP|J 5.31|original_inventory; PFEP|J 5.32|original_inventory; PFEP|J 7.07|original_inventory; PFEP|J 7.08|original_inventory
+R3,J 6.12,1,single_destination_scope,PFEP|J 6.01|original_inventory
+R3,J 6.14,0,destination_identification,
+R3,J 7.01,0,destination_identification,
+R3,J 7.02,0,destination_identification,
+R3,J 7.03,0,destination_identification,
+R3,M 1.6.05,2,distributed_scope,PFEP|M 1.6.04|original_inventory; PFEP|M 3.3.06|original_inventory
+R3,M 1.7.05,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R3,M 1.7.06,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R3,M 1.7.07,1,single_destination_scope,SR_FEP|ProvBio01|SR-Can
+R3,M 1.7.08,2,distributed_scope,SR_FEP|ProvBio01|SR-Can; SR_FEP|ProvBio04|SR-Can
+R3,M 1.7.09,5,distributed_scope,SR_FEP|ProvBio01|SR-Can; SR_FEP|ProvBio02|SR-Can; SR_FEP|ProvBio03|SR-Can; SR_FEP|ProvBio04|SR-Can; SR_FEP|ProvBio05|SR-Can
+R3,M 2.1.04,1,single_destination_scope,PFEP|M 3.3.02|original_inventory
+R3,M 2.1.07,0,destination_identification,
+R3,M 2.2.01,0,destination_identification,
+R3,M 2.4.06,1,single_destination_scope,SR_FEP|ProvBio05|SR-Can
+R3,M 3.2.04,1,single_destination_scope,PFEP|M 3.2.03|original_inventory
+R3,S 027,0,destination_identification,
+R3,W 1.050,1,single_destination_scope,SAFE_MATRIX_ELEMENT|02.02|SAFE
+R3,W 1.072,9,distributed_scope,SR_FEP|CompBio02|SR-Site; SR_FEP|CompBio03|SR-Site; SR_FEP|CompBio04|SR-Site; SR_FEP|CompBio05|SR-Site; SR_FEP|CompBio06|SR-Site; SR_FEP|CompBio07|SR-Site; SR_FEP|CompBio09|SR-Site; SR_FEP|CompBio10|SR-Site; SR_FEP|CompBio11|SR-Site
+R3,W 2.072,0,destination_identification,
+R3,W 2.100,0,destination_identification,

@@ -1,0 +1,6 @@
+weight_set,weights_word_character_title_compatibility,documentary_unresolved_n,sources_with_eligible_pool_n,same_leading_target_as_baseline_n,numeric_cutoff,candidates_at_numeric_cutoff_n,algebraically_equivalent_baseline_cutoff,candidates_at_equivalent_cutoff_n,strict_benchmark_source_n,strict_benchmark_hit_at_1_n,strict_benchmark_hit_at_5_n,strict_benchmark_hit_at_10_n
+Baseline,0.35/0.25/0.25/0.15,164,144,144,0.34,120,,,18,10,13,15
+Equal weights,0.25/0.25/0.25/0.25,164,144,144,0.34,144,,,18,10,13,14
+Text weighted,0.45/0.3/0.15/0.1,164,144,142,0.34,7,,,18,9,14,15
+Title weighted,0.25/0.15/0.45/0.15,164,144,140,0.34,143,,,18,9,12,12
+Compatibility removed and other terms renormalised,0.4117647059/0.2941176471/0.2941176471/0,164,144,144,0.34,6,0.22352941176470592,120.0,18,10,13,15

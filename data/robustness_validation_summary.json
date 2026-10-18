@@ -1,0 +1,62 @@
+{
+  "version": "3.1.0",
+  "nature": "Retrospective reanalysis and synthetic software verification; no independent expert or field validation",
+  "bm25_configs_n": 4,
+  "original_configs_n": 24,
+  "all_configs_n": 28,
+  "bm25": {
+    "candidate_documents_n": 1301,
+    "vocabulary_n": 8805,
+    "average_candidate_tokens": 148.65949269792466,
+    "index_build_seconds": 0.1754845310000519,
+    "scoring_timings": [
+      {
+        "operation": "BM25 scoring 18 unmasked queries; index prebuilt; no sorting or I/O",
+        "repetition": 1,
+        "elapsed_seconds": 0.0018587299999808238
+      },
+      {
+        "operation": "BM25 scoring 18 unmasked queries; index prebuilt; no sorting or I/O",
+        "repetition": 2,
+        "elapsed_seconds": 0.001026063000040267
+      },
+      {
+        "operation": "BM25 scoring 18 unmasked queries; index prebuilt; no sorting or I/O",
+        "repetition": 3,
+        "elapsed_seconds": 0.001065109999899505
+      },
+      {
+        "operation": "BM25 scoring 18 unmasked queries; index prebuilt; no sorting or I/O",
+        "repetition": 4,
+        "elapsed_seconds": 0.0009483079999199617
+      },
+      {
+        "operation": "BM25 scoring 18 unmasked queries; index prebuilt; no sorting or I/O",
+        "repetition": 5,
+        "elapsed_seconds": 0.0009262359999411274
+      }
+    ]
+  },
+  "resampling": {
+    "seed": 20261017,
+    "draws": 10000,
+    "resampling_unit": "source with entire endpoint set; identical draws for paired methods",
+    "inference_limit": "Purposive, clustered internal benchmark: intervals are conditional sensitivity summaries, not population generalization."
+  },
+  "synthetic_faults_n": 13,
+  "synthetic_faults_flagged_n": 13,
+  "control_preserves_review_tasks": true,
+  "input_sha256": {
+    "record_endpoint_metrics_by_source.csv": "7ece3e91aef7fd6eef096d440ce042e4832880df9bcbd66a2fc59e532a2a3684",
+    "retrieval_rank_comparison_pairs.csv": "609f9486375e7e793174cfb656c2bd86415bdd6ad068f240f18120085445df5a",
+    "retrieval_benchmark_query_texts.csv": "679f1d514e8e7ceb00d3dc61b0b6282d82de0f7913b955d08d8102d3c2f79407",
+    "pfep_relevance_population_1671.csv": "4cb19375703adc4f5b4eb4ff6935e01cc3c911a0fffa067ae678e17f9fb70a56",
+    "not_relevant_370_normalized.csv": "e93261c304ee9baaf9e942da7864e10479de37904be4157ed03c5624db4b2f2a",
+    "coverage_evidence_200.csv": "7d42bea97ccfec0186310a5c99e61a59985eb6d9a0ae74b7dea54ebde4efeb5a"
+  },
+  "total_elapsed_seconds": 0.8561035029999857,
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.41",
+  "cpu": "",
+  "analysis_stage": "retrospective descriptive analysis"
+}

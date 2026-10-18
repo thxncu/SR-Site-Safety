@@ -1,0 +1,150 @@
+source_pfep_id,source_pfep_name,project_letter,target_pfep_id,target_pfep_name,method,shared_ifep_count,shared_ifep_ids,documentary_unresolved,relation_origin,official_coverage_relation
+H 2.2.3,Groundwater flow,H,S 049,Groundwater flow,normalized_exact_title,1,2.2.07,1,analytical_lookup,0
+H 2.2.3,Groundwater flow,H,E GEN-23,Groundwater flow,normalized_exact_title,1,2.2.07,1,analytical_lookup,0
+I 165,Interfaces (boundary conditions),I,A 1.47,Interfaces (boundary conditions),normalized_exact_title,0,,0,analytical_lookup,0
+J 6.08,Human induced climate change,J,K 11.09,Human-induced climate change,normalized_exact_title,1,1.4.01,0,analytical_lookup,0
+M 2.4.06,Land use changes,M,W 3.040,Land use changes,normalized_exact_title,1,1.4.06,0,analytical_lookup,0
+N 1.1.1,Meteorite Impact,N,A 2.43,Meteorite impact,normalized_exact_title,1,1.5.01,1,analytical_lookup,0
+N 1.1.1,Meteorite Impact,N,H 5.2.1,Meteorite impact,normalized_exact_title,1,1.5.01,1,analytical_lookup,0
+N 1.1.1,Meteorite Impact,N,I 197,Meteorite impact,normalized_exact_title,1,1.5.01,1,analytical_lookup,0
+N 1.1.1,Meteorite Impact,N,M 1.1.01,Meteorite impact,normalized_exact_title,1,1.5.01,1,analytical_lookup,0
+N 1.1.2,Solar insolation,N,M 1.1.02,Solar insolation,normalized_exact_title,1,1.3.01,1,analytical_lookup,0
+N 1.2.1,Plate movement/tectonic change,N,M 1.2.01,Plate movement  tectonic change,normalized_exact_title,1,1.2.01,1,analytical_lookup,0
+N 1.2.10,Fault generation,N,M 1.2.10,Fault generation,normalized_exact_title,1,1.2.02,1,analytical_lookup,0
+N 1.2.11,Rock heterogeneity,N,M 1.2.11,Rock heterogeneity,normalized_exact_title,2,2.2.02; 2.2.03,1,analytical_lookup,0
+N 1.2.12,Undetected features,N,M 1.2.12,Undetected features,normalized_exact_title,1,2.2.12,1,analytical_lookup,0
+N 1.2.13,Natural gas intrusion,N,W 1.032,Natural gas intrusion,normalized_exact_title,1,2.2.11,1,analytical_lookup,0
+N 1.2.13,Natural gas intrusion,N,M 1.2.13,Natural gas intrusion,normalized_exact_title,1,2.2.11,1,analytical_lookup,0
+N 1.2.5,Diagenesis,N,J 7.10,Diagenesis,normalized_exact_title,1,1.2.08,1,analytical_lookup,0
+N 1.2.5,Diagenesis,N,H 2.1.4,Diagenesis,normalized_exact_title,1,1.2.08,1,analytical_lookup,0
+N 1.2.5,Diagenesis,N,M 1.2.05,Diagenesis,normalized_exact_title,1,1.2.08,1,analytical_lookup,0
+N 1.2.6,Uplift and subsidence,N,J 5.16,Uplift and subsidence,normalized_exact_title,1,1.2.01,1,analytical_lookup,0
+N 1.2.6,Uplift and subsidence,N,M 1.2.06,Uplift and subsidence,normalized_exact_title,1,1.2.01,1,analytical_lookup,0
+N 1.2.6,Uplift and subsidence,N,E GEN-39,Uplift and subsidence,normalized_exact_title,0,,1,analytical_lookup,0
+N 1.2.8,Seismicity,N,H 2.1.6,Seismicity,normalized_exact_title,1,1.2.03,1,analytical_lookup,0
+N 1.2.9,Fault activation,N,M 1.2.09,Fault activation,normalized_exact_title,1,1.2.02,1,analytical_lookup,0
+N 1.3.1,"Precipitation, temperature and soil water balance",N,M 1.3.01,"Precipitation, temperature and soil water balance",normalized_exact_title,2,2.3.10; 2.3.11,1,analytical_lookup,0
+N 1.3.3,"Coastal surge, storms and hurricanes",N,M 1.3.03,"Coastal surge, storms and hurricanes",normalized_exact_title,2,2.3.05; 2.3.10,1,analytical_lookup,0
+N 1.3.6,Glaciation,N,A 1.38,Glaciation,normalized_exact_title,1,1.3.05,1,analytical_lookup,0
+N 1.3.6,Glaciation,N,A 2.30,Glaciation,normalized_exact_title,1,1.3.05,1,analytical_lookup,0
+N 1.3.6,Glaciation,N,A 3.057,Glaciation,normalized_exact_title,1,1.3.05,1,analytical_lookup,0
+N 1.3.6,Glaciation,N,J 5.42,Glaciation,normalized_exact_title,1,1.3.05,1,analytical_lookup,0
+N 1.3.6,Glaciation,N,S 047,Glaciation,normalized_exact_title,1,1.3.05,1,analytical_lookup,0
+N 1.3.6,Glaciation,N,W 1.062,Glaciation,normalized_exact_title,1,1.3.05,1,analytical_lookup,0
+N 1.3.6,Glaciation,N,E GEN-21,Glaciation,normalized_exact_title,1,1.3.05,1,analytical_lookup,0
+N 1.3.7,No ice age,N,J 6.10,No ice age,normalized_exact_title,1,1.3.01,1,analytical_lookup,0
+N 1.4.1,Land slide,N,M 1.4.01,Land slide,normalized_exact_title,1,2.3.01,1,analytical_lookup,0
+N 1.4.2,Denudation,N,M 1.4.02,Denudation,normalized_exact_title,1,2.3.12,1,analytical_lookup,0
+N 1.4.3,"River, stream, channel erosion",N,M 1.4.03,"River, stream, channel erosion",normalized_exact_title,1,2.3.12,1,analytical_lookup,0
+N 1.4.5,Freshwater sediment transport and deposition,N,M 1.4.05,Freshwater sediment transport and deposition,normalized_exact_title,1,2.3.04,1,analytical_lookup,0
+N 1.4.6,Coastal erosion and estuarine development,N,M 1.4.06,Coastal erosion and estuarine development,normalized_exact_title,2,2.3.05; 2.3.12,1,analytical_lookup,0
+N 1.4.7,Marine sediment transport and deposition,N,W 1.067,Marine sediment transport and deposition,normalized_exact_title,1,2.3.06,1,analytical_lookup,0
+N 1.4.7,Marine sediment transport and deposition,N,M 1.4.07,Marine sediment transport and deposition,normalized_exact_title,2,2.3.06; 2.3.12,1,analytical_lookup,0
+N 1.5.1,River flow and lake level changes,N,M 1.5.01,River flow and lake level changes,normalized_exact_title,1,2.3.04,1,analytical_lookup,0
+N 1.5.2,Site flooding,N,M 1.5.02,Site flooding,normalized_exact_title,2,1.1.12; 1.4.06,1,analytical_lookup,0
+N 1.5.4,Groundwater discharge,N,W 1.053,Groundwater discharge,normalized_exact_title,0,,1,analytical_lookup,0
+N 1.5.5,Groundwater flow,N,S 049,Groundwater flow,normalized_exact_title,1,2.2.07,1,analytical_lookup,0
+N 1.5.5,Groundwater flow,N,E GEN-23,Groundwater flow,normalized_exact_title,1,2.2.07,1,analytical_lookup,0
+N 1.5.7,Saline or freshwater intrusion,N,M 1.5.07,Saline or freshwater intrusion,normalized_exact_title,2,2.2.07; 2.2.08,1,analytical_lookup,0
+N 1.5.8,Effects at saline-freshwater interface,N,M 1.5.08,Effects at saline-freshwater interface,normalized_exact_title,1,2.2.08,1,analytical_lookup,0
+N 1.5.9,Natural thermal effects,N,M 1.5.09,Natural thermal effects,normalized_exact_title,1,2.2.10,1,analytical_lookup,0
+N 1.6.1,Advection and dispersion,N,M 1.6.01,Advection and dispersion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.10,Complexing agents,N,J 4.1.09,Complexing agents,normalized_exact_title,1,3.2.05,1,analytical_lookup,0
+N 1.6.10,Complexing agents,N,M 1.6.10,Complexing agents,normalized_exact_title,1,3.2.05,1,analytical_lookup,0
+N 1.6.11,Fracture mineralisation and weathering,N,M 1.6.11,Fracture mineralisation and weathering,normalized_exact_title,2,2.2.05; 2.2.08,1,analytical_lookup,0
+N 1.6.12,Accumulation in soils and organic debris,N,M 1.6.12,Accumulation in soils and organic debris,normalized_exact_title,2,2.3.02; 3.2.03,1,analytical_lookup,0
+N 1.6.13,"Mass, isotopic and species dilution",N,M 1.6.13,"Mass, isotopic and species dilution",normalized_exact_title,1,0.10,1,analytical_lookup,0
+N 1.6.14,Chemical gradients,N,A 1.09,Chemical gradients,normalized_exact_title,0,,1,analytical_lookup,0
+N 1.6.14,Chemical gradients,N,W 2.097,Chemical gradients,normalized_exact_title,1,2.2.08,1,analytical_lookup,0
+N 1.6.2,Diffusion,N,A 1.27,Diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.2,Diffusion,N,A 2.16,Diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.2,Diffusion,N,S 023,Diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.2,Diffusion,N,W 2.091,Diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.2,Diffusion,N,M 1.6.02,Diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.2,Diffusion,N,E GEN-09,Diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,A 2.41,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,J 4.1.05,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,S 054,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,K 5.06,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,K 6.06,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,W 2.092,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,M 1.6.03,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.3,Matrix diffusion,N,E GEN-25,Matrix diffusion,normalized_exact_title,1,3.2.07,1,analytical_lookup,0
+N 1.6.4,Gas mediated transport,N,M 1.6.04,Gas mediated transport,normalized_exact_title,1,3.2.09,1,analytical_lookup,0
+N 1.6.6,Solubility limit,N,M 1.6.06,Solubility limit,normalized_exact_title,1,3.2.02,1,analytical_lookup,0
+N 1.6.7,Sorption,N,A 1.73,Sorption,normalized_exact_title,1,3.2.03,1,analytical_lookup,0
+N 1.6.7,Sorption,N,A 2.62,Sorption,normalized_exact_title,1,3.2.03,1,analytical_lookup,0
+N 1.6.7,Sorption,N,J 4.1.04,Sorption,normalized_exact_title,1,3.2.03,1,analytical_lookup,0
+N 1.6.7,Sorption,N,S 084,Sorption,normalized_exact_title,1,3.2.03,1,analytical_lookup,0
+N 1.6.7,Sorption,N,K 5.09,Sorption,normalized_exact_title,1,3.2.03,1,analytical_lookup,0
+N 1.6.7,Sorption,N,K 6.09,Sorption,normalized_exact_title,1,3.2.03,1,analytical_lookup,0
+N 1.6.7,Sorption,N,M 1.6.07,Sorption,normalized_exact_title,1,3.2.03,1,analytical_lookup,0
+N 1.7.1,Plant uptake,N,W 2.101,Plant uptake,normalized_exact_title,1,3.2.11,1,analytical_lookup,0
+N 1.7.1,Plant uptake,N,M 1.7.01,Plant uptake,normalized_exact_title,2,2.3.08; 3.2.11,1,analytical_lookup,0
+N 1.7.10,Plant and animal evolution,N,M 1.7.10,Plant and animal evolution,normalized_exact_title,1,1.5.02,1,analytical_lookup,0
+N 1.7.2,Animal uptake,N,W 2.102,Animal uptake,normalized_exact_title,1,3.2.11,1,analytical_lookup,0
+N 1.7.2,Animal uptake,N,M 1.7.02,Animal uptake,normalized_exact_title,2,2.3.09; 3.2.11,1,analytical_lookup,0
+N 1.7.3,Uptake by deep rooting species,N,M 1.7.03,Uptake by deep rooting species,normalized_exact_title,2,2.3.08; 3.2.11,1,analytical_lookup,0
+N 1.7.4,Soil and sediment bioturbation,N,M 1.7.04,Soil and sediment bioturbation,normalized_exact_title,2,2.3.02; 3.2.11,1,analytical_lookup,0
+N 2.1.1,Undetected past intrusions,N,M 2.1.01,Undetected past intrusions,normalized_exact_title,2,1.1.01; 2.2.12,1,analytical_lookup,0
+N 2.1.3,Shaft or access tunnel seal failure and degradation,N,M 2.1.03,Shaft or access tunnel seal failure and degradation,normalized_exact_title,1,2.1.05,1,analytical_lookup,0
+N 2.1.5,Dewatering of host rock,N,M 2.1.05,Dewatering of host rock,normalized_exact_title,2,1.1.02; 2.1.08,1,analytical_lookup,0
+N 2.1.8,Poor quality construction,N,M 2.1.08,Poor quality construction,normalized_exact_title,1,1.1.08,1,analytical_lookup,0
+N 2.2,OPERATION AND CLOSURE,N,N 2.2.12,Effects of phased operation,same_inventory_identifier_descendant,0,,1,analytical_lookup,0
+N 2.2.10,Poor closure,N,M 2.2.10,Poor closure,normalized_exact_title,1,1.1.04,1,analytical_lookup,0
+N 2.2.11,Post-closure monitoring,N,M 2.2.11,Post-closure monitoring,normalized_exact_title,1,1.1.11,1,analytical_lookup,0
+N 2.2.2,"Inadequate backfill or compaction, voidage",N,M 2.2.02,Inadequate backfill or compaction voidage,normalized_exact_title,3,1.1.03; 1.1.08; 2.1.04,1,analytical_lookup,0
+N 2.2.6,Accidents during operation,N,J 5.10,Accidents during operation,normalized_exact_title,1,1.1.12,1,analytical_lookup,0
+N 2.2.6,Accidents during operation,N,M 2.2.06,Accidents during operation,normalized_exact_title,1,1.1.12,1,analytical_lookup,0
+N 2.2.7,Sabotage,N,A 2.56,Sabotage,normalized_exact_title,1,1.1.12,1,analytical_lookup,0
+N 2.2.7,Sabotage,N,M 2.2.07,Sabotage,normalized_exact_title,1,1.1.12,1,analytical_lookup,0
+N 2.2.8,Repository flooding during operation,N,M 2.2.08,Repository flooding during operation,normalized_exact_title,1,1.1.12,1,analytical_lookup,0
+N 2.2.9,Abandonment of unsealed repository,N,M 2.2.09,Abandonment of unsealed repository	,normalized_exact_title,1,1.1.04,1,analytical_lookup,0
+N 2.3.1,Recovery of repository materials,N,M 2.3.01,Recovery of repository materials,normalized_exact_title,2,1.4.02; 1.4.05,1,analytical_lookup,0
+N 2.3.10,Injection of liquid wastes,N,M 2.3.10,Injection of liquid wastes,normalized_exact_title,1,1.4.04,1,analytical_lookup,0
+N 2.3.12,Underground nuclear testing,N,M 2.3.12,Underground nuclear testing,normalized_exact_title,1,1.4.11,1,analytical_lookup,0
+N 2.3.2,Malicious intrusion,N,H 5.2.3,Malicious intrusion,normalized_exact_title,1,1.4.02,1,analytical_lookup,0
+N 2.3.2,Malicious intrusion,N,M 2.3.02,Malicious intrusion,normalized_exact_title,1,1.4.02,1,analytical_lookup,0
+N 2.3.3,Exploratory drilling,N,K 11.01,Exploratory drilling,normalized_exact_title,1,1.4.04,1,analytical_lookup,0
+N 2.3.3,Exploratory drilling,N,M 2.3.03,Exploratory drilling,normalized_exact_title,1,1.4.04,1,analytical_lookup,0
+N 2.3.5,Geothermal energy production,N,J 5.34,Geothermal energy production,normalized_exact_title,1,1.4.05,1,analytical_lookup,0
+N 2.3.5,Geothermal energy production,N,M 2.3.05,Geothermal energy production,normalized_exact_title,2,1.4.04; 1.4.05,1,analytical_lookup,0
+N 2.3.6,Resource mining,N,M 2.3.06,Resource mining,normalized_exact_title,1,1.4.05,1,analytical_lookup,0
+N 2.3.8,Underground construction,N,M 2.3.08,Underground construction,normalized_exact_title,1,1.4.05,1,analytical_lookup,0
+N 2.3.9,Archaeological investigation,N,M 2.3.09,Archaeological investigation,normalized_exact_title,1,1.4.02,1,analytical_lookup,0
+N 2.4.1,Loss of records,N,J 7.09,Loss of records,normalized_exact_title,1,1.4.02,1,analytical_lookup,0
+N 2.4.1,Loss of records,N,W 3.057,Loss of records,normalized_exact_title,1,1.4.02,1,analytical_lookup,0
+N 2.4.1,Loss of records,N,I 190,Loss of records ,normalized_exact_title,1,1.4.02,1,analytical_lookup,0
+N 2.4.1,Loss of records,N,M 2.4.01,Loss of records,normalized_exact_title,2,1.4.02; 1.4.08,1,analytical_lookup,0
+N 2.4.2,"Dams and reservoirs, built/drained",N,M 2.4.02,"Dams and reservoirs, built/drained",normalized_exact_title,1,1.4.07,1,analytical_lookup,0
+N 2.4.4,Irrigation,N,A 3.073,Irrigation,normalized_exact_title,1,2.4.09,1,analytical_lookup,0
+N 2.4.4,Irrigation,N,K 8.33,Irrigation,normalized_exact_title,1,2.4.09,1,analytical_lookup,0
+N 2.4.4,Irrigation,N,W 3.044,Irrigation,normalized_exact_title,0,,1,analytical_lookup,0
+N 2.4.4,Irrigation,N,M 2.4.04,Irrigation,normalized_exact_title,1,2.4.09,1,analytical_lookup,0
+N 2.4.5,Altered soil or surface water chemistry,N,M 2.4.05,Altered soil or surface water chemistry,normalized_exact_title,1,1.4.06,1,analytical_lookup,0
+N 2.4.6,Land use changes,N,W 3.040,Land use changes,normalized_exact_title,1,1.4.06,1,analytical_lookup,0
+N 2.4.7,Agricultural and fisheries practice changes,N,M 2.4.07,Agricultural and fisheries practice changes,normalized_exact_title,2,1.4.06; 2.4.09,1,analytical_lookup,0
+N 2.4.8,"Demographic change, urban development",N,M 2.4.08,"Demographic change, urban development",normalized_exact_title,2,1.4.06; 2.4.10,1,analytical_lookup,0
+N 3.1.1,Differential elastic response,N,M 3.1.01,Differential elastic response,normalized_exact_title,3,2.1.07; 2.1.11; 2.2.06,1,analytical_lookup,0
+N 3.1.3,Host rock fracture aperture changes,N,M 3.1.03,Host rock fracture aperture changes,normalized_exact_title,2,2.1.11; 2.2.05,1,analytical_lookup,0
+N 3.1.5,Induced chemical changes,N,M 3.1.05,Induced chemical changes,normalized_exact_title,3,2.1.09; 2.1.11; 2.2.04,1,analytical_lookup,0
+N 3.2.1,Metallic corrosion,N,M 3.2.01,Metallic corrosion,normalized_exact_title,3,2.1.02; 2.1.03; 2.1.06,1,analytical_lookup,0
+N 3.2.3,Interactions of waste and repository materials with host materials,N,M 3.2.03,Interactions of waste and repository materials with host materials,normalized_exact_title,1,2.2.08,1,analytical_lookup,0
+N 3.2.7,Microbiological effects,N,M 3.2.07,Microbiological effects,normalized_exact_title,2,2.1.10; 3.2.06,1,analytical_lookup,0
+N 3.3.1,Canister or container movement,N,M 3.3.01,Canister or container movement,normalized_exact_title,1,2.1.07,1,analytical_lookup,0
+N 3.3.2,Changes in in-situ stress field,N,M 3.3.02,Changes in in-situ stress field,normalized_exact_title,2,2.1.07; 2.2.06,1,analytical_lookup,0
+N 3.3.3,Embrittlement and cracking,N,M 3.3.03,Embrittlement and cracking,normalized_exact_title,2,2.1.02; 2.1.03,1,analytical_lookup,0
+N 3.3.4,Subsidence/collapse,N,M 3.3.04,Subsidence/collapse	,normalized_exact_title,1,2.1.07,1,analytical_lookup,0
+N 3.3.5,Fracturing,N,M 3.3.05,Fracturing	,normalized_exact_title,2,2.1.07; 2.2.04,1,analytical_lookup,0
+N 3.3.6,Gas effects,N,M 3.3.06,Gas effects,normalized_exact_title,1,2.1.12,1,analytical_lookup,0
+N 3.4.1,Radiolysis,N,A 1.66,Radiolysis,normalized_exact_title,1,2.1.13,1,analytical_lookup,0
+N 3.4.1,Radiolysis,N,J 1.2.01,Radiolysis,normalized_exact_title,1,2.1.13,1,analytical_lookup,0
+N 3.4.1,Radiolysis,N,J 3.1.09,Radiolysis,normalized_exact_title,1,2.1.13,1,analytical_lookup,0
+N 3.4.1,Radiolysis,N,S 071,Radiolysis,normalized_exact_title,1,2.1.13,1,analytical_lookup,0
+N 3.4.1,Radiolysis,N,K 3.19,Radiolysis,normalized_exact_title,1,2.1.13,1,analytical_lookup,0
+N 3.4.1,Radiolysis,N,M 3.4.01,Radiolysis,normalized_exact_title,1,2.1.13,1,analytical_lookup,0
+N 3.4.1,Radiolysis,N,E GEN-30,Radiolysis,normalized_exact_title,1,2.1.13,1,analytical_lookup,0
+N 3.4.3,Nuclear criticality,N,H 1.3.2,Nuclear criticality,normalized_exact_title,1,2.1.14,1,analytical_lookup,0
+N 3.4.3,Nuclear criticality,N,K 0.4,Nuclear criticality,normalized_exact_title,1,2.1.14,1,analytical_lookup,0
+N 3.4.3,Nuclear criticality,N,M 3.4.03,Nuclear criticality,normalized_exact_title,1,2.1.14,1,analytical_lookup,0
+N 3.4.4,Radioactive decay and ingrowth,N,H 1.3.1,Radioactive decay and ingrowth,normalized_exact_title,1,3.1.01,1,analytical_lookup,0

@@ -1,0 +1,9 @@
+scope,source_population_n,method,eligibility_rule,sources_with_candidates_n,candidate_relations_n,sources_with_multiple_candidates_n,candidate_relations_without_shared_ifep_n,project_N_sources_n
+All coverage decisions,200,normalized_exact_title,No taxonomy restriction,90,148,24,5,86
+All coverage decisions,200,normalized_exact_title,Shared IFEP required,88,143,23,0,85
+All coverage decisions,200,same_inventory_identifier_descendant,No taxonomy restriction,1,1,0,1,1
+All coverage decisions,200,same_inventory_identifier_descendant,Shared IFEP required,0,0,0,0,0
+Documentary unresolved,164,normalized_exact_title,No taxonomy restriction,87,145,24,4,86
+Documentary unresolved,164,normalized_exact_title,Shared IFEP required,86,141,23,0,85
+Documentary unresolved,164,same_inventory_identifier_descendant,No taxonomy restriction,1,1,0,1,1
+Documentary unresolved,164,same_inventory_identifier_descendant,Shared IFEP required,0,0,0,0,0

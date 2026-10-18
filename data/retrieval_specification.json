@@ -1,0 +1,80 @@
+{
+  "purpose": "Auxiliary source-record retrieval, separate from documentary provenance classification",
+  "source_text_fields": [
+    "pfep_description",
+    "pfep_comments",
+    "comments_needs_discussion",
+    "assessment_basis_comment"
+  ],
+  "candidate_text_fields": [
+    "pfep_name",
+    "pfep_description",
+    "pfep_comments"
+  ],
+  "source_title_in_baseline_TFIDF": false,
+  "candidate_title_in_TFIDF": true,
+  "TFIDF_fit_corpus": "All covered-elsewhere source texts plus all relevant candidate texts",
+  "word_vectoriser": {
+    "stop_words": "english",
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 30000
+  },
+  "character_vectoriser": {
+    "analyzer": "char_wb",
+    "ngram_range": [
+      3,
+      5
+    ],
+    "max_features": 40000
+  },
+  "fitted_vocabulary_sizes": {
+    "word": 30000,
+    "character": 40000
+  },
+  "title_similarity": "2*longest_common_subsequence_length/(combined_normalised_title_length); missing titles supply zero evidence",
+  "baseline_weights_word_character_title_compatibility": [
+    0.35,
+    0.25,
+    0.25,
+    0.15
+  ],
+  "compatibility": "Indicator of at least one shared stored IFEP identifier",
+  "primary_eligibility": "Shared IFEP required before ranking; source identifier excluded",
+  "documentary_unresolved_definition": "No resolvable record-level documentary destination at any inspected stage, including earlier SKB and original-inventory associations; fixed independently of retrieval",
+  "alternative_documentary_subset": "The supplied no_resolved_relevant_destination flag identifies records without a resolved relevant PFEP or stage-qualified SKB destination; it is preserved separately",
+  "known_relations_removed_from_candidate_pool": false,
+  "tie_rule": "Descending score, then ascending PFEP identifier",
+  "primary_exploratory_threshold": 0.34,
+  "threshold_grid": [
+    0.3,
+    0.34,
+    0.38,
+    0.42,
+    0.46,
+    0.5
+  ],
+  "models": {
+    "baseline_text_fields": "Source title excluded from source TF-IDF; candidate title included; original four score terms.",
+    "title_only_ablation": "Title-only ranking with score 0.25*T + 0.15*f; original title and compatibility coefficients retained without renormalisation.",
+    "missing_text_title_fallback": "Only empty source-text queries are transformed from their title using the already fitted vectorisers; nonempty queries and the candidate representation are unchanged."
+  },
+  "title_ablation_score_range_under_shared_IFEP": [
+    0.15,
+    0.4
+  ],
+  "title_ablation_primary_threshold_equivalent_title_similarity": 0.7600000000000001,
+  "fallback_fit_policy": "Vectorisers and candidate vectors remain fixed; only genuinely empty source-text queries are transformed from their titles",
+  "fallback_adds_new_source_information": false,
+  "fallback_interpretation": "The existing title is reused in text similarity components; missing descriptive content is not imputed",
+  "benchmark_primary_scope": "Source-verified, unambiguous directional treatment/replacement/lumping endpoints identified in the original source inventory and available in the relevant candidate pool",
+  "benchmark_broader_scope": "Other source-verified directional references, including contextual links, reported separately",
+  "benchmark_query_reference_masking": "None: the internal check retrieves references present in the source fields; it is not held-out prediction of undocumented coverage",
+  "benchmark_denominator": "Every included source remains a case even when none of its source endpoints passes the taxonomy gate",
+  "hit_at_k_definition": "Fraction of source cases with at least one source-specified endpoint among the first k candidates",
+  "independent_domain_validation": false,
+  "provenance_limit": "Original-inventory references do not establish SKB adoption, exhaustive physical coverage or scenario adequacy",
+  "threshold_interpretation": "An exploratory score rule, not a calibrated probability or a documentary state"
+}

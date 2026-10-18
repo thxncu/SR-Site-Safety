@@ -1,0 +1,4 @@
+rule,selection,sources_n,resolved_sources_n,destination_identification_n,single_destination_scope_n,distributed_scope_n,sources_resolved_only_by_R1
+R1,Principal identity rule,55,36,19,17,19,
+R2,Relevant PFEP or stage-qualified SKB target,55,35,20,16,19,J 5.18
+R3,R2 with contextual-only relation types excluded,55,33,22,20,13,A 1.39; J 5.18; W 2.072
